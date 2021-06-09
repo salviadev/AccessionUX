@@ -1,6 +1,5 @@
 {
   "type": "object",
-  "name": "ArticleDetailView",
   "properties": {
     "id": {
       "type": "integer"

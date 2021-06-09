@@ -1,6 +1,5 @@
 {
   "type": "object",
-  "name": "ArticleDetailView",
   "allOf": [
     {
       "$ref": "#/definitions/paginated-list"
