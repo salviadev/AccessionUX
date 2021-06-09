@@ -1,0 +1,120 @@
+{
+    "name": "inspector",
+    "datasets": {
+        "main": {
+            "$type": "basic",
+            "$data": {
+                "$factory": "inspector.load-session-info"
+            }
+        }
+    },
+    "$type": "block",
+    "$items": [
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$type": "block",
+                    "$items": [
+                        {
+                            "$bind": "instances",
+                            "$widget": "array-actions",
+                            "options": {
+                                "options": {
+                                    "icon": "bars",
+                                    "titleIsHidden": false
+                                },
+                                "right": false,
+                                "links": [
+                                    {
+                                        "name": "refresh",
+                                        "options": {
+                                            "type": "primary"
+                                        },
+                                        "important": true
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "$type": "row",
+                    "$items": [
+                        {
+                            "$items": [
+                                {
+                                    "$bind": "instances",
+                                    "$widget": "basicgrid",
+                                    "options": {
+                                        "striped": true,
+                                        "scrolling": {
+                                            "vertical": true
+                                        },
+                                        "minHeight": 150,
+                                        "bottom": 100,
+                                        "selecting": {
+                                            "row": true,
+                                            "cell": false,
+                                            "multiselect": false,
+                                            "selectAll": false
+                                        },
+                                        "expandingProperty": "instances",
+                                        "editing": false,
+                                        "expanding": {
+                                            "selectChildren": false
+                                        },
+                                        "border": true,
+                                        "allowColumnResize": false,
+                                        "allowFrozenColumns": false,
+                                        "columns": [
+                                            {
+                                                "$bind": "$expand",
+                                                "options": {
+                                                    "display": "id",
+                                                    "width": "100%"
+                                                }
+                                            },
+                                            {
+                                                "$bind": "status",
+                                                "options": {
+                                                    "width": "10em",
+                                                    "transform": "display-inspector-status"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+                            "$colSize": 6
+                        },
+                        {
+                            "$items": [
+                                {
+                                    "$bind": "instanceasstring",
+                                    "options": {
+                                        "titleIsHidden": true,
+                                        "readOnly": "true",
+                                        "styles": "ml-1"
+                                    }
+                                }
+                            ],
+                            "$colSize": 6
+                        }
+                    ]
+                },
+                {
+                    "$type": "block",
+                    "$items": [
+                        {
+                            "$bind": "totalInstances",
+                            "$readOnly": true
+                        }
+                    ],
+                    "$inline": true
+                }
+            ]
+        }
+    ],
+    "form": true
+}

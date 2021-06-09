@@ -1,0 +1,21 @@
+{
+    "name": "parametrage-procedure-models",
+    "$menus": {
+        "left": "detail"
+    },
+    "$items": [
+        {
+            "$config": {
+                "$titleIsHidden": false,
+                "form": {
+                    "name": "editions/forms/parametrage-procedure-models",
+                    "meta": "editions/metas/parametrage-procedure-models",
+                    "controller": "accession.sync.editions.parametrage-procedure-models.controller"
+                },
+                "$type": "form",
+                "$title": "Paramétrage des éditions"
+            }
+        }
+    ],
+    "$type": "block"
+}

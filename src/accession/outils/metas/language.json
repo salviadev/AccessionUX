@@ -1,0 +1,20 @@
+{
+    "type": "object",
+    "properties": {
+        "lang": {
+            "title": "Langue",
+            "type": "string",
+            "enum": {
+                "arrayProperty": "languages",
+                "code": "code",
+                "title": "title"
+            }
+        }
+    },
+    "links": {
+        "save": {
+            "title": "Appliquer",
+            "isApply": true
+        }
+    }
+}

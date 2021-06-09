@@ -1,0 +1,202 @@
+{
+    "type": "object",
+    "title": "Model du paramétrage de publipostage",
+    "primaryKey": "id",
+    "name": "ParametrageEditionModelsProcedureView",
+    "properties": {
+        "id": {
+            "type": "integer"
+        },
+        "modelsList": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/Model"
+            },
+            "links": {
+                "new": {
+                    "title": "Modèle",
+                    "isNew": true,
+                    "ux": true
+                },
+                "update": {
+                    "title": "",
+                    "isAction": true,
+                    "ux": true,
+                    "select": {
+                        "multiselect": false
+                    }
+                },
+                "modify": {
+                    "title": ""
+                },
+                "upload": {
+                    "title": ""
+                },
+                "download": {
+                    "title": "Télécharger",
+                    "isAction": true,
+                    "ux": true,
+                    "select": {},
+                    "noRights": true
+                },
+                "$remove": {
+                    "title": "",
+                    "confirm": {
+                        "message": "Confirmez-vous la suppression de ce modèle ?"
+                    },
+                    "isRemove": true,
+                    "select": {}
+                }
+            }
+        },
+        "procedure": {
+            "type": "object",
+            "properties": {
+                "code": {
+                    "title": "Code procédure",
+                    "type": "string",
+                    "format": "code"
+                },
+                "libelle": {
+                    "title": "Procédure",
+                    "type": "string"
+                }
+            },
+            "states": {
+                "code": {
+                    "isReadOnly": true
+                },
+                "libelle": {
+                    "isReadOnly": true
+                }
+            }
+        },
+        "action": {
+            "type": "object",
+            "properties": {
+                "code": {
+                    "title": "Code action",
+                    "type": "string",
+                    "format": "code"
+                },
+                "libelle": {
+                    "title": "Action",
+                    "type": "string"
+                }
+            },
+            "states": {
+                "code": {
+                    "isReadOnly": true
+                },
+                "libelle": {
+                    "isReadOnly": true
+                }
+            }
+        },
+        "codeExpe": {
+            "title": "Expéditeur",
+            "type": "string",
+            "enum": {
+                "arrayProperty": "expediteursList",
+                "code": "code",
+                "title": "libelle"
+            }
+        },
+        "codeDest": {
+            "title": "Destinataire",
+            "type": "string",
+            "enum": {
+                "arrayProperty": "destinatairesList",
+                "code": "code",
+                "title": "libelle"
+            }
+        },
+        "codeSign1": {
+            "title": "Signataire 1",
+            "type": "string",
+            "nullable": true,
+            "enum": {
+                "arrayProperty": "signatairesList",
+                "code": "code",
+                "title": "libelle"
+            }
+        },
+        "codeSign2": {
+            "title": "Signataire 2",
+            "type": "string",
+            "nullable": true,
+            "enum": {
+                "arrayProperty": "signatairesList",
+                "code": "code",
+                "title": "libelle"
+            }
+        },
+        "uploadUrl": {
+            "type": "string"
+        }
+    },
+    "states":{
+        "codeExpe": {
+            "isMandatory": true
+        },
+        "codeDest": {
+            "isMandatory": true
+        }
+    },
+    "links": {
+        "$save": {
+            "description": "Appliquer",
+            "isSave": true
+        },
+        "cancel": {
+            "ux": true,
+            "title": "Retour",
+            "description": "Retour",
+            "noRights": true
+        }
+    },
+    "definitions": {
+        "Model": {
+            "type": "object",
+            "primaryKey": "id",
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "code": {
+                    "format": "code",
+                    "type": "string",
+                    "title": "Code"
+                },
+                "libelle": {
+                    "type": "string",
+                    "title": "Libellé"
+                },
+                "objet": {
+                    "type": "string",
+                    "title": "Objet"
+                },
+                "courrier": {
+                    "type": "string",
+                    "title": "Courrier"
+                },
+                "typeDoc": {
+                    "type": "string",
+                    "title": "Type"
+                },
+                "proprietaire": {
+                    "type": "string",
+                    "title": "Propriétaire"
+                },
+                "defaultModel": {
+                    "type": "boolean",
+                    "title": "Par défaut"
+                },
+                "modelLink": {
+                    "type": "string",
+                    "title": "Lien"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "documents",
+    "$menus": {
+        "left": "detail"
+    },
+    "$items": [
+        {
+            "$config": {
+                "$titleIsHidden": false,
+                "form": {
+                    "name": "ged/forms/documents",
+                    "meta": "ged/metas/documents",
+                    "controller": "accession.sync.ged.documents.controller"
+                },
+                "$type": "form",
+                "$title": "Liste de documents"
+            }
+        }
+    ],
+    "$type": "block"
+}

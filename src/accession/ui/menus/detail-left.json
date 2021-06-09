@@ -1,0 +1,61 @@
+{
+    "name": "detail-left.json",
+    "$moduleTitle": "Types de pages",
+    "menu": true,
+    "$groups": [
+        {
+            "$title": "Types de pages",
+            "$items": [
+                {
+                    "$title": "Outils",
+                    "$items": [
+                        {
+                            "$title": "Trace",
+                            "$link": {
+                                "$page": "outils/trace",
+                                "$target": "blank"
+                            }
+                        },
+                        {
+                            "$title": "Instances",
+                            "$link": {
+                                "$page": "outils/inspector",
+                                "$target": "blank"
+                            }
+                        },
+                        {
+                            "$title": "Api Swagger",
+                            "$link": {
+                                "href": "http://localhost:3000/swagger/#/",
+                                "$target": "blank"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "$title": "Orders",
+                    "$items": [
+                        {
+                            "$title": "Articles",
+                            "$link": {
+                                "$page": "orders/articles/article-list"
+                            }
+                        },
+                        {
+                            "$title": "Création d'un article",
+                            "$link": {
+                                "$page": "orders/articles/article-detail"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "$title": "Home",
+                    "$link": {
+                        "$page": "home-page"
+                    }
+                }
+            ]
+        }
+    ]
+}

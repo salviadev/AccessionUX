@@ -1,0 +1,7577 @@
+{
+	"Lancer": {
+		"message": "Uruchom",
+		"translated": true
+	},
+	"Id.": {
+		"message": "Identyfikator.",
+		"translated": true
+	},
+	"Tick.": {
+		"message": "Zaznacz.",
+		"translated": true
+	},
+	"Progress": {
+		"message": "Postępu",
+		"translated": true
+	},
+	"message": {
+		"message": "Komunikat",
+		"translated": true
+	},
+	"Log messages": {
+		"message": "Komunikaty dziennika",
+		"translated": true
+	},
+	"Listes des fonctions": {
+		"message": "Lista funkcji",
+		"translated": true
+	},
+	"Recalculer l'affectation budgétaire ADV": {
+		"message": "Ponowne obliczanie alokacji budżetu ADV",
+		"translated": true
+	},
+	"Reprise de DOM Tiers": {
+		"message": "Przejęcie DOM trzeci",
+		"translated": true
+	},
+	"Reprise de Référentiel Tiers": {
+		"message": "Przejęcie repozytoriów innych firm",
+		"translated": true
+	},
+	"Aides à la vente": {
+		"message": "Pomoc na sprzedaż",
+		"translated": true
+	},
+	"Aide": {
+		"message": "Pomoc",
+		"translated": true
+	},
+	"Supprimer": {
+		"message": "Usunąć",
+		"translated": true
+	},
+	"Code": {
+		"message": "Kod",
+		"translated": true
+	},
+	"Libellé aide à la vente": {
+		"message": "Etykietka pomocy sprzedaży",
+		"translated": true
+	},
+	"Actif": {
+		"message": "Aktywne",
+		"translated": true
+	},
+	"Dossier": {
+		"message": "Folder",
+		"translated": true
+	},
+	"Lot": {
+		"message": "Wiele",
+		"translated": true
+	},
+	"Type aide": {
+		"message": "Typ pomaga",
+		"translated": true
+	},
+	"TVA": {
+		"message": "Podatku vat",
+		"translated": true
+	},
+	"Montant TTC max": {
+		"message": "Kwota TTC maks.",
+		"translated": true
+	},
+	"Montant HT max": {
+		"message": "Ilość HT maks.",
+		"translated": true
+	},
+	"Aides à la vente (Tranche)": {
+		"message": "Pomoc na sprzedaż (Slice)",
+		"translated": true
+	},
+	"Retour à la tranche commerciale": {
+		"message": "Powrót do komercyjnego plasterka",
+		"translated": true
+	},
+	"Code tranche commerciale": {
+		"message": "Komercyjny kod plasterka",
+		"translated": true
+	},
+	"Libellé tranche commerciale": {
+		"message": "Plasterek handlowy oznaczony etykietą",
+		"translated": true
+	},
+	"Libellé": {
+		"message": "Sformułowanie",
+		"translated": true
+	},
+	"Début validité": {
+		"message": "Zacznij obowiązywać",
+		"translated": true
+	},
+	"Fin validité": {
+		"message": "Koniec ważny",
+		"translated": true
+	},
+	"Comptabiliser": {
+		"message": "Rozpoznać",
+		"translated": true
+	},
+	"Comptabilisé": {
+		"message": "Uznane",
+		"translated": true
+	},
+	"Date réglement prevu": {
+		"message": "Data rozporządzenia podana",
+		"translated": true
+	},
+	"Date d'appel": {
+		"message": "Data połączenia",
+		"translated": true
+	},
+	"Montant": {
+		"message": "Kwota",
+		"translated": true
+	},
+	"Statut": {
+		"message": "Stan",
+		"translated": true
+	},
+	"Appel fonds notaire": {
+		"message": "Call fundusze notariusz",
+		"translated": true
+	},
+	"Client": {
+		"message": "Klienta",
+		"translated": true
+	},
+	"Tiers": {
+		"message": "Trzeci",
+		"translated": true
+	},
+	"Code dossier de vente": {
+		"message": "Kod folderu sprzedaży",
+		"translated": true
+	},
+	"Opération": {
+		"message": "Operacji",
+		"translated": true
+	},
+	"Montant TTC": {
+		"message": "Kwota TTC",
+		"translated": true
+	},
+	"Montant HT": {
+		"message": "Kwota HT",
+		"translated": true
+	},
+	"Taux TVA": {
+		"message": "Stawka VAT",
+		"translated": true
+	},
+	"%": {
+		"message": "%",
+		"translated": true
+	},
+	"Type": {
+		"message": "Typu",
+		"translated": true
+	},
+	"Tma": {
+		"message": "Tma",
+		"translated": true
+	},
+	"Echéance": {
+		"message": "Termin",
+		"translated": true
+	},
+	"Rechercher": {
+		"message": "Szukaj",
+		"translated": true
+	},
+	"TTC": {
+		"message": "Ttc",
+		"translated": true
+	},
+	"HT": {
+		"message": "Ht",
+		"translated": true
+	},
+	"Tranche commerciale": {
+		"message": "Plasterek handlowy",
+		"translated": true
+	},
+	"Code opération": {
+		"message": "Kod operacji",
+		"translated": true
+	},
+	"Lien du document": {
+		"message": "Łącze do dokumentu",
+		"translated": true
+	},
+	"Montant déjà appelé": {
+		"message": "Kwota już wywołana",
+		"translated": true
+	},
+	"Solde client": {
+		"message": "Skala klienta",
+		"translated": true
+	},
+	"Montant exigible": {
+		"message": "Należna kwota",
+		"translated": true
+	},
+	"Montant appel TTC": {
+		"message": "Kwota Call TTC",
+		"translated": true
+	},
+	"Lancer les appels de fonds": {
+		"message": "Rozpoczęcie pozyskiwania funduszy",
+		"translated": true
+	},
+	"Adresse client": {
+		"message": "Adres klienta",
+		"translated": true
+	},
+	"Numéro des lots": {
+		"message": "Numer partii",
+		"translated": true
+	},
+	"Bâtiment": {
+		"message": "Budynku",
+		"translated": true
+	},
+	"Montant vente": {
+		"message": "Brudna kwota",
+		"translated": true
+	},
+	"Date Stade": {
+		"message": "Data stadionu",
+		"translated": true
+	},
+	"% cumulé exigible": {
+		"message": "% nagromadzone należne",
+		"translated": true
+	},
+	"Date prévue règlement": {
+		"message": "Oczekiwana data rozliczenia",
+		"translated": true
+	},
+	"Tranches": {
+		"message": "Plasterki",
+		"translated": true
+	},
+	"Id": {
+		"message": "Identyfikator",
+		"translated": true
+	},
+	"Test": {
+		"message": "Test",
+		"translated": true
+	},
+	"Refresh": {
+		"message": "Odświeżania",
+		"translated": true
+	},
+	"Afficher les dossiers désistés / résolus ": {
+		"message": "Wyświetlanie folderów z rozłączonych/rozpoznane ",
+		"translated": true
+	},
+	"Montant TTC appelé": {
+		"message": "Kwota TTC zwana",
+		"translated": true
+	},
+	"Montant HT appelé": {
+		"message": "Kwota o nazwie HT",
+		"translated": true
+	},
+	"Publipostage": {
+		"message": "Mailingowej",
+		"translated": true
+	},
+	"Documents joints": {
+		"message": "Załączone dokumenty",
+		"translated": true
+	},
+	"Date vente": {
+		"message": "Brudna Data",
+		"translated": true
+	},
+	"Code appel": {
+		"message": "Kod połączenia",
+		"translated": true
+	},
+	"Date prévue de réglement": {
+		"message": "Oczekiwana data rozliczenia",
+		"translated": true
+	},
+	"Commentaire": {
+		"message": "Jak",
+		"translated": true
+	},
+	"Date résolution": {
+		"message": "Rozdzielczość daty",
+		"translated": true
+	},
+	"Passage des opérations « lancé » vers opérations « achevé»": {
+		"message": "Przełączanie z \"uruchomionego\" na \"ukończone\" operacje",
+		"translated": true
+	},
+	"Recherche": {
+		"message": "Badania",
+		"translated": true
+	},
+	"Unité d'organisation": {
+		"message": "Jednostka organizacyjna",
+		"translated": true
+	},
+	"Societé": {
+		"message": "Społeczeństwa",
+		"translated": true
+	},
+	"Avancement": {
+		"message": "Rozwoju",
+		"translated": true
+	},
+	"Nature de travaux": {
+		"message": "Charakter pracy",
+		"translated": true
+	},
+	"Lignes comptabilisées": {
+		"message": "Zliczone wiersze",
+		"translated": true
+	},
+	"Saisir une date d’achèvement comptable": {
+		"message": "Wprowadź datę zakończenia księgowania",
+		"translated": true
+	},
+	"Ajouter nouvelle date achevement": {
+		"message": "Dodaj nową datę pełną",
+		"translated": true
+	},
+	"Supprimer une date d’achèvement comptable": {
+		"message": "Usuwanie daty ukończenia księgowania",
+		"translated": true
+	},
+	"Comptabilisation (passé le statut à « achevé »)": {
+		"message": "Księgowość (stan przeszły do \"ukończone\")",
+		"translated": true
+	},
+	"Annuler la comptabilisation (repassé le statut en lancé)": {
+		"message": "Anulowanie księgowania (ponowne zainicjowanie stanu)",
+		"translated": true
+	},
+	"Réf. comptable": {
+		"message": "Odniesienie księgowe",
+		"translated": true
+	},
+	"Réf. externe": {
+		"message": "Odnośnik zewnętrzny",
+		"translated": true
+	},
+	"Société": {
+		"message": "Firmy",
+		"translated": true
+	},
+	"Code analytique opération": {
+		"message": "Operacja kodu analitycznej",
+		"translated": true
+	},
+	"Tranche travaux": {
+		"message": "Plasterek roboczy",
+		"translated": true
+	},
+	"Code analytique tranche travaux": {
+		"message": "Plasterki kodu analitycznego działają",
+		"translated": true
+	},
+	"Avancement travaux": {
+		"message": "Prace nad postępem",
+		"translated": true
+	},
+	"Numéro": {
+		"message": "Numer",
+		"translated": true
+	},
+	"Date": {
+		"message": "Data",
+		"translated": true
+	},
+	"Date achevement comptable": {
+		"message": "Data zamknięcia księgowości",
+		"translated": true
+	},
+	"Budget": {
+		"message": "Budżetu",
+		"translated": true
+	},
+	"Dépenses total HT": {
+		"message": "Łączne koszty HT",
+		"translated": true
+	},
+	"Stockable HT": {
+		"message": "Stockable HT",
+		"translated": true
+	},
+	"Non stockable HT": {
+		"message": "Nienaturalne HT",
+		"translated": true
+	},
+	"Hors FNP HT": {
+		"message": "Z wyłączeniem FNP HT",
+		"translated": true
+	},
+	"Montant stockable": {
+		"message": "Kwota do składowania",
+		"translated": true
+	},
+	"Montant non stockable": {
+		"message": "Kwota nieskładana",
+		"translated": true
+	},
+	"Total HT": {
+		"message": "Całkowita HT",
+		"translated": true
+	},
+	"FNP stockable": {
+		"message": "Stockable MPF",
+		"translated": true
+	},
+	"FNP non stockable": {
+		"message": "Niestockable MFN",
+		"translated": true
+	},
+	"% Stocké": {
+		"message": "% Przechowywanych",
+		"translated": true
+	},
+	"% Vendu": {
+		"message": "% Sprzedane",
+		"translated": true
+	},
+	"% Livré": {
+		"message": "% Dostarczone",
+		"translated": true
+	},
+	"PR lots achevés": {
+		"message": "Partie PR zakończone",
+		"translated": true
+	},
+	"PR lots livrés": {
+		"message": "Dostarczone partie PR",
+		"translated": true
+	},
+	"CA livrés": {
+		"message": "Dostarczony urząd certyfikacji",
+		"translated": true
+	},
+	"Date comptabilisation": {
+		"message": "Data księgowania",
+		"translated": true
+	},
+	"Date traitement": {
+		"message": "Data leczenia",
+		"translated": true
+	},
+	"Comptabilisées": {
+		"message": "Stanowiły",
+		"translated": true
+	},
+	"Code Fnp": {
+		"message": "Kod FNP",
+		"translated": true
+	},
+	"Saisie de la date d'achevement comptable": {
+		"message": "Wprowadzanie daty księgowania",
+		"translated": true
+	},
+	"Save": {
+		"message": "Zapisz",
+		"translated": true
+	},
+	"N°": {
+		"message": "Nr",
+		"translated": true
+	},
+	"Version": {
+		"message": "Wersja",
+		"translated": true
+	},
+	"Champs paramètrables": {
+		"message": "Pola ustawiania",
+		"translated": true
+	},
+	"Choisir l'entité": {
+		"message": "Wybieranie jednostki",
+		"translated": true
+	},
+	"Recherche par propriété ou libelle": {
+		"message": "Wyszukiwanie według właściwości lub zniesławienie",
+		"translated": true
+	},
+	"Entité": {
+		"message": "Jednostki",
+		"translated": true
+	},
+	"Catégorie": {
+		"message": "Kategorii",
+		"translated": true
+	},
+	"Propriété": {
+		"message": "Właściwość",
+		"translated": true
+	},
+	"Obligatoire": {
+		"message": "Obowiązkowe",
+		"translated": true
+	},
+	"Sélectionner": {
+		"message": "Wybierz",
+		"translated": true
+	},
+	"Annuler": {
+		"message": "Anuluj",
+		"translated": true
+	},
+	"Unités d'organisation": {
+		"message": "Jednostki organizacyjne",
+		"translated": true
+	},
+	"Page d'accueil": {
+		"message": "Strony głównej",
+		"translated": true
+	},
+	"Titre catégorie": {
+		"message": "Kategoria tytuł",
+		"translated": true
+	},
+	"Codification": {
+		"message": "Konsolidacji",
+		"translated": true
+	},
+	"Insertion": {
+		"message": "Wstawiania",
+		"translated": true
+	},
+	"Ordre": {
+		"message": "Zamówienia",
+		"translated": true
+	},
+	"RVL Opération": {
+		"message": "Operacja RVL",
+		"translated": true
+	},
+	"Catégories": {
+		"message": "Kategorie",
+		"translated": true
+	},
+	"Hypothèses": {
+		"message": "Założenia",
+		"translated": true
+	},
+	"Actualisation du prévisionnel": {
+		"message": "Aktualizacja prognozy",
+		"translated": true
+	},
+	"Actualisation du prévisionnel de commercialisation": {
+		"message": "Zaktualizowana prognoza marketingowa",
+		"translated": true
+	},
+	"Actualiser": {
+		"message": "Aktualizacji",
+		"translated": true
+	},
+	"Mois": {
+		"message": "Miesiąc",
+		"translated": true
+	},
+	"Trimestre": {
+		"message": "Kwartale",
+		"translated": true
+	},
+	"Année": {
+		"message": "Roku",
+		"translated": true
+	},
+	"Période fin": {
+		"message": "Okres końcowy",
+		"translated": true
+	},
+	"Lignes": {
+		"message": "Linie",
+		"translated": true
+	},
+	"RVL Ligne": {
+		"message": "Linia RVL",
+		"translated": true
+	},
+	"Type cellule": {
+		"message": "Typ komórki",
+		"translated": true
+	},
+	"Value": {
+		"message": "Wartość",
+		"translated": true
+	},
+	"Détail cellule RVL": {
+		"message": "Komórka detalu RVL",
+		"translated": true
+	},
+	"Mouvement": {
+		"message": "Ruchu",
+		"translated": true
+	},
+	"N° du lot principal": {
+		"message": "Liczba głównych partii",
+		"translated": true
+	},
+	"Nombre de lots": {
+		"message": "Liczba lotów",
+		"translated": true
+	},
+	"Prix HT": {
+		"message": "Cena HT",
+		"translated": true
+	},
+	"Prix TTC": {
+		"message": "TTC cena",
+		"translated": true
+	},
+	"Surface": {
+		"message": "Powierzchni",
+		"translated": true
+	},
+	"Date réservation": {
+		"message": "Data rezerwacji",
+		"translated": true
+	},
+	"Date livraison": {
+		"message": "Termin dostawy",
+		"translated": true
+	},
+	"Réservé": {
+		"message": "Rezerwacja",
+		"translated": true
+	},
+	"Vendu": {
+		"message": "Sprzedawane",
+		"translated": true
+	},
+	"Livré": {
+		"message": "Dostarczane",
+		"translated": true
+	},
+	"Sélectionner TTC": {
+		"message": "Wybierz TTC",
+		"translated": true
+	},
+	"Sélectionner HT": {
+		"message": "Wybierz HT",
+		"translated": true
+	},
+	"Désélectionner TTC": {
+		"message": "Usuń zaznaczenie opcji TTC",
+		"translated": true
+	},
+	"Désélectionner HT": {
+		"message": "Usuń zaznaczenie opcji HT",
+		"translated": true
+	},
+	"Sel.": {
+		"message": "Soli.",
+		"translated": true
+	},
+	"Comment souhaitez-vous actualiser le prévisionnel de commercialisation ?": {
+		"message": "Jak chcesz zaktualizować prognozę marketingową?",
+		"translated": true
+	},
+	"Décaler le prévisionnel de commercialisation à actualiser sur le mois courant + (n) mois": {
+		"message": "Przesunięcie prognozy marketingowej do zaktualizowania w bieżącym miesiącu-(n) miesiącu",
+		"translated": true
+	},
+	"Décaler automatiquement l'ensemble du prévisionnel de commercialisation à partir du mois courant": {
+		"message": "Automatyczna zmiana całej prognozy marketingowej z bieżącego miesiąca",
+		"translated": true
+	},
+	"Nombre des mois à décaler": {
+		"message": "Liczba miesięcy do przesunięcia",
+		"translated": true
+	},
+	"Source": {
+		"message": "Źródła",
+		"translated": true
+	},
+	"Paramétrage Commercialisation": {
+		"message": "Ustawienia marketingowe",
+		"translated": true
+	},
+	"Appliquer": {
+		"message": "Zastosować",
+		"translated": true
+	},
+	"Sélectionnez la Tranche Commerciale": {
+		"message": "Wybierz komercyjny plasterek",
+		"translated": true
+	},
+	"Date 1ère réservation": {
+		"message": "Data 1 rezerwacja",
+		"translated": true
+	},
+	"Date 1ère vente": {
+		"message": "Data 1 brudne",
+		"translated": true
+	},
+	"Date OS": {
+		"message": "Data systemu operacyjnego",
+		"translated": true
+	},
+	"Date de livraison": {
+		"message": "Termin dostawy",
+		"translated": true
+	},
+	"Durée des travaux (mois)": {
+		"message": "Czas pracy (miesiące)",
+		"translated": true
+	},
+	"Delai entre réservation et vente (mois)": {
+		"message": "Delai między rezerwacją a sprzedażą (miesiąc)",
+		"translated": true
+	},
+	"Delai encaissement appel de fonds (jours)": {
+		"message": "Wypłata gotówki delai (dni)",
+		"translated": true
+	},
+	"Unité de commercialisation": {
+		"message": "Jednostka marketingowa",
+		"translated": true
+	},
+	"Nombre de lots principaux de la tranche commerciale, ou nombre de lots secondaires si la tranche ne contient que des lots secondaires": {
+		"message": "Liczba głównych partii w uchwycie handlowym lub liczba partii wtórnych, jeżeli część zawiera tylko partie wtórne",
+		"translated": true
+	},
+	"Saisie du prévisionnel": {
+		"message": "Wprowadzanie prognozy",
+		"translated": true
+	},
+	"le prévisionnel de commercialisation du stock est saisi sur la base du nombre de lots principaux": {
+		"message": "prognozy obrotu stada są wprowadzane na podstawie liczby głównych partii",
+		"translated": true
+	},
+	"Nombre de lots moyens": {
+		"message": "Średnia liczba lotów",
+		"translated": true
+	},
+	"Stock restant à commercialiser": {
+		"message": "Zapasy nadal na rynku",
+		"translated": true
+	},
+	"Nbre de mois depuis 1ère réservation": {
+		"message": "Liczba miesięcy od 1 rezerwacji",
+		"translated": true
+	},
+	"Durée restante de commercialisation": {
+		"message": "Pozostały czas marketingowy",
+		"translated": true
+	},
+	"Durée totale de commercialisation": {
+		"message": "Całkowity czas marketingowy",
+		"translated": true
+	},
+	"Rythme moyen sur RVL": {
+		"message": "Średni rytm na RVL",
+		"translated": true
+	},
+	"Rythme moyen planifié": {
+		"message": "Zaplanowany średni rytm",
+		"translated": true
+	},
+	"RVL": {
+		"message": "Rvl",
+		"translated": true
+	},
+	"Planifié": {
+		"message": "Planowane",
+		"translated": true
+	},
+	"% commercialisation TC à l'OS": {
+		"message": "% TC Marketing do systemu operacyjnego",
+		"translated": true
+	},
+	"% commercialisation TT à l'OS": {
+		"message": "% TT Marketing do systemu operacyjnego",
+		"translated": true
+	},
+	"Reste à planifier": {
+		"message": "Pozostaje zaplanowana",
+		"translated": true
+	},
+	"A Actualiser": {
+		"message": "Aktualizacji",
+		"translated": true
+	},
+	"Saisie en masse modal": {
+		"message": "Wprowadzanie masy modalnej",
+		"translated": true
+	},
+	"Nombre de mois": {
+		"message": "Liczba miesięcy",
+		"translated": true
+	},
+	"Reporter la valeur jusqu'à épuisement du stock": {
+		"message": "Odroczyć wartość, aż skończy się czas",
+		"translated": true
+	},
+	"Reporter la valeur sur les X prochaines mois": {
+		"message": "Księgowanie wartości w ciągu następnych X miesięcy",
+		"translated": true
+	},
+	"Dossier client": {
+		"message": "Plik klienta",
+		"translated": true
+	},
+	"Grille de prix": {
+		"message": "Siatka cenowa",
+		"translated": true
+	},
+	"Acquereur": {
+		"message": "W: acquereur",
+		"translated": true
+	},
+	"code": {
+		"message": "Kod",
+		"translated": true
+	},
+	"Operations": {
+		"message": "Operacji",
+		"translated": true
+	},
+	"Dossiers": {
+		"message": "Pliki",
+		"translated": true
+	},
+	"Acquereurs": {
+		"message": "Nabywcy i",
+		"translated": true
+	},
+	"Date événement début": {
+		"message": "Data rozpoczęcia zdarzenia",
+		"translated": true
+	},
+	"Date événement fin": {
+		"message": "Zdarzenie końcowe daty",
+		"translated": true
+	},
+	"Date comptable début": {
+		"message": "Data rozpoczęcia księgowości",
+		"translated": true
+	},
+	"Date comptable fin": {
+		"message": "Końcowa data księgowania",
+		"translated": true
+	},
+	"Operation": {
+		"message": "Operacji",
+		"translated": true
+	},
+	"numéro dossier": {
+		"message": "Numer pliku",
+		"translated": true
+	},
+	"Statut Dossier": {
+		"message": "Plik stanu",
+		"translated": true
+	},
+	"Date événement": {
+		"message": "Data wydarzenia",
+		"translated": true
+	},
+	"Date comptable": {
+		"message": "Data księgowania",
+		"translated": true
+	},
+	"Appelé TTC": {
+		"message": "Zwane TTC",
+		"translated": true
+	},
+	"Encaissé TTC": {
+		"message": "Zrealizowane TTC",
+		"translated": true
+	},
+	"Solde à régler TTC": {
+		"message": "Saldo do zapłaty TTC",
+		"translated": true
+	},
+	"Evénement": {
+		"message": "Zdarzenie",
+		"translated": true
+	},
+	"numero": {
+		"message": "Numer",
+		"translated": true
+	},
+	"Inclus acte": {
+		"message": "Akt zawarty",
+		"translated": true
+	},
+	"Solde TTC": {
+		"message": "Wagi TTC",
+		"translated": true
+	},
+	"tmasVisibility": {
+		"message": "Właściwość tmasVisibility",
+		"translated": true
+	},
+	"Numéro dossier": {
+		"message": "Numer pliku",
+		"translated": true
+	},
+	"Numero": {
+		"message": "Numer",
+		"translated": true
+	},
+	"Nature": {
+		"message": "Natura",
+		"translated": true
+	},
+	"Total client TTC": {
+		"message": "Ogółem klient TTC",
+		"translated": true
+	},
+	"Montant à appeler TTC": {
+		"message": "Kwota do wywołania TTC",
+		"translated": true
+	},
+	"Montant appelé TTC": {
+		"message": "Kwota zwana TTC",
+		"translated": true
+	},
+	"Montant encaissé TTC": {
+		"message": "Kwota wypłacona w TTC",
+		"translated": true
+	},
+	"Solde dossier client TTC": {
+		"message": "Saldo pliku klienta TTC",
+		"translated": true
+	},
+	"En stock": {
+		"message": "W magazynie",
+		"translated": true
+	},
+	"Option": {
+		"message": "Opcja",
+		"translated": true
+	},
+	"Préréservé": {
+		"message": "NW",
+		"translated": true
+	},
+	"Désisté": {
+		"message": "Nieakcentowane",
+		"translated": true
+	},
+	"Conditions suspensives": {
+		"message": "Warunki zawieszenia",
+		"translated": true
+	},
+	"Condition Suspensive": {
+		"message": "Stan zawieszenia",
+		"translated": true
+	},
+	"Filter": {
+		"message": "Filtr",
+		"translated": true
+	},
+	"Ouvrir dossier": {
+		"message": "Otwórz folder",
+		"translated": true
+	},
+	"Annuler la Livraison": {
+		"message": "Anuluj dostawę",
+		"translated": true
+	},
+	"Annuler la Vente": {
+		"message": "Anuluj sprzedaż",
+		"translated": true
+	},
+	"Recherche par client": {
+		"message": "Szukaj wg klienta",
+		"translated": true
+	},
+	"Afficher les dossiers désistés / résolus": {
+		"message": "Wyświetlanie folderów z rozłączonych/rozpoznane",
+		"translated": true
+	},
+	"N° dossier": {
+		"message": "Nr. Folder",
+		"translated": true
+	},
+	"PSLA": {
+		"message": "W: PLA",
+		"translated": true
+	},
+	"N° lot": {
+		"message": "Nr partii",
+		"translated": true
+	},
+	"Date pose option": {
+		"message": "Opcja Data ułożenia",
+		"translated": true
+	},
+	"Date pré-réservation": {
+		"message": "Data rezerwacji wstępnej",
+		"translated": true
+	},
+	"Réalisée": {
+		"message": "Przeprowadzane",
+		"translated": true
+	},
+	"Date statut": {
+		"message": "Data stanu",
+		"translated": true
+	},
+	"Date convocation notaire": {
+		"message": "Data wezwania notariusza",
+		"translated": true
+	},
+	"Date désistement": {
+		"message": "Data wycofania",
+		"translated": true
+	},
+	"Pages": {
+		"message": "Stron",
+		"translated": true
+	},
+	"Rôles": {
+		"message": "Ról",
+		"translated": true
+	},
+	"Groupes": {
+		"message": "Grupy",
+		"translated": true
+	},
+	"Utilisateurs": {
+		"message": "Użytkowników",
+		"translated": true
+	},
+	"Retour": {
+		"message": "Wstecz",
+		"translated": true
+	},
+	"Admin": {
+		"message": "Admin",
+		"translated": true
+	},
+	"Niveaux organisationnels": {
+		"message": "Poziomy organizacyjne",
+		"translated": true
+	},
+	"Code Rôle": {
+		"message": "Kod roli",
+		"translated": true
+	},
+	"Rôle(s) fonctionnel(s)": {
+		"message": "Rola funkcjonalna",
+		"translated": true
+	},
+	"Filtrer": {
+		"message": "Filtr",
+		"translated": true
+	},
+	"Groupe": {
+		"message": "Grupa",
+		"translated": true
+	},
+	"Ouvrir un groupe": {
+		"message": "Otwieranie grupy",
+		"translated": true
+	},
+	"Ajouter": {
+		"message": "Dodaj",
+		"translated": true
+	},
+	"Fonction": {
+		"message": "Funkcja",
+		"translated": true
+	},
+	"Modifier": {
+		"message": "Zmiany",
+		"translated": true
+	},
+	"Dupliquer": {
+		"message": "Zduplikowane",
+		"translated": true
+	},
+	"Rôle": {
+		"message": "Roli",
+		"translated": true
+	},
+	"Ouvrir role": {
+		"message": "Otwarta rola",
+		"translated": true
+	},
+	"Choisir le module": {
+		"message": "Wybierz moduł",
+		"translated": true
+	},
+	"Module": {
+		"message": "Moduł",
+		"translated": true
+	},
+	"Action": {
+		"message": "Działania",
+		"translated": true
+	},
+	"Lecture": {
+		"message": "Czytanie",
+		"translated": true
+	},
+	"Gestion": {
+		"message": "Zarządzania",
+		"translated": true
+	},
+	"Niveau d'accès": {
+		"message": "Poziom dostępu",
+		"translated": true
+	},
+	"Login": {
+		"message": "Logowania",
+		"translated": true
+	},
+	"Nom": {
+		"message": "Nazwa",
+		"translated": true
+	},
+	"Prénom": {
+		"message": "Nazwa",
+		"translated": true
+	},
+	"Date d'activation": {
+		"message": "Aktywacja daty",
+		"translated": true
+	},
+	"Date d'expiration": {
+		"message": "Data wygaśnięcia",
+		"translated": true
+	},
+	"Téléphone": {
+		"message": "Telefon",
+		"translated": true
+	},
+	"E-mail": {
+		"message": "Adres e-mail",
+		"translated": true
+	},
+	"Id Poste Utilisateur": {
+		"message": "Identyfikator post użytkownika",
+		"translated": true
+	},
+	"Groupe(s)": {
+		"message": "Grupy",
+		"translated": true
+	},
+	"Code Groupe": {
+		"message": "Kod grupy",
+		"translated": true
+	},
+	"Utilisateur": {
+		"message": "Użytkownika",
+		"translated": true
+	},
+	"Ouvrir utilisateur": {
+		"message": "Otwórz użytkownika",
+		"translated": true
+	},
+	"Echéanciers types par nature travaux": {
+		"message": "Typowe echelanciers przez naturę działa",
+		"translated": true
+	},
+	"entité permettant l'accès aux échéanciers types par nature de travaux": {
+		"message": "umożliwiający dostęp do standardowych harmonogramów według charakteru pracy",
+		"translated": true
+	},
+	"id nature": {
+		"message": "Identyfikator natury",
+		"translated": true
+	},
+	"Nature travaux": {
+		"message": "Prace przyrodnicze",
+		"translated": true
+	},
+	"Echéancier type": {
+		"message": "Typowy czasomierz",
+		"translated": true
+	},
+	"Par défaut": {
+		"message": "Domyślny",
+		"translated": true
+	},
+	"Délai règlement par défaut": {
+		"message": "Domyślny czas rozliczenia",
+		"translated": true
+	},
+	"Echéance type": {
+		"message": "Typowy czas",
+		"translated": true
+	},
+	"Evènement": {
+		"message": "Zdarzenie",
+		"translated": true
+	},
+	"Délai en jours": {
+		"message": "Czas w dniach",
+		"translated": true
+	},
+	"Libellé de l'écheance": {
+		"message": "Oznakowane spalin",
+		"translated": true
+	},
+	"% cumulé": {
+		"message": "% Skumulowany",
+		"translated": true
+	},
+	"Réf": {
+		"message": "Ref",
+		"translated": true
+	},
+	"Vente": {
+		"message": "Brudne",
+		"translated": true
+	},
+	"Echéanciers types par tranche commerciale": {
+		"message": "Typowe terminy na komercyjny plasterek",
+		"translated": true
+	},
+	"id tranche": {
+		"message": "Identyfikator plasterka",
+		"translated": true
+	},
+	"Date d'écheance": {
+		"message": "Termin",
+		"translated": true
+	},
+	"Libelle": {
+		"message": "Zniesławienie",
+		"translated": true
+	},
+	"Code reglement": {
+		"message": "Kodeks regulacji",
+		"translated": true
+	},
+	"Banque": {
+		"message": "Bank",
+		"translated": true
+	},
+	"IBAN": {
+		"message": "Iban",
+		"translated": true
+	},
+	"Date de règlement": {
+		"message": "Data rozliczenia",
+		"translated": true
+	},
+	"N° Règlement": {
+		"message": "Przepisów",
+		"translated": true
+	},
+	"Mode de règlement": {
+		"message": "Jak się osiedlić",
+		"translated": true
+	},
+	"Reste à encaisser": {
+		"message": "Pozostaje do wypłaty w",
+		"translated": true
+	},
+	"Date Facture": {
+		"message": "Data rozliczenia",
+		"translated": true
+	},
+	"Compte": {
+		"message": "Konta",
+		"translated": true
+	},
+	"Liste des encaissements": {
+		"message": "Lista paragonów gotówkowych",
+		"translated": true
+	},
+	"Encaisser": {
+		"message": "Gotówki",
+		"translated": true
+	},
+	"Id Facture": {
+		"message": "Rachunek tożsamości",
+		"translated": true
+	},
+	"Date facture": {
+		"message": "Data rachunku",
+		"translated": true
+	},
+	"Code Opération": {
+		"message": "Kod operacji",
+		"translated": true
+	},
+	"N° Facture": {
+		"message": "Nr. Bill",
+		"translated": true
+	},
+	"Tiers Id": {
+		"message": "Trzeci identyfikator",
+		"translated": true
+	},
+	"Montant déjà encaissé": {
+		"message": "Kwota już wypłacona",
+		"translated": true
+	},
+	"Montant déjà encaissé HT": {
+		"message": "Kwota już wypłacona HT",
+		"translated": true
+	},
+	"Montant facture": {
+		"message": "Faktura kwoty",
+		"translated": true
+	},
+	"Montant facture HT": {
+		"message": "Kwota rachunku HT",
+		"translated": true
+	},
+	"Code Encaissement": {
+		"message": "Kod cashingu",
+		"translated": true
+	},
+	"Date règlement.": {
+		"message": "Data rozliczenia.",
+		"translated": true
+	},
+	"Tiers.": {
+		"message": "Trzeci, trzeci.",
+		"translated": true
+	},
+	"Id Tiers.": {
+		"message": "Trzeci identyfikator.",
+		"translated": true
+	},
+	"Référence règlement.": {
+		"message": "Rozporządzenia referencyjnego.",
+		"translated": true
+	},
+	"Date réglement": {
+		"message": "Data rozliczenia",
+		"translated": true
+	},
+	"Montant de l'encaissement": {
+		"message": "Kwota gotówki",
+		"translated": true
+	},
+	"Montant total de l'encaissement": {
+		"message": "Całkowity przepływ gotówki",
+		"translated": true
+	},
+	"Versement notarié": {
+		"message": "Płatność notarialnie",
+		"translated": true
+	},
+	"Frais de notaire pris en charge": {
+		"message": "Opłaty notarialne wypłacane",
+		"translated": true
+	},
+	"Reste à ventiler": {
+		"message": "Pozostaje przewietrzyć",
+		"translated": true
+	},
+	"Code échéance": {
+		"message": "Kod terminu",
+		"translated": true
+	},
+	"TMA": {
+		"message": "Tma",
+		"translated": true
+	},
+	"Lancé non encaissé": {
+		"message": "Rozpoczęta niewypłacona",
+		"translated": true
+	},
+	"Date appel de fonds": {
+		"message": "Data zbiórki pieniędzy",
+		"translated": true
+	},
+	"Valider la modale": {
+		"message": "Sprawdzanie poprawności modalnego",
+		"translated": true
+	},
+	"Montant de l'appel de fonds": {
+		"message": "Kwota zaproszenia do finansowania",
+		"translated": true
+	},
+	"Code dossier": {
+		"message": "Kod pliku",
+		"translated": true
+	},
+	"Montant encaissé": {
+		"message": "Kwota wypłacona w",
+		"translated": true
+	},
+	"Encaissemts": {
+		"message": "Gotówki",
+		"translated": true
+	},
+	"Montant déjà appelé non encaissé": {
+		"message": "Kwota już nazywana uncashed",
+		"translated": true
+	},
+	"Montant du dossier de vente": {
+		"message": "Ilość pliku sprzedaży",
+		"translated": true
+	},
+	"Montant du dossier de vente par tiers": {
+		"message": "Ilość pliku sprzedaży na stronę trzecią",
+		"translated": true
+	},
+	"Ref": {
+		"message": "Ref",
+		"translated": true
+	},
+	"Fiche lot": {
+		"message": "Arkusz parceli",
+		"translated": true
+	},
+	"Grille de Prix": {
+		"message": "Siatka cenowa",
+		"translated": true
+	},
+	"Lots Liés": {
+		"message": "Powiązane partie",
+		"translated": true
+	},
+	"Tranche": {
+		"message": "Plasterek",
+		"translated": true
+	},
+	"Principal / Secondaire": {
+		"message": "Główne/drugorzędne",
+		"translated": true
+	},
+	"Principal": {
+		"message": "Strony",
+		"translated": true
+	},
+	"Secondaire": {
+		"message": "Pomocniczy",
+		"translated": true
+	},
+	"Dation": {
+		"message": "Dając",
+		"translated": true
+	},
+	"Spécificité du lot": {
+		"message": "Specyficzność partii",
+		"translated": true
+	},
+	"Tantièmes": {
+		"message": "W: aunites",
+		"translated": true
+	},
+	"N° copropriété": {
+		"message": "Współwłasność nr",
+		"translated": true
+	},
+	"Prix Stock TTC": {
+		"message": "Stock TTC cena",
+		"translated": true
+	},
+	"Prix Stock HT": {
+		"message": "Cena Stock HT",
+		"translated": true
+	},
+	"Prix Commercial TTC": {
+		"message": "Nagroda handlowa TTC",
+		"translated": true
+	},
+	"Prix Commercial HT": {
+		"message": "Cena komercyjna HT",
+		"translated": true
+	},
+	"Prix de Lancement TTC": {
+		"message": "TTC cena premiery",
+		"translated": true
+	},
+	"Prix de Lancement HT": {
+		"message": "Cena uruchomienia HT",
+		"translated": true
+	},
+	"Prix Budget TTC": {
+		"message": "Nagroda budżetu TTC",
+		"translated": true
+	},
+	"Prix Budget HT": {
+		"message": "Cena budżetowa HT",
+		"translated": true
+	},
+	"Loyer Mensuel TTC / m²": {
+		"message": "Miesięczny czynsz TTC/m2",
+		"translated": true
+	},
+	"Loyer Mensuel HT / m²": {
+		"message": "Miesięczny czynsz HT/m2",
+		"translated": true
+	},
+	"Loyer Annuel TTC / m²": {
+		"message": "Roczny czynsz TTC/m2",
+		"translated": true
+	},
+	"Loyer Annuel HT / m²": {
+		"message": "Roczny czynsz HT/m2",
+		"translated": true
+	},
+	"TVA sur Marge": {
+		"message": "Podatek VAT od depozytu zabezpieczającego",
+		"translated": true
+	},
+	"Taux de TVA": {
+		"message": "Stawka VAT",
+		"translated": true
+	},
+	"Bât": {
+		"message": "Dodatkiem service pack",
+		"translated": true
+	},
+	"Etage": {
+		"message": "Podłogi",
+		"translated": true
+	},
+	"Escalier": {
+		"message": "Schody",
+		"translated": true
+	},
+	"Adresse": {
+		"message": "Adres",
+		"translated": true
+	},
+	"Code Postal": {
+		"message": "Kod pocztowy",
+		"translated": true
+	},
+	"Ville": {
+		"message": "Miasta",
+		"translated": true
+	},
+	"Pays": {
+		"message": "Kraju",
+		"translated": true
+	},
+	"DAACT": {
+		"message": "DAACT w",
+		"translated": true
+	},
+	"Date d'achèvement": {
+		"message": "Data ukończenia",
+		"translated": true
+	},
+	"Date de mise en exploitation": {
+		"message": "Data rozpoczęcia",
+		"translated": true
+	},
+	"Date de réception": {
+		"message": "Data odbioru",
+		"translated": true
+	},
+	"Exposition principale": {
+		"message": "Wystawa główna",
+		"translated": true
+	},
+	"Exposition Secondaire": {
+		"message": "Wystawa wtórna",
+		"translated": true
+	},
+	"Adresse tranche": {
+		"message": "Adres plasterka",
+		"translated": true
+	},
+	"Reprendre l'adresse de la tranche": {
+		"message": "Zabierz z powrotem adres plasterka",
+		"translated": true
+	},
+	"Nombre de m²": {
+		"message": "Liczba metrów kwadratowych",
+		"translated": true
+	},
+	"Flux de financement": {
+		"message": "Przepływy finansowania",
+		"translated": true
+	},
+	"Retour à la liste": {
+		"message": "Powrót do listy",
+		"translated": true
+	},
+	"Associé": {
+		"message": "Związane z",
+		"translated": true
+	},
+	"Intitulé de la banque": {
+		"message": "Uprawniony Bank",
+		"translated": true
+	},
+	"Date Réglement": {
+		"message": "Data rozliczenia",
+		"translated": true
+	},
+	"Flux prévisionnel": {
+		"message": "Prognozy przepływów",
+		"translated": true
+	},
+	"Ventilation du montant": {
+		"message": "Podział kwoty",
+		"translated": true
+	},
+	"Fonds propres": {
+		"message": "Kapitałowych",
+		"translated": true
+	},
+	"Tranches travaux": {
+		"message": "Plasterki robocze",
+		"translated": true
+	},
+	"Code associé": {
+		"message": "Kod skojarzony",
+		"translated": true
+	},
+	"Code tiers": {
+		"message": "Kod innej firmy",
+		"translated": true
+	},
+	"libellé": {
+		"message": "Sformułowanie",
+		"translated": true
+	},
+	"Clé de répartition": {
+		"message": "Klucz podziału",
+		"translated": true
+	},
+	"Liste des flux de financement": {
+		"message": "Wykaz przepływów finansowania",
+		"translated": true
+	},
+	"Code societé": {
+		"message": "Kod",
+		"translated": true
+	},
+	"Type Flux": {
+		"message": "Typ Flux",
+		"translated": true
+	},
+	"Flux": {
+		"message": "Przepływu",
+		"translated": true
+	},
+	"Details": {
+		"message": "Szczegóły",
+		"translated": true
+	},
+	"Code banque": {
+		"message": "Kod banku",
+		"translated": true
+	},
+	"Mode réglement": {
+		"message": "Tryb regulacji",
+		"translated": true
+	},
+	"Annnuler": {
+		"message": "Annnuler",
+		"translated": true
+	},
+	"Date début": {
+		"message": "Data rozpoczęcia",
+		"translated": true
+	},
+	"Date de fin": {
+		"message": "Data końcowa",
+		"translated": true
+	},
+	"Taux de financement": {
+		"message": "Stopa dofinansowania",
+		"translated": true
+	},
+	"Liste des frais financiers": {
+		"message": "Lista wydatków finansowych",
+		"translated": true
+	},
+	"Frais financiers": {
+		"message": "Koszty finansowe",
+		"translated": true
+	},
+	"Ref TC": {
+		"message": "Referencje TC",
+		"translated": true
+	},
+	"Date fin": {
+		"message": "Data końcowa",
+		"translated": true
+	},
+	"Taux": {
+		"message": "Oceń",
+		"translated": true
+	},
+	"Base calcul": {
+		"message": "Obliczanie bazy",
+		"translated": true
+	},
+	"Réf. pièce comptable": {
+		"message": "Ref. dokument księgowy",
+		"translated": true
+	},
+	"FNP à la date d'achèvement comptable": {
+		"message": "NPF w dniu zakończenia księgowości",
+		"translated": true
+	},
+	"Périmètre societé": {
+		"message": "Obwód firmy",
+		"translated": true
+	},
+	"Classeur (code)": {
+		"message": "Classiby (kod)",
+		"translated": true
+	},
+	"Société mére": {
+		"message": "Firma matka",
+		"translated": true
+	},
+	"Société fille": {
+		"message": "Firma dziewczyna",
+		"translated": true
+	},
+	"Type de commerciallisation": {
+		"message": "Rodzaj komercjalizacji",
+		"translated": true
+	},
+	"Creation frais financieres": {
+		"message": "Tworzenie wydatków finansowych",
+		"translated": true
+	},
+	"Avancement commercial": {
+		"message": "Postęp biznesowy",
+		"translated": true
+	},
+	"Type de commercialisation": {
+		"message": "Typowy Marketing",
+		"translated": true
+	},
+	"refTranche": {
+		"message": "z refTranche",
+		"translated": true
+	},
+	"operation": {
+		"message": "Operacji",
+		"translated": true
+	},
+	"codeTrancheTravaux": {
+		"message": "Metoda codeTrancheWorks",
+		"translated": true
+	},
+	"codeSociete": {
+		"message": "kod Societe",
+		"translated": true
+	},
+	"Dernier frais financier calculé": {
+		"message": "Ostatni obliczony koszt finansowy",
+		"translated": true
+	},
+	"Frais financier": {
+		"message": "Koszty finansowe",
+		"translated": true
+	},
+	"Début": {
+		"message": "Początku",
+		"translated": true
+	},
+	"Fin": {
+		"message": "Końcu",
+		"translated": true
+	},
+	"Code frais financier": {
+		"message": "Kod wydatków finansowych",
+		"translated": true
+	},
+	"Calcul frais financiers par tranche travaux": {
+		"message": "Obliczanie kosztów finansowych na raty pracy",
+		"translated": true
+	},
+	"Sociétés": {
+		"message": "Firm",
+		"translated": true
+	},
+	"Opérations": {
+		"message": "Operacji",
+		"translated": true
+	},
+	"Calcul frais financiers": {
+		"message": "Obliczanie kosztów finansowych",
+		"translated": true
+	},
+	"Classeur societés": {
+		"message": "Klasa zgłoszenia firmy",
+		"translated": true
+	},
+	"Périmètre": {
+		"message": "Obwodowej",
+		"translated": true
+	},
+	"Liste des sociétes": {
+		"message": "Lista firm",
+		"translated": true
+	},
+	"Lots sélectionnés": {
+		"message": "Wybrane partie",
+		"translated": true
+	},
+	"Grille de Prix de Vente": {
+		"message": "Brudny cena siatka",
+		"translated": true
+	},
+	"Preference code": {
+		"message": "Kod preferencji",
+		"translated": true
+	},
+	"codeOperation": {
+		"message": "Operacja CodeOperation",
+		"translated": true
+	},
+	"Modelé": {
+		"message": "Wzorowany",
+		"translated": true
+	},
+	"Modification": {
+		"message": "Zmiana",
+		"translated": true
+	},
+	"Modeles": {
+		"message": "Modele",
+		"translated": true
+	},
+	"Lots": {
+		"message": "Wiele",
+		"translated": true
+	},
+	"Grouper les lots": {
+		"message": "Partie grupowe",
+		"translated": true
+	},
+	"Dégrouper les lots": {
+		"message": "Rozgrupowywanie partii",
+		"translated": true
+	},
+	"Vente en bloc": {
+		"message": "Luzem brudne",
+		"translated": true
+	},
+	"Décocher Vente en bloc": {
+		"message": "Odznacz sprzedaż luzem",
+		"translated": true
+	},
+	"Poser une option": {
+		"message": "Zapytaj o opcję",
+		"translated": true
+	},
+	"Poser une option rapide": {
+		"message": "Zapytaj o szybką opcję",
+		"translated": true
+	},
+	"Annuler une option": {
+		"message": "Anulowanie opcji",
+		"translated": true
+	},
+	"Changer de tranche": {
+		"message": "Zmienianie plasterków",
+		"translated": true
+	},
+	"Réserver": {
+		"message": "Dokonać rezerwacji",
+		"translated": true
+	},
+	"Pondération des prix": {
+		"message": "Ważenie cenowe",
+		"translated": true
+	},
+	"Exporter": {
+		"message": "Eksportu",
+		"translated": true
+	},
+	"Consulter le dossier client": {
+		"message": "Wyświetl plik klienta",
+		"translated": true
+	},
+	"Documents associés": {
+		"message": "Powiązane dokumenty",
+		"translated": true
+	},
+	"Désistement": {
+		"message": "Zaprzestania",
+		"translated": true
+	},
+	"Résolution": {
+		"message": "Rozdzielczość",
+		"translated": true
+	},
+	"Livraison": {
+		"message": "Dostawy",
+		"translated": true
+	},
+	"Enregistrer comme modèle": {
+		"message": "Zapisz jako model",
+		"translated": true
+	},
+	"Gérer les modèles": {
+		"message": "Zarządzanie modelami",
+		"translated": true
+	},
+	"Forcer la TVA sur Marge": {
+		"message": "Wymuszanie podatku VAT od depozytu zabezpieczającego",
+		"translated": true
+	},
+	"Pas de TVA sur Marge forcée": {
+		"message": "Brak podatku VAT od przymusowego marginesu",
+		"translated": true
+	},
+	"Recalculer la TVA sur Marge": {
+		"message": "Oblicz ponownie podatek VAT od marginesu",
+		"translated": true
+	},
+	"lot de la Grille de Prix de Vente": {
+		"message": "Partia ceny sprzedaży siatka",
+		"translated": true
+	},
+	"Code Dossier": {
+		"message": "Kod pliku",
+		"translated": true
+	},
+	"Code Option": {
+		"message": "Opcja kodu",
+		"translated": true
+	},
+	"Type Ligne": {
+		"message": "Typ linii",
+		"translated": true
+	},
+	"lotGrp": {
+		"message": "Na emeryturze",
+		"translated": true
+	},
+	"Type lot": {
+		"message": "Typowa partia",
+		"translated": true
+	},
+	"Spécificité": {
+		"message": "Specyficzność",
+		"translated": true
+	},
+	"Exposition secondaire": {
+		"message": "Narażenie wtórne",
+		"translated": true
+	},
+	"Numéro copropriété": {
+		"message": "Numer kondominium",
+		"translated": true
+	},
+	"idLotImmo": {
+		"message": "w: idLotImmo",
+		"translated": true
+	},
+	"SDP": {
+		"message": "Sdp",
+		"translated": true
+	},
+	"SHAB": {
+		"message": "Shab",
+		"translated": true
+	},
+	"SU": {
+		"message": "Wiedział",
+		"translated": true
+	},
+	"Surface Terrain": {
+		"message": "Wykres powierzchni",
+		"translated": true
+	},
+	"Surface Parcelle": {
+		"message": "Wykres powierzchni",
+		"translated": true
+	},
+	"Annexe": {
+		"message": "Załączniku",
+		"translated": true
+	},
+	"Code postal": {
+		"message": "Kod pocztowy",
+		"translated": true
+	},
+	"Date achèvement": {
+		"message": "Data ukończenia",
+		"translated": true
+	},
+	"Aides vente TTC": {
+		"message": "TTC Sales pomaga",
+		"translated": true
+	},
+	"Date envoi contrat": {
+		"message": "Data wysłania kontraktu",
+		"translated": true
+	},
+	"Date livraison contractuelle": {
+		"message": "Data dostawy kontraktu",
+		"translated": true
+	},
+	"Date mise exploitation": {
+		"message": "Data oddania eksploatacji",
+		"translated": true
+	},
+	"Date notification notaire": {
+		"message": "Powiadomienie o dacie notariusza",
+		"translated": true
+	},
+	"Date réception": {
+		"message": "Data przyjęcia",
+		"translated": true
+	},
+	"Date de vente": {
+		"message": "Data sprzedaży",
+		"translated": true
+	},
+	"Loyer HT mensuel / m²": {
+		"message": "Wynajem HT miesięcznie/m2",
+		"translated": true
+	},
+	"Loyer TTC mensuel / m²": {
+		"message": "Miesięczny TTC Rent/m2",
+		"translated": true
+	},
+	"Loyer HT annuel / m²": {
+		"message": "Czynsz HT roczny/m2",
+		"translated": true
+	},
+	"Loyer TTC annuel / m²": {
+		"message": "Roczny TTC Rent/m2",
+		"translated": true
+	},
+	"Identification des lots de la tranche commerciale soumis à la TVA sur marge. Modifiable par l’action « cocher / décocher la TVA sur Marge »": {
+		"message": "Identyfikacja partii komercyjnych plasterków podlegających opodatkowaniu podatkiem VAT. Edytowalne przez akcję \"zaznacz/odznacz VAT na Marge\"",
+		"translated": true
+	},
+	"Montant TVA": {
+		"message": "Kwota podatku VAT",
+		"translated": true
+	},
+	"Mnt TVA sur Marge": {
+		"message": "MNT VAT od depozytu zabezpieczającego",
+		"translated": true
+	},
+	"Montant calculé à partir du prix budget saisi dans la tranche commerciale en prenant en compte les postes de dépenses rentrant dans le calcul sur la TVA sur mage. La répartition de la TVA sur les lots s’effectue selon paramétrage sélectionné. Montant modifiable par l’action « Forcer la TVA sur Marge »": {
+		"message": "Kwota obliczona na podstawie ceny budżetowej wpisanych do programu handlowego, z uwzględnieniem pozycji wydatków uwzględnionych w obliczeniach podatku VAT od maga. Rozkład podatku VAT na partie odbywa się zgodnie z wybranymi ustawieniami. Kwota zmienna przez akcję \"wymuszanie podatku VAT od depozytu zabezpieczającego\"",
+		"translated": true
+	},
+	"Montant remise HT": {
+		"message": "Kwota rabatu HT",
+		"translated": true
+	},
+	"Montant remise TTC": {
+		"message": "Kwota zdyskontowana TTC",
+		"translated": true
+	},
+	"Prix commercial HT": {
+		"message": "Cena komercyjna HT",
+		"translated": true
+	},
+	"Prix de vente, donné aux vendeurs pour leur négociation commerciale. Ce prix est saisi dans la grille de prix (ou dans la fiche lot). Ce prix est modifiable uniquement pour les lots en stock, et modifiable pendant la pose d’option": {
+		"message": "Cena sprzedaży, biorąc pod uwagę sprzedawców za ich handlowych negocjacji. Cena ta jest wprowadzona w siatce cenowej (lub w karcie partii). Ta cena może być zmieniana tylko w przypadku partii w magazynie i może zostać zmieniona w czasie opcji",
+		"translated": true
+	},
+	"Prix commercial HT lot principal": {
+		"message": "Cena handlowa HT Hand lot",
+		"translated": true
+	},
+	"Prix de vente  du lot principal, donné aux vendeurs pour leur négociation commerciale. Ce prix est saisi dans la grille de prix (ou dans la fiche lot). Ce prix est modifiable uniquement pour les lots en stock, et modifiable pendant la pose d’option": {
+		"message": "Cena sprzedaży głównej partii, biorąc pod uwagę sprzedawców za ich handlowych negocjacji. Cena ta jest wprowadzona w siatce cenowej (lub w karcie partii). Ta cena może być zmieniana tylko w przypadku partii w magazynie i może zostać zmieniona w czasie opcji",
+		"translated": true
+	},
+	"Prix commercial HT par m²": {
+		"message": "Cena handlowa HT za m2",
+		"translated": true
+	},
+	"Prix commercial TTC": {
+		"message": "TTC cena handlowa",
+		"translated": true
+	},
+	"Prix commercial TTC lot principal": {
+		"message": "Cena handlowa TTC Hand lot",
+		"translated": true
+	},
+	"Prix commercial TTC par m²": {
+		"message": "Cena handlowa TTC per sq m",
+		"translated": true
+	},
+	"Prix budget HT": {
+		"message": "Cena budżetowa HT",
+		"translated": true
+	},
+	"Chiffre d’affaire budgété qui se mettra à jour automatiquement dans le suivi budgétaire au fur et à mesure de l’avancement de l’opération.": {
+		"message": "Budżetowany przychód, który będzie automatycznie aktualizowany w śledzeniu budżetu w miarę postępu operacji.",
+		"translated": true
+	},
+	"Prix budget HT lot principal": {
+		"message": "Cena budżetu HT Hand lot",
+		"translated": true
+	},
+	"Montant du chiffre d’affaire prévu à la vente du lot principal. Ce prix provient de la typologie. Le prix est calculé en fonction de l’hypothèse saisie dans la typologie (prix x surface). Il alimente la grille de prix et également le prix budget du bilan": {
+		"message": "Kwota oczekiwanego przychodu ze sprzedaży głównej partii. Nagroda ta pochodzi z typologii. Cena jest obliczana zgodnie z założeniem wpisanych do typologii (cena x powierzchnia). Podaje siatkę cenową, a także cenę budżetową bilansu",
+		"translated": true
+	},
+	"Prix budget HT par m²": {
+		"message": "Cena budżetowa HT za m2",
+		"translated": true
+	},
+	"Prix budget TTC": {
+		"message": "TTC cena budżetowa",
+		"translated": true
+	},
+	"Prix budget TTC lot principal": {
+		"message": "Cena budżetu TTC Hand lot",
+		"translated": true
+	},
+	"Prix budget TTC par m²": {
+		"message": "Cena budżetowa TTC za m²",
+		"translated": true
+	},
+	"Prix lancement HT": {
+		"message": "HT cena premiery",
+		"translated": true
+	},
+	"Prix HT de référence lors du lancement commercial, avant cela ce prix est vide. Le prix de lancement de la grille des prix est alimenté par le montant indiqué dans la colonne « prix budget » au moment du lancement commercial.": {
+		"message": "Benchmark HT cena w komercyjnym uruchomieniu, przed tym cena jest pusta. Cena uruchomienia siatki cenowej jest napędzana kwotą pokazaną w kolumnie \"cena budżetowa\" w momencie uruchomienia komercyjnego.",
+		"translated": true
+	},
+	"Prix lancement HT par m²": {
+		"message": "Cena uruchomienia HT za m2",
+		"translated": true
+	},
+	"Prix lancement TTC": {
+		"message": "TTC cena premiery",
+		"translated": true
+	},
+	"Prix TTC de référence lors du lancement commercial, avant cela ce prix est vide. Le prix de lancement de la grille des prix est alimenté par le montant indiqué dans la colonne « prix budget » au moment du lancement commercial.": {
+		"message": "Benchmark TTC cena w komercyjnym uruchomieniu, przed tym cena jest pusta. Cena uruchomienia siatki cenowej jest napędzana kwotą pokazaną w kolumnie \"cena budżetowa\" w momencie uruchomienia komercyjnego.",
+		"translated": true
+	},
+	"Prix lancement TTC par m²": {
+		"message": "Cena premiery TTC za m²",
+		"translated": true
+	},
+	"Prix total HT": {
+		"message": "Cena całkowita HT",
+		"translated": true
+	},
+	"Prix de vente HT du lot + prix des TMA HT du lot. Montant calculé et non modifiable quelque soit le statut du lot.": {
+		"message": "Cena partii jest HT cena sprzedaży i cena TMA HT partii. Kwota obliczona i niezmienna, niezależnie od statusu partii.",
+		"translated": true
+	},
+	"Prix total TTC": {
+		"message": "Cena ogółem TTC",
+		"translated": true
+	},
+	"Prix de vente TTC du lot + prix des TMA TTC du lot. Montant calculé et non modifiable quelque soit le statut du lot.": {
+		"message": "TTC cena sprzedaży partii-tMA TTC cena partii. Kwota obliczona i niezmienna, niezależnie od statusu partii.",
+		"translated": true
+	},
+	"Prix vente HT": {
+		"message": "Cena brudna HT",
+		"translated": true
+	},
+	"Prix de vente HT du lot. Cette zone est calculée et non modifiable, elle provient de la saisie de la vente. Elle n’est alimentée que lorsque le lot est en statut réservé au minimum": {
+		"message": "Cena sprzedaży partii jest HT. Obszar ten jest obliczany i nie zmienny, pochodzi z przejęcia sprzedaży. Jest on podawany tylko wtedy, gdy partia jest w stanie zastrzeżonym co najmniej",
+		"translated": true
+	},
+	"Prix vente TTC": {
+		"message": "TTC cena sprzedaży",
+		"translated": true
+	},
+	"Prix de vente TTC du lot. Cette zone est calculée et non modifiable, elle provient de la saisie de la vente. Elle n’est alimentée que lorsque le lot est en statut réservé au minimum": {
+		"message": "TTC cena sprzedaży partii. Obszar ten jest obliczany i nie zmienny, pochodzi z przejęcia sprzedaży. Jest on podawany tylko wtedy, gdy partia jest w stanie zastrzeżonym co najmniej",
+		"translated": true
+	},
+	"Prix budget HT lot secondaire": {
+		"message": "Cena budżetu HT wtórne partii",
+		"translated": true
+	},
+	"Montant du chiffre d’affaire prévu à la vente du lot secondaire. Ce prix provient de la typologie. Le prix est calculé en fonction de l’hypothèse saisie dans la typologie (prix x surface). Il alimente la grille de prix et également le prix budget du bilan": {
+		"message": "Kwota oczekiwanego obrotu na sprzedaż partii wtórnej. Nagroda ta pochodzi z typologii. Cena jest obliczana zgodnie z założeniem wpisanych do typologii (cena x powierzchnia). Podaje siatkę cenową, a także cenę budżetową bilansu",
+		"translated": true
+	},
+	"Prix budget TTC lot secondaire": {
+		"message": "Cena budżetu TTC Secondary lot",
+		"translated": true
+	},
+	"Prix commercial HT lot secondaire": {
+		"message": "Cena komercyjna HT Secondary lot",
+		"translated": true
+	},
+	"Prix de vente du lot secondaire, donné aux vendeurs pour leur négociation commerciale. Ce prix est saisi dans la grille de prix (ou dans la fiche lot). Ce prix est modifiable uniquement pour les lots en stock, et modifiable pendant la pose d’option": {
+		"message": "Cena sprzedaży wtórnej partii, biorąc pod uwagę sprzedawców za ich handlowych negocjacji. Cena ta jest wprowadzona w siatce cenowej (lub w karcie partii). Ta cena może być zmieniana tylko w przypadku partii w magazynie i może zostać zmieniona w czasie opcji",
+		"translated": true
+	},
+	"Prix commercial TTC lot secondaire": {
+		"message": "Cena handlowa TTC Secondary lot",
+		"translated": true
+	},
+	"Rentabilité locative annuelle": {
+		"message": "Roczna rentowność wynajmu",
+		"translated": true
+	},
+	"% remise": {
+		"message": "% rabatu",
+		"translated": true
+	},
+	"Lots secondaires": {
+		"message": "Partie drugorzędne",
+		"translated": true
+	},
+	"Date du statut": {
+		"message": "Data stanu",
+		"translated": true
+	},
+	"Prix TMA HT": {
+		"message": "Nagroda TMA HT",
+		"translated": true
+	},
+	"Montant total HT des TMA du lot. Ce prix n’est pas modifiable dans la grille de prix": {
+		"message": "Całkowita ilość HT partii TMA. Cena nie jest zmienna w siatce cenowej",
+		"translated": true
+	},
+	"Prix TMA TTC": {
+		"message": "Nagroda TMA TTC",
+		"translated": true
+	},
+	"Montant total TTC des TMA du lot. Ce prix n’est pas modifiable dans la grille de prix": {
+		"message": "Ogółem TTC ilość TMA partii. Cena nie jest zmienna w siatce cenowej",
+		"translated": true
+	},
+	"Effacer la recherche": {
+		"message": "Wyczyść wyszukiwanie",
+		"translated": true
+	},
+	"Favorite": {
+		"message": "Ulubione",
+		"translated": true
+	},
+	"Toutes": {
+		"message": "Wszystkie",
+		"translated": true
+	},
+	"Display Mode": {
+		"message": "Tryb wyświetlania",
+		"translated": true
+	},
+	"Position GPS": {
+		"message": "Pozycja GPS",
+		"translated": true
+	},
+	"Voir sur la carte": {
+		"message": "Zobacz na mapie",
+		"translated": true
+	},
+	"Détails de l'opération": {
+		"message": "Szczegóły operacji",
+		"translated": true
+	},
+	"Ajouter cette opération aux favorits": {
+		"message": "Dodaj to do Favorits",
+		"translated": true
+	},
+	"Accéder à l'opération": {
+		"message": "Dostęp do operacji",
+		"translated": true
+	},
+	"Référence": {
+		"message": "Odwołanie",
+		"translated": true
+	},
+	"Code de l'opération": {
+		"message": "Kod operacji",
+		"translated": true
+	},
+	"Nom de l'opération": {
+		"message": "Nazwa operacji",
+		"translated": true
+	},
+	"N° et voie": {
+		"message": "Nr. i pas ruchu",
+		"translated": true
+	},
+	"Code postal / Ville": {
+		"message": "Kod pocztowy/miasto",
+		"translated": true
+	},
+	"Nom commercial": {
+		"message": "Nazwa handlowa",
+		"translated": true
+	},
+	"Statut d'opération": {
+		"message": "Stan operacji",
+		"translated": true
+	},
+	"F": {
+		"message": "F",
+		"translated": true
+	},
+	"V": {
+		"message": "V",
+		"translated": true
+	},
+	"Image": {
+		"message": "Obrazu",
+		"translated": true
+	},
+	"dataSet": {
+		"message": "Dataset",
+		"translated": true
+	},
+	"Retour à la page d'accueil": {
+		"message": "Wróć do strony głównej",
+		"translated": true
+	},
+	"Accéder à la tranche": {
+		"message": "Dostęp do plasterka",
+		"translated": true
+	},
+	"Code ": {
+		"message": "Kod ",
+		"translated": true
+	},
+	"Type d'ouvrage": {
+		"message": "Rodzaj pracy",
+		"translated": true
+	},
+	"Modèle": {
+		"message": "Modelu",
+		"translated": true
+	},
+	"Créer un nouveau modèle": {
+		"message": "Tworzenie nowego modelu",
+		"translated": true
+	},
+	"Visibilité": {
+		"message": "Widoczność",
+		"translated": true
+	},
+	"Pour moi": {
+		"message": "Dla mnie",
+		"translated": true
+	},
+	"Pour tous les utilisateurs": {
+		"message": "Dla wszystkich użytkowników",
+		"translated": true
+	},
+	"Total Instances": {
+		"message": "Łączna liczba wystąpień",
+		"translated": true
+	},
+	"Instances": {
+		"message": "Wystąpień",
+		"translated": true
+	},
+	"Unknown": {
+		"message": "Nieznany",
+		"translated": true
+	},
+	"Unmodified": {
+		"message": "Niezmodyfikowanej",
+		"translated": true
+	},
+	"New": {
+		"message": "Nowy",
+		"translated": true
+	},
+	"Modified": {
+		"message": "Zmodyfikowano",
+		"translated": true
+	},
+	"Deleted": {
+		"message": "Usunięte",
+		"translated": true
+	},
+	"Canceled": {
+		"message": "Anulowane",
+		"translated": true
+	},
+	"Pour tous": {
+		"message": "Dla wszystkich",
+		"translated": true
+	},
+	"First Name": {
+		"message": "Imię",
+		"translated": true
+	},
+	"Trace": {
+		"message": "Śledzenia",
+		"translated": true
+	},
+	"Total": {
+		"message": "Łącznych",
+		"translated": true
+	},
+	"Data Time": {
+		"message": "Czas danych",
+		"translated": true
+	},
+	"Alloc Id Time": {
+		"message": "Czas ID Alloc",
+		"translated": true
+	},
+	"Rules Time": {
+		"message": "Czas regulaminu",
+		"translated": true
+	},
+	"Traces": {
+		"message": "Ślady",
+		"translated": true
+	},
+	"Clear": {
+		"message": "Wyczyść",
+		"translated": true
+	},
+	"Start Trace": {
+		"message": "Rozpocznij śledzenie",
+		"translated": true
+	},
+	"Stop Trace": {
+		"message": "Zatrzymaj śledzenie",
+		"translated": true
+	},
+	"Title": {
+		"message": "Tytuł",
+		"translated": true
+	},
+	"Time (ms)": {
+		"message": "Czas (MS)",
+		"translated": true
+	},
+	"Id règle": {
+		"message": "Reguła identyfikatorid Rule",
+		"translated": true
+	},
+	"Types de lot": {
+		"message": "Typy parceli",
+		"translated": true
+	},
+	"Critères": {
+		"message": "Kryteria",
+		"translated": true
+	},
+	"Ponderation": {
+		"message": "Ponderation",
+		"translated": true
+	},
+	"Valeur": {
+		"message": "Wartość",
+		"translated": true
+	},
+	"Unité": {
+		"message": "Jednostki",
+		"translated": true
+	},
+	"Valeur de référence": {
+		"message": "Wartość referencyjna",
+		"translated": true
+	},
+	"Valeur à pondérer": {
+		"message": "Waga",
+		"translated": true
+	},
+	"Arrondi": {
+		"message": "Zaokrąglone",
+		"translated": true
+	},
+	"Lot GP Filter": {
+		"message": "Filtr lot GP",
+		"translated": true
+	},
+	"Nord": {
+		"message": "Północnej",
+		"translated": true
+	},
+	"Nord Ouest": {
+		"message": "Północny zachód",
+		"translated": true
+	},
+	"Nord Est": {
+		"message": "Północny wschód",
+		"translated": true
+	},
+	"Ouest": {
+		"message": "West",
+		"translated": true
+	},
+	"Est": {
+		"message": "Jest",
+		"translated": true
+	},
+	"Sud": {
+		"message": "Południowej",
+		"translated": true
+	},
+	"Sud Ouest": {
+		"message": "Południowy zachód",
+		"translated": true
+	},
+	"Sud Est": {
+		"message": "Południowy wschód",
+		"translated": true
+	},
+	"Id Tranche Commerciale": {
+		"message": "ID komercyjny plasterek",
+		"translated": true
+	},
+	"Numéro groupement": {
+		"message": "Numer grupowania",
+		"translated": true
+	},
+	"Placement": {
+		"message": "Inwestycji",
+		"translated": true
+	},
+	"Surface Habitable (m²)": {
+		"message": "Powierzchnia zlizalna (m2)",
+		"translated": true
+	},
+	"Surface HOB (m²)": {
+		"message": "Powierzchnia grzejna (m2)",
+		"translated": true
+	},
+	"Surface HON (m²)": {
+		"message": "Powierzchnia HON (m2)",
+		"translated": true
+	},
+	"Surface SP (m²)": {
+		"message": "Powierzchnia SP (m2)",
+		"translated": true
+	},
+	"Surface Parcelle (m²)": {
+		"message": "Działka powierzchniowa (m2)",
+		"translated": true
+	},
+	"Surface Unitaire (m²) par lot": {
+		"message": "Powierzchnia jednostkowa (m2) na partię",
+		"translated": true
+	},
+	"Surfaces annexes": {
+		"message": "Powierzchnie pomocnicze",
+		"translated": true
+	},
+	"Date prise possession": {
+		"message": "Data przejęcia posiadania",
+		"translated": true
+	},
+	"Date signature acte": {
+		"message": "Data podpisania aktu",
+		"translated": true
+	},
+	"Loyer mensuel HT": {
+		"message": "Miesięczny czynsz HT",
+		"translated": true
+	},
+	"Loyer mensuel TTC": {
+		"message": "Miesięczny czynsz TTC",
+		"translated": true
+	},
+	"Prix commercial HT par m2": {
+		"message": "Cena handlowa HT za m²",
+		"translated": true
+	},
+	"Prix commercial TTC par m2": {
+		"message": "Cena handlowa TTC per sq m",
+		"translated": true
+	},
+	"Prix budget base HT": {
+		"message": "Bazowa cena budżetowa HT",
+		"translated": true
+	},
+	"Prix budget HT par m2": {
+		"message": "Cena budżetowa HT za m²",
+		"translated": true
+	},
+	"Prix budget TTC par m2": {
+		"message": "Cena budżetowa TTC za m²",
+		"translated": true
+	},
+	"Prix lancement HT par m2": {
+		"message": "HT cena uruchomienia za m² m2",
+		"translated": true
+	},
+	"Prix lancement TTC par m2": {
+		"message": "Cena premiery TTC za m²",
+		"translated": true
+	},
+	"Commercialisation": {
+		"message": "Marketing",
+		"translated": true
+	},
+	"Appliquer les règles": {
+		"message": "Zastosuj reguły",
+		"translated": true
+	},
+	"Règles": {
+		"message": "Zasady",
+		"translated": true
+	},
+	"Types": {
+		"message": "Typy",
+		"translated": true
+	},
+	"Critère": {
+		"message": "Kryterium",
+		"translated": true
+	},
+	"Pondération": {
+		"message": "Ważenia",
+		"translated": true
+	},
+	"Impact règle": {
+		"message": "Reguła oddziaływania",
+		"translated": true
+	},
+	"Montant TVA declaree": {
+		"message": "Zadeklarowana kwota VAT",
+		"translated": true
+	},
+	"Prix stock HT": {
+		"message": "Cena akcji HT",
+		"translated": true
+	},
+	"Prix stock TTC": {
+		"message": "TTC cena akcji",
+		"translated": true
+	},
+	"Date d'annulation": {
+		"message": "Data anulowania",
+		"translated": true
+	},
+	"Motif d'annulation": {
+		"message": "Powód anulowania",
+		"translated": true
+	},
+	"Pose option rapide": {
+		"message": "Szybka opcja stwarza",
+		"translated": true
+	},
+	"Pas de tiers": {
+		"message": "Żadna trzecia część",
+		"translated": true
+	},
+	"Montant Total Prix d'option HT": {
+		"message": "Suma opcji cena HT",
+		"translated": true
+	},
+	"Montant Total Prix d'option TTC": {
+		"message": "Razem TTC opcja cena",
+		"translated": true
+	},
+	"Remise totale HT": {
+		"message": "Całkowity rabat HT",
+		"translated": true
+	},
+	"Remise totale TTC": {
+		"message": "Całkowity rabat TTC",
+		"translated": true
+	},
+	"Remise totale pourcentage": {
+		"message": "Całkowity rabat procentowy",
+		"translated": true
+	},
+	"Reference Tiers": {
+		"message": "Trzecie odniesienie",
+		"translated": true
+	},
+	"Date d'option": {
+		"message": "Opcja Data",
+		"translated": true
+	},
+	"Date de Fin d'option": {
+		"message": "Data zakończenia opcji",
+		"translated": true
+	},
+	"Lot immo pose option rapide": {
+		"message": "Lot Immo stwarza szybką opcję",
+		"translated": true
+	},
+	"N° de lot": {
+		"message": "Numer partii",
+		"translated": true
+	},
+	"Remise pourcentage": {
+		"message": "Rabat procentowy",
+		"translated": true
+	},
+	"Prix d'option HT": {
+		"message": "Cena opcji HT",
+		"translated": true
+	},
+	"Prix d'option TTC": {
+		"message": "Cena opcji TTC",
+		"translated": true
+	},
+	"Remise HT": {
+		"message": "Rabat HT",
+		"translated": true
+	},
+	"Remise TTC": {
+		"message": "Zniżka TTC",
+		"translated": true
+	},
+	"Model du paramétrage de publipostage": {
+		"message": "Model ustawienia poczty bezpośredniej",
+		"translated": true
+	},
+	"Télécharger le document du publipostage": {
+		"message": "Pobierz dokument Direct mail",
+		"translated": true
+	},
+	"Document produit, cliquer pour retourner": {
+		"message": "Dokument produktu, kliknij, aby powrócić",
+		"translated": true
+	},
+	"Télécharger": {
+		"message": "Pobierz",
+		"translated": true
+	},
+	"Type d'impression": {
+		"message": "Rodzaj druku",
+		"translated": true
+	},
+	"Propriétaire": {
+		"message": "Właściciel",
+		"translated": true
+	},
+	"Réf fichier": {
+		"message": "Plik REF",
+		"translated": true
+	},
+	"Lien": {
+		"message": "Link",
+		"translated": true
+	},
+	"Pièces-jointes": {
+		"message": "Załączniki",
+		"translated": true
+	},
+	"Pièce": {
+		"message": "Pokojach",
+		"translated": true
+	},
+	"Thème": {
+		"message": "Tematu",
+		"translated": true
+	},
+	"Tuiles Resa": {
+		"message": "Na kafelkach resa",
+		"translated": true
+	},
+	"Used for lookup": {
+		"message": "Używane do wyszukiwania",
+		"translated": true
+	},
+	"Sans liaison au planning": {
+		"message": "Brak łącza planowania",
+		"translated": true
+	},
+	"Liée à un évènement du planning": {
+		"message": "Połączone z wydarzeniem planowania",
+		"translated": true
+	},
+	"Evènement du planning": {
+		"message": "Wydarzenie planistyczne",
+		"translated": true
+	},
+	"Délais": {
+		"message": "Czas",
+		"translated": true
+	},
+	"% facturation": {
+		"message": "% rozliczenia",
+		"translated": true
+	},
+	"Prévu le": {
+		"message": "Oczekiwane",
+		"translated": true
+	},
+	"Date prévu d'appel": {
+		"message": "Oczekiwana data połączenia",
+		"translated": true
+	},
+	"Offre": {
+		"message": "Oferuje",
+		"translated": true
+	},
+	"Lots Concernés": {
+		"message": "Partie zainteresowane",
+		"translated": true
+	},
+	"Liste aides à la vente disponibles": {
+		"message": "Lista dostępnych pomocy sprzedażowych",
+		"translated": true
+	},
+	"Taux Tva": {
+		"message": "Stawka VAT",
+		"translated": true
+	},
+	"Montant offert TTC": {
+		"message": "Kwota oferowana TTC",
+		"translated": true
+	},
+	"Reste à payer TTC": {
+		"message": "Pozostaje zapłacić TTC",
+		"translated": true
+	},
+	"Montant offert HT": {
+		"message": "Oferowana kwota HT",
+		"translated": true
+	},
+	"% Offert": {
+		"message": "% Oferowanych",
+		"translated": true
+	},
+	"TTC Figé": {
+		"message": "TTC Figé",
+		"translated": true
+	},
+	"HT Figé": {
+		"message": "HT Figé",
+		"translated": true
+	},
+	"TVA sur marge": {
+		"message": "Podatek VAT od depozytu zabezpieczającego",
+		"translated": true
+	},
+	"Condition": {
+		"message": "Warunek",
+		"translated": true
+	},
+	"Date Limite": {
+		"message": "Termin",
+		"translated": true
+	},
+	"Levée": {
+		"message": "Facelift",
+		"translated": true
+	},
+	"Date Levée": {
+		"message": "Data podniesiona",
+		"translated": true
+	},
+	"Date de résolution": {
+		"message": "Data rozwiązania",
+		"translated": true
+	},
+	"Motif de résolution": {
+		"message": "Powód rozwiązania",
+		"translated": true
+	},
+	"Date de désistement": {
+		"message": "Data wycofania",
+		"translated": true
+	},
+	"Motif de désistement": {
+		"message": "Powód wycofania",
+		"translated": true
+	},
+	"Montant TTC du dépôt de garantie": {
+		"message": "TTC Kwota kaucji",
+		"translated": true
+	},
+	"Restituer la totalité du montant du dépôt de garantie": {
+		"message": "Zwrot pełnej kwoty depozytu",
+		"translated": true
+	},
+	"Montant TTC du dépôt de garantie restitué": {
+		"message": "TTC Kwota kaucji zwrócona",
+		"translated": true
+	},
+	"Montant du DG": {
+		"message": "Kwota DG",
+		"translated": true
+	},
+	"Compte séquestre": {
+		"message": "Konto odbiorcy",
+		"translated": true
+	},
+	"Encaissement": {
+		"message": "Zarabiają",
+		"translated": true
+	},
+	"Non encaissé": {
+		"message": "Nie wypłacono",
+		"translated": true
+	},
+	"Compte Séquestre": {
+		"message": "Konto odbiorcy",
+		"translated": true
+	},
+	"Compte Courant": {
+		"message": "Rachunek bieżący",
+		"translated": true
+	},
+	"Dépôt de garantie": {
+		"message": "Depozyt gwarancyjny",
+		"translated": true
+	},
+	"Code Tiers": {
+		"message": "Trzeci Kodeks",
+		"translated": true
+	},
+	"Date de remise": {
+		"message": "Data rabatu",
+		"translated": true
+	},
+	"Mode de Paiement": {
+		"message": "Tryb płatności",
+		"translated": true
+	},
+	"Votre choix": {
+		"message": "Twój wybór",
+		"translated": true
+	},
+	"Virement ": {
+		"message": "Transfer ",
+		"translated": true
+	},
+	"Cartes de paiement ": {
+		"message": "Karty płatnicze ",
+		"translated": true
+	},
+	"Chèques": {
+		"message": "Czeki",
+		"translated": true
+	},
+	"Banque émettrice": {
+		"message": "Bank wydający",
+		"translated": true
+	},
+	"Tiers émetteur": {
+		"message": "Trzeci emitent",
+		"translated": true
+	},
+	"Afficher": {
+		"message": "Wyświetlania",
+		"translated": true
+	},
+	"Echéancier du lot selectionné": {
+		"message": "Wybrana partia",
+		"translated": true
+	},
+	"Echéancier global": {
+		"message": "Globalne granice czasowe",
+		"translated": true
+	},
+	"Un seul échéancier par dossier": {
+		"message": "Tylko jeden rozkład na plik",
+		"translated": true
+	},
+	"Echéancier par lot": {
+		"message": "Echeanciater na partię",
+		"translated": true
+	},
+	"Evenement": {
+		"message": "Zdarzenie",
+		"translated": true
+	},
+	"Libellé de l’échéance": {
+		"message": "Oznaczony terminem",
+		"translated": true
+	},
+	"% Facturation": {
+		"message": "% Rozliczenia",
+		"translated": true
+	},
+	"% Cumulé": {
+		"message": "% Skumulowany",
+		"translated": true
+	},
+	"Montant cumulé TTC": {
+		"message": "Skumulowana kwota TTC",
+		"translated": true
+	},
+	"Montant cumulé HT": {
+		"message": "Łączna kwota HT",
+		"translated": true
+	},
+	"Date prévue": {
+		"message": "Oczekiwana data",
+		"translated": true
+	},
+	"Date réelle": {
+		"message": "Data rzeczywista",
+		"translated": true
+	},
+	"Délai règlement (jours)": {
+		"message": "Czas rozliczenia (dni)",
+		"translated": true
+	},
+	"Type de tiers": {
+		"message": "Typ strony trzeciej",
+		"translated": true
+	},
+	"Personne Physique": {
+		"message": "Osoba fizyczna",
+		"translated": true
+	},
+	"Personne Morale": {
+		"message": "Corporation",
+		"translated": true
+	},
+	"Portable": {
+		"message": "Przenośne",
+		"translated": true
+	},
+	"Adresse électronique": {
+		"message": "Adres email",
+		"translated": true
+	},
+	"Complément d'Adresse": {
+		"message": "Uzupełnienie adresu",
+		"translated": true
+	},
+	"Adresse de distribution": {
+		"message": "Adres dystrybucji",
+		"translated": true
+	},
+	"Quotité": {
+		"message": "Proporcji",
+		"translated": true
+	},
+	"Id View": {
+		"message": "Widok ID",
+		"translated": true
+	},
+	"Id financement": {
+		"message": "Finansowanie identyfikatorów",
+		"translated": true
+	},
+	"Commentaires": {
+		"message": "Komentarze",
+		"translated": true
+	},
+	"Nature du financement": {
+		"message": "Charakter finansowania",
+		"translated": true
+	},
+	"Prêt": {
+		"message": "Gotowy",
+		"translated": true
+	},
+	"Apport personnel": {
+		"message": "Osobisty wkład",
+		"translated": true
+	},
+	"Revente": {
+		"message": "Odsprzedaży",
+		"translated": true
+	},
+	"Type de prêt": {
+		"message": "Rodzaj kredytu",
+		"translated": true
+	},
+	"Avancement dossier": {
+		"message": "Kolejka postępu",
+		"translated": true
+	},
+	"Accord de principe": {
+		"message": "Porozumienie co do zasady",
+		"translated": true
+	},
+	"Demande de prêt": {
+		"message": "Aplikacja pożyczka",
+		"translated": true
+	},
+	"Accord du prêt": {
+		"message": "Umowa pożyczki",
+		"translated": true
+	},
+	"Emission offre": {
+		"message": "Oferta emisja",
+		"translated": true
+	},
+	"Obtention du prêt": {
+		"message": "Uzyskiwanie pożyczki",
+		"translated": true
+	},
+	"Fin de validité": {
+		"message": "Koniec okresu ważności",
+		"translated": true
+	},
+	"Demande du prêt": {
+		"message": "Aplikacja pożyczka",
+		"translated": true
+	},
+	"Emission de l'offre": {
+		"message": "Wydanie oferty",
+		"translated": true
+	},
+	"Fixe": {
+		"message": "Stałe",
+		"translated": true
+	},
+	"Variable": {
+		"message": "Zmiennej",
+		"translated": true
+	},
+	"Etablissement prêteur": {
+		"message": "Ustanowienie kredytodawcy",
+		"translated": true
+	},
+	"Réf. du prêt": {
+		"message": "Ref. pożyczki",
+		"translated": true
+	},
+	"Taux du prêt": {
+		"message": "Stopa kredytu",
+		"translated": true
+	},
+	"Durée en mois": {
+		"message": "Okres od miesiąca do miesiąca",
+		"translated": true
+	},
+	"Montant des mensualités": {
+		"message": "Kwota płatności miesięcznych",
+		"translated": true
+	},
+	"Montant des frais de dossier": {
+		"message": "Kwota opłaty za zgłoszenie",
+		"translated": true
+	},
+	"Montant de la garantie": {
+		"message": "Kwota gwarancji",
+		"translated": true
+	},
+	"Incluse dans le prêt": {
+		"message": "Uwzględnione w kredycie",
+		"translated": true
+	},
+	"Taux d'assurance": {
+		"message": "Stawka ubezpieczenia",
+		"translated": true
+	},
+	"Coût mensuel": {
+		"message": "Miesięczny koszt",
+		"translated": true
+	},
+	"Année des revenus": {
+		"message": "Rok dochodu",
+		"translated": true
+	},
+	"Total revenus client (Annuel net)": {
+		"message": "Całkowity przychód klienta (roczny dochód netto)",
+		"translated": true
+	},
+	"Endettement mensuel avant achat": {
+		"message": "Miesięczny dług przed zakupem",
+		"translated": true
+	},
+	"Taux d'endettement avant achat": {
+		"message": "Wskaźnik zadłużenia przed zakupem",
+		"translated": true
+	},
+	"Taux d'endettement après achat": {
+		"message": "Wskaźnik zadłużenia po zakupie",
+		"translated": true
+	},
+	"Financement": {
+		"message": "Finansowania",
+		"translated": true
+	},
+	"Identité": {
+		"message": "Tożsamości",
+		"translated": true
+	},
+	"Prix net HT": {
+		"message": "Cena netto HT",
+		"translated": true
+	},
+	"Prix net TTC": {
+		"message": "Cena netto TTC",
+		"translated": true
+	},
+	"Prix de vente HT": {
+		"message": "Cena sprzedaży HT",
+		"translated": true
+	},
+	"Prix de vente TTC": {
+		"message": "TTC cena sprzedaży",
+		"translated": true
+	},
+	"Remise %": {
+		"message": "Zniżki",
+		"translated": true
+	},
+	"Valider": {
+		"message": "Sprawdzania poprawności",
+		"translated": true
+	},
+	"Accès au TMA": {
+		"message": "Dostęp do TMA",
+		"translated": true
+	},
+	"Total aides à la vente": {
+		"message": "Łączne Pomoce sprzedażowe",
+		"translated": true
+	},
+	"Prix de reservation TTC": {
+		"message": "TTC cena rezerwacji",
+		"translated": true
+	},
+	"Prix de reservation HT": {
+		"message": "Cena rezerwacji HT",
+		"translated": true
+	},
+	"Remise sur prix commercial TTC": {
+		"message": "TTC cena handlowa rabat",
+		"translated": true
+	},
+	"Remise sur prix commercial HT": {
+		"message": "HT rabat na ceny komercyjne",
+		"translated": true
+	},
+	"% remise sur prix commercial HT": {
+		"message": "% rabatu Edycja w cenie komercyjnej HT",
+		"translated": true
+	},
+	"% remise sur prix commercial TTC": {
+		"message": "% Rabat Edycja w cenie komercyjnej TTC",
+		"translated": true
+	},
+	"Coût total acquéreur du lot TTC": {
+		"message": "Całkowity koszt nabywcy TTC lot",
+		"translated": true
+	},
+	"Total prix de réservation du lot": {
+		"message": "Całkowita cena rezerwacji lot",
+		"translated": true
+	},
+	"Tiers facturé": {
+		"message": "Trzecia opłata",
+		"translated": true
+	},
+	"codeStatut": {
+		"message": "Stan",
+		"translated": true
+	},
+	"Fin de validité du devis": {
+		"message": "Koniec cytatu",
+		"translated": true
+	},
+	"Caractéristique": {
+		"message": "Charakterystyczne",
+		"translated": true
+	},
+	"Technique": {
+		"message": "Techniczne",
+		"translated": true
+	},
+	"Esthétique": {
+		"message": "Estetyczne",
+		"translated": true
+	},
+	"Référence TMA": {
+		"message": "Odniesienie do TMA",
+		"translated": true
+	},
+	"Référence devis": {
+		"message": "Odwołanie do oferty",
+		"translated": true
+	},
+	"Référence facture": {
+		"message": "Odwołanie do faktury",
+		"translated": true
+	},
+	"Numéros des lots": {
+		"message": "Numery partii",
+		"translated": true
+	},
+	"Pièces": {
+		"message": "Udziałów",
+		"translated": true
+	},
+	"Inclus dans l'acte": {
+		"message": "Zawarte w czyn",
+		"translated": true
+	},
+	"Description": {
+		"message": "Opis",
+		"translated": true
+	},
+	"Mode de réglement": {
+		"message": "Tryb rozliczenia",
+		"translated": true
+	},
+	"Virement": {
+		"message": "Transfer",
+		"translated": true
+	},
+	"Chèque": {
+		"message": "Sprawdzić",
+		"translated": true
+	},
+	"Cpt": {
+		"message": "Cpt",
+		"translated": true
+	},
+	"Pièce(s)": {
+		"message": "Pokoje",
+		"translated": true
+	},
+	"Quantité": {
+		"message": "Kwota",
+		"translated": true
+	},
+	"Prix de revient unitaire HT": {
+		"message": "Jednostkowa cena kosztu HT",
+		"translated": true
+	},
+	"Prix de revient unitaire TTC": {
+		"message": "TTC jednostkowy koszt własny",
+		"translated": true
+	},
+	"Prix de revient HT": {
+		"message": "Cena koszta HT",
+		"translated": true
+	},
+	"Prix de revient TTC": {
+		"message": "TTC koszt własny",
+		"translated": true
+	},
+	"Prix de vente unitaire HT": {
+		"message": "Jednostkowa cena sprzedaży HT",
+		"translated": true
+	},
+	"Prix de vente unitaire TTC": {
+		"message": "TTC jednostkowa cena sprzedaży",
+		"translated": true
+	},
+	"Prix de vente remisé HT": {
+		"message": "Cena sprzedaży zdyskontowana HT",
+		"translated": true
+	},
+	"Prix de vente remisé TTC": {
+		"message": "Cena sprzedaży zdyskontowana TTC",
+		"translated": true
+	},
+	"Impact travaux": {
+		"message": "Prace udarowe",
+		"translated": true
+	},
+	"Coef": {
+		"message": "COEF",
+		"translated": true
+	},
+	"Offert": {
+		"message": "Oferowane",
+		"translated": true
+	},
+	"Descriptif détaillé": {
+		"message": "Szczegółowy opis",
+		"translated": true
+	},
+	"Signature": {
+		"message": "Podpis",
+		"translated": true
+	},
+	"Date échéance": {
+		"message": "Termin",
+		"translated": true
+	},
+	"Prévu": {
+		"message": "Planowane",
+		"translated": true
+	},
+	"Réalisé": {
+		"message": "Realizowane",
+		"translated": true
+	},
+	"Appelé": {
+		"message": "Wywoływana",
+		"translated": true
+	},
+	"Encaissé": {
+		"message": "Zrealizowane",
+		"translated": true
+	},
+	"Date validation": {
+		"message": "Weryfikacja daty",
+		"translated": true
+	},
+	"Annuler le TMA": {
+		"message": "Anulowanie TMA",
+		"translated": true
+	},
+	"Refuser le TMA": {
+		"message": "Odmówić TMA",
+		"translated": true
+	},
+	"Afficher échéancier du TMA": {
+		"message": "Wyświetl oś czasu TMA",
+		"translated": true
+	},
+	"Afficher historique des statuts": {
+		"message": "Wyświetlanie historii stanu",
+		"translated": true
+	},
+	"Sauvegarder le dossier": {
+		"message": "Zapisz folder",
+		"translated": true
+	},
+	"Annuler la saisie": {
+		"message": "Anulowanie wpisu",
+		"translated": true
+	},
+	"Stopper le processus de saisie": {
+		"message": "Zatrzymanie procesu napadów",
+		"translated": true
+	},
+	"Dossier Client": {
+		"message": "Plik klienta",
+		"translated": true
+	},
+	"Imprimer": {
+		"message": "Drukowania",
+		"translated": true
+	},
+	"Echéancier lot": {
+		"message": "Szachówka lot",
+		"translated": true
+	},
+	"Dates du dossier": {
+		"message": "Daty pliku",
+		"translated": true
+	},
+	"Dates des lots": {
+		"message": "Daty partii",
+		"translated": true
+	},
+	"Dates": {
+		"message": "Daty",
+		"translated": true
+	},
+	"Prix": {
+		"message": "Cena",
+		"translated": true
+	},
+	"Echéancier": {
+		"message": "Szachy",
+		"translated": true
+	},
+	"Dépôt de Garantie": {
+		"message": "Depozyt gwarancyjny",
+		"translated": true
+	},
+	"Financements": {
+		"message": "Finansowania",
+		"translated": true
+	},
+	"Vendeurs": {
+		"message": "Sprzedawców",
+		"translated": true
+	},
+	"Récapitulatif": {
+		"message": "Krótki opis",
+		"translated": true
+	},
+	"Id Réservation": {
+		"message": "Rezerwacja ID",
+		"translated": true
+	},
+	"Total du prix Commercial TTC": {
+		"message": "Całkowita cena handlowa TTC",
+		"translated": true
+	},
+	"Total du prix Commercial HT": {
+		"message": "Całkowita cena handlowa HT",
+		"translated": true
+	},
+	"Total acte de vente TTC": {
+		"message": "Suma czyn sprzedaży TTC",
+		"translated": true
+	},
+	"Total acte de vente HT": {
+		"message": "Suma DEed sprzedaży HT",
+		"translated": true
+	},
+	"Création du dossier": {
+		"message": "Tworzenie folderu",
+		"translated": true
+	},
+	"Pose d'option": {
+		"message": "Opcjonalne ułożenie",
+		"translated": true
+	},
+	"Fin d'option": {
+		"message": "Koniec opcji",
+		"translated": true
+	},
+	"Réservation": {
+		"message": "Rezerwacje",
+		"translated": true
+	},
+	"Date vente contractuelle": {
+		"message": "Data kontraktu brudne",
+		"translated": true
+	},
+	"Par lot": {
+		"message": "Na partię",
+		"translated": true
+	},
+	"Envoi du contrat de réservation": {
+		"message": "Wysłanie umowy rezerwacji",
+		"translated": true
+	},
+	"Date de 1ère présentation recommandé": {
+		"message": "Data 1. zalecana Prezentacja",
+		"translated": true
+	},
+	"Date limite de rétractation": {
+		"message": "Wycofanie terminu",
+		"translated": true
+	},
+	"Date de vente contractuelle": {
+		"message": "Umowna Data zabrudzenia",
+		"translated": true
+	},
+	"Date de livraison contractuelle": {
+		"message": "Data dostawy kontraktu",
+		"translated": true
+	},
+	"Date report livraison (client)": {
+		"message": "Termin dostawy (klient)",
+		"translated": true
+	},
+	"Montant indémnités": {
+		"message": "Odszkodowania z tytułu kwot",
+		"translated": true
+	},
+	"Date de notification notaire": {
+		"message": "Data powiadomienia notariusza",
+		"translated": true
+	},
+	"Date de convocation notaire": {
+		"message": "Data wezwania notariusza",
+		"translated": true
+	},
+	"N° Recommandé": {
+		"message": "Zalecana nr.",
+		"translated": true
+	},
+	"Forcer la TVA": {
+		"message": "Wymuszanie podatku VAT",
+		"translated": true
+	},
+	"Courrier de convocation client": {
+		"message": "Klient przywołuje pocztę",
+		"translated": true
+	},
+	"Date de livraison / réalisée": {
+		"message": "Termin dostawy/ukończono",
+		"translated": true
+	},
+	"Réception par le Maître d'ouvrage": {
+		"message": "Odbiór przez właściciela",
+		"translated": true
+	},
+	"TMA inclus TTC": {
+		"message": "TMA zawarte TTC",
+		"translated": true
+	},
+	"TMA inclus HT": {
+		"message": "TMA zawiera HT",
+		"translated": true
+	},
+	"Dation HT": {
+		"message": "Fundacja HT",
+		"translated": true
+	},
+	"Dation TTC": {
+		"message": "Fundacja TTC",
+		"translated": true
+	},
+	"Lot(s)": {
+		"message": "Wiele",
+		"translated": true
+	},
+	"Montants du dossier": {
+		"message": "Kwoty pliku",
+		"translated": true
+	},
+	"Appels de fonds": {
+		"message": "Pozyskiwania funduszy",
+		"translated": true
+	},
+	"N° de dossier:": {
+		"message": "Numer pliku:",
+		"translated": true
+	},
+	"Création dossier": {
+		"message": "Tworzenie foldera",
+		"translated": true
+	},
+	"Total prix réservation TTC ": {
+		"message": "Razem TTC cena rezerwacji ",
+		"translated": true
+	},
+	"Total prix réservation HT ": {
+		"message": "Całkowita cena rezerwacja HT ",
+		"translated": true
+	},
+	"Total dation TTC ": {
+		"message": "Całkowity fundament TTC ",
+		"translated": true
+	},
+	"Total dation HT ": {
+		"message": "Całkowity fundament HT ",
+		"translated": true
+	},
+	"Vendeur": {
+		"message": "Sprzedawca",
+		"translated": true
+	},
+	"Id vendeur": {
+		"message": "Identyfikator sprzedawcy",
+		"translated": true
+	},
+	"Représentant": {
+		"message": "Przedstawiciel",
+		"translated": true
+	},
+	"Type de vendeur": {
+		"message": "Typowy sprzedawca",
+		"translated": true
+	},
+	"HT/TTC": {
+		"message": "HT/TTC",
+		"translated": true
+	},
+	"Base": {
+		"message": "Podstawowej",
+		"translated": true
+	},
+	"Commission HT": {
+		"message": "Komisja HT",
+		"translated": true
+	},
+	"Commission TTC": {
+		"message": "Komisja TTC",
+		"translated": true
+	},
+	"Indivision": {
+		"message": "Indivision",
+		"translated": true
+	},
+	"Couple": {
+		"message": "Kilka",
+		"translated": true
+	},
+	"Origine du contact": {
+		"message": "Pochodzenie kontaktu",
+		"translated": true
+	},
+	"Qualité du client": {
+		"message": "Jakość klienta",
+		"translated": true
+	},
+	"texte1": {
+		"message": "Text1",
+		"translated": true
+	},
+	"texte2": {
+		"message": "Text2",
+		"translated": true
+	},
+	"texte3": {
+		"message": "Text3",
+		"translated": true
+	},
+	"texte4": {
+		"message": "Text4",
+		"translated": true
+	},
+	"texte5": {
+		"message": "Tekst5",
+		"translated": true
+	},
+	"codif1": {
+		"message": "codif1",
+		"translated": true
+	},
+	"codif2": {
+		"message": "codif2",
+		"translated": true
+	},
+	"codif3": {
+		"message": "codif3",
+		"translated": true
+	},
+	"codif4": {
+		"message": "codif4",
+		"translated": true
+	},
+	"codif5": {
+		"message": "codif5",
+		"translated": true
+	},
+	"Clôture": {
+		"message": "Zamykanie",
+		"translated": true
+	},
+	"Intermédiaire": {
+		"message": "Pośrednich",
+		"translated": true
+	},
+	"Exercice": {
+		"message": "Ćwiczenia",
+		"translated": true
+	},
+	"Liste des opérations": {
+		"message": "Lista operacji",
+		"translated": true
+	},
+	"Comptes bancaires": {
+		"message": "Rachunki bankowe",
+		"translated": true
+	},
+	"A partir d'une opération": {
+		"message": "Z operacji",
+		"translated": true
+	},
+	"Récuperer comptes d\\'une operation": {
+		"message": "Odzyskiwanie kont z operacji",
+		"translated": true
+	},
+	"Intitulé du compte": {
+		"message": "Konto uprawnione",
+		"translated": true
+	},
+	"Type de compte": {
+		"message": "Typ konta",
+		"translated": true
+	},
+	"Compte par défaut": {
+		"message": "Konto domyślne",
+		"translated": true
+	},
+	"Compte comptable": {
+		"message": "Konto księgowe",
+		"translated": true
+	},
+	"Code journal": {
+		"message": "Kod gazety",
+		"translated": true
+	},
+	"Code journal de réaffectation": {
+		"message": "Kod dziennika ponownego przypisania",
+		"translated": true
+	},
+	"Liste des exercices d'une société": {
+		"message": "Lista ćwiczeń firmy",
+		"translated": true
+	},
+	"Ouverture nouvel exercice": {
+		"message": "Otwarcie nowego roku obrachunkowego",
+		"translated": true
+	},
+	"Suppression dernier exercice": {
+		"message": "Zeszłorocznej kasowania",
+		"translated": true
+	},
+	"Périodes de comptabilisation": {
+		"message": "Okresy obrachunkowe",
+		"translated": true
+	},
+	"Mensuelles": {
+		"message": "Miesięczne",
+		"translated": true
+	},
+	"Trimestrielles": {
+		"message": "Kwartalne",
+		"translated": true
+	},
+	"Semestrielles": {
+		"message": "Półrocznego",
+		"translated": true
+	},
+	"Annuelles": {
+		"message": "Roczne",
+		"translated": true
+	},
+	"Clôture Exercice": {
+		"message": "Ćwiczenie zamknięcia",
+		"translated": true
+	},
+	"En cours": {
+		"message": "W toku",
+		"translated": true
+	},
+	"Ouvert": {
+		"message": "Otwórz",
+		"translated": true
+	},
+	"Clos": {
+		"message": "Zamknięta",
+		"translated": true
+	},
+	"Type d'opération": {
+		"message": "Typ operacji",
+		"translated": true
+	},
+	"Référence comptable": {
+		"message": "Odniesienie księgowe",
+		"translated": true
+	},
+	"Paramétrage type": {
+		"message": "Typowe ustawienia",
+		"translated": true
+	},
+	"Statut Juridique": {
+		"message": "Status prawny",
+		"translated": true
+	},
+	"Forme juridique": {
+		"message": "Forma prawna",
+		"translated": true
+	},
+	"Capital": {
+		"message": "Kapitału",
+		"translated": true
+	},
+	"Nombre de parts": {
+		"message": "Liczba udziałów",
+		"translated": true
+	},
+	"Liquidateur": {
+		"message": "Likwidator",
+		"translated": true
+	},
+	"Société Mère": {
+		"message": "Towarzystwo matki",
+		"translated": true
+	},
+	"Enregistrement de la société": {
+		"message": "Rejestracja firmy",
+		"translated": true
+	},
+	"Pas de liquidateur": {
+		"message": "Brak likwidatora",
+		"translated": true
+	},
+	"Opérations rattachées": {
+		"message": "Powiązane operacje",
+		"translated": true
+	},
+	"Liste des sociétés": {
+		"message": "Lista firm",
+		"translated": true
+	},
+	"Nom de la société": {
+		"message": "Nazwa firmy",
+		"translated": true
+	},
+	"Nom du tiers": {
+		"message": "Nazwa podmiotu trzeciego",
+		"translated": true
+	},
+	"Nom du liquidateur": {
+		"message": "Nazwa likwidatora",
+		"translated": true
+	},
+	"Forme Juridique": {
+		"message": "Forma prawna",
+		"translated": true
+	},
+	"Périmètre société": {
+		"message": "Obwód firmy",
+		"translated": true
+	},
+	"Référence Comptable": {
+		"message": "Odniesienie księgowe",
+		"translated": true
+	},
+	"Société mère": {
+		"message": "Spółka dominująca",
+		"translated": true
+	},
+	"Date prévisionnelle signature des statuts": {
+		"message": "Data prognozy, podpisanie statutu",
+		"translated": true
+	},
+	"Montant du capital": {
+		"message": "Kwota kapitału",
+		"translated": true
+	},
+	"Valeur nominale": {
+		"message": "Wartość nominalna",
+		"translated": true
+	},
+	"Date création de la société": {
+		"message": "Data utworzenia firmy",
+		"translated": true
+	},
+	"Date d'Assemblée Générale": {
+		"message": "Data Zgromadzenia ogólnego",
+		"translated": true
+	},
+	"Extrait Kbis de radiation": {
+		"message": "Wyodrębnianie promieniowania KBIS",
+		"translated": true
+	},
+	"Date de liquidation": {
+		"message": "Data likwidacji",
+		"translated": true
+	},
+	"Ecritures d'engagement prix de revient": {
+		"message": "Pisma o zobowiązaniu do ceny kosztowej",
+		"translated": true
+	},
+	"Ecritures d'accession": {
+		"message": "Pisma święte o przystąpieniu",
+		"translated": true
+	},
+	"Ecritures de variation de stock": {
+		"message": "Publikacje o wariacjach giełdowych",
+		"translated": true
+	},
+	"Ecritures d'inventaires (FNP)": {
+		"message": "Pisma magazynowe (NPF)",
+		"translated": true
+	},
+	"Reprendre le paramétrage type": {
+		"message": "Powrót do standardowego ustawienia",
+		"translated": true
+	},
+	"Chemin de l'export": {
+		"message": "Ścieżka eksportu",
+		"translated": true
+	},
+	"\\": {
+		"message": "\\",
+		"translated": true
+	},
+	"Add": {
+		"message": "Dodaj",
+		"translated": true
+	},
+	"Associés": {
+		"message": "Powiązane",
+		"translated": true
+	},
+	"Gérant": {
+		"message": "Menedżer",
+		"translated": true
+	},
+	"Pourcentage": {
+		"message": "Procent",
+		"translated": true
+	},
+	"Mandataire": {
+		"message": "Agenta",
+		"translated": true
+	},
+	"Totaux": {
+		"message": "Łącznych",
+		"translated": true
+	},
+	"TOTAL": {
+		"message": "Łącznych",
+		"translated": true
+	},
+	"Montants": {
+		"message": "Kwoty",
+		"translated": true
+	},
+	"Mode de commercialisation": {
+		"message": "Jak sprzedać",
+		"translated": true
+	},
+	"Méthode comptable": {
+		"message": "Metoda księgowania",
+		"translated": true
+	},
+	"Société modèle": {
+		"message": "Modelowa firma",
+		"translated": true
+	},
+	"Date de début du 1er exercice": {
+		"message": "Data rozpoczęcia dla 1 roku podatkowego",
+		"translated": true
+	},
+	"Date de clôture exercice": {
+		"message": "Data zakończenia roku",
+		"translated": true
+	},
+	"Périodes de clôtures intermédiaires": {
+		"message": "Pośrednie okresy zamknięcia",
+		"translated": true
+	},
+	"Date de clôture dépenses": {
+		"message": "Wydatki na datę zamknięcia",
+		"translated": true
+	},
+	"Date de clôture recettes": {
+		"message": "Przepisy daty zamknięcia",
+		"translated": true
+	},
+	"Clôturer": {
+		"message": "Zamknij",
+		"translated": true
+	},
+	"Déclôturer": {
+		"message": "Cofając zamknięcie",
+		"translated": true
+	},
+	"Dernière clôture": {
+		"message": "Ostatni ogrodzenie",
+		"translated": true
+	},
+	"Dernier exercice": {
+		"message": "Ostatni rok obrachunkowy",
+		"translated": true
+	},
+	"Date de création": {
+		"message": "Data utworzenia",
+		"translated": true
+	},
+	"Stades Travaux": {
+		"message": "Stadiony i dzieła",
+		"translated": true
+	},
+	"Enregistrer": {
+		"message": "Zapisz",
+		"translated": true
+	},
+	"Ajout d'une attestation MOE": {
+		"message": "Dodano certyfikat MOE",
+		"translated": true
+	},
+	"Valider le stade travaux": {
+		"message": "Walidacja etapu pracy",
+		"translated": true
+	},
+	"Annuler le dernier stade": {
+		"message": "Anulowanie ostatniego etapu",
+		"translated": true
+	},
+	"Stade à valider": {
+		"message": "Stadion do walidacji",
+		"translated": true
+	},
+	"Code Stade à valider": {
+		"message": "Kod stadionu do walidacji",
+		"translated": true
+	},
+	"Date de validation": {
+		"message": "Data zatwierdzenia",
+		"translated": true
+	},
+	"Tranche Commerciale": {
+		"message": "Plasterek handlowy",
+		"translated": true
+	},
+	"Id. Lot Immo": {
+		"message": "ID. lot Immo",
+		"translated": true
+	},
+	"Batiment": {
+		"message": "Budynku",
+		"translated": true
+	},
+	"Nom du client": {
+		"message": "Nazwa klienta",
+		"translated": true
+	},
+	"Dernier stade validé tranche": {
+		"message": "Ostatni etap walidacji plasterka",
+		"translated": true
+	},
+	"Date dernier stade tranche": {
+		"message": "Ostatni etap Data wycinka",
+		"translated": true
+	},
+	"Dernier stade validé lot": {
+		"message": "Ostatni etap zatwierdzone partii",
+		"translated": true
+	},
+	"Date dernier stade lot": {
+		"message": "Data ostatniego etapu",
+		"translated": true
+	},
+	"Code stade à valider": {
+		"message": "Kod stadionu do walidacji",
+		"translated": true
+	},
+	"Date stade à valider": {
+		"message": "Data etapu do walidacji",
+		"translated": true
+	},
+	"Attestation MOE": {
+		"message": "Certyfikat MOE",
+		"translated": true
+	},
+	"Users": {
+		"message": "Użytkowników",
+		"translated": true
+	},
+	"Groups": {
+		"message": "Grupy",
+		"translated": true
+	},
+	"Domicilié(e)": {
+		"message": "W: strona główna",
+		"translated": true
+	},
+	"En France": {
+		"message": "We Francji",
+		"translated": true
+	},
+	"A l'étranger": {
+		"message": "Za granicą",
+		"translated": true
+	},
+	"Adresse *": {
+		"message": "Adres",
+		"translated": true
+	},
+	"Bâtiment, résidence, entrée...": {
+		"message": "Budynek, rezydencja, wejście...",
+		"translated": true
+	},
+	"N° et voie (rue, allée, avenue, boulevard...)": {
+		"message": "No i pas (ulica, podjazd, Aleja, bulwar...)",
+		"translated": true
+	},
+	"Lieu-dit, boite postale...": {
+		"message": "Miejsce powiedział, poczta pudełko...",
+		"translated": true
+	},
+	"Complément": {
+		"message": "Uzupełnienie",
+		"translated": true
+	},
+	"Créer un nouveau tiers": {
+		"message": "Tworzenie nowej strony trzeciej",
+		"translated": true
+	},
+	"Type du tiers": {
+		"message": "Typ strony trzeciej",
+		"translated": true
+	},
+	"Reference": {
+		"message": "Odwołanie",
+		"translated": true
+	},
+	"Siret": {
+		"message": "Siret",
+		"translated": true
+	},
+	"Raison Sociale": {
+		"message": "Powód społeczny",
+		"translated": true
+	},
+	"NAF": {
+		"message": "Naf",
+		"translated": true
+	},
+	"SIRET": {
+		"message": "Siret",
+		"translated": true
+	},
+	"NIC": {
+		"message": "Nic",
+		"translated": true
+	},
+	"Raison sociale": {
+		"message": "Powód społeczny",
+		"translated": true
+	},
+	"Fax": {
+		"message": "Faksu",
+		"translated": true
+	},
+	"Site internet": {
+		"message": "Stronie internetowej",
+		"translated": true
+	},
+	"Réference comptable": {
+		"message": "Odniesienie księgowe",
+		"translated": true
+	},
+	"Titre": {
+		"message": "Tytuł",
+		"translated": true
+	},
+	"Localité": {
+		"message": "Miejscowości",
+		"translated": true
+	},
+	"Date appel": {
+		"message": "Data połączenia",
+		"translated": true
+	},
+	"Facturer": {
+		"message": "Obciążenia",
+		"translated": true
+	},
+	"Taux appel": {
+		"message": "Częstotliwość połączeń",
+		"translated": true
+	},
+	"Coefficient des TMA": {
+		"message": "Współczynnik des TMA",
+		"translated": true
+	},
+	"Validité du devis (en jours)": {
+		"message": "Ważność cytatu (w dniach)",
+		"translated": true
+	},
+	"Moins-value interdite sur un dossier de vente": {
+		"message": "Zabroniona utrata wartości w brudnym pliku",
+		"translated": true
+	},
+	"Échéancier": {
+		"message": "Harmonogram",
+		"translated": true
+	},
+	"Échéancier modèle des TMA": {
+		"message": "Model osi czasu dla MATs",
+		"translated": true
+	},
+	"Échéance": {
+		"message": "Dojrzałości",
+		"translated": true
+	},
+	"Événement": {
+		"message": "Zdarzenie",
+		"translated": true
+	},
+	"fixe": {
+		"message": "Stałe",
+		"translated": true
+	},
+	"signature": {
+		"message": "Podpis",
+		"translated": true
+	},
+	"livraison": {
+		"message": "Dostawy",
+		"translated": true
+	},
+	"% appel": {
+		"message": "Wywołanie%",
+		"translated": true
+	},
+	"Annuler la saisie du désistement": {
+		"message": "Anulowanie wypłaty",
+		"translated": true
+	},
+	"Annuler la saisie de la résolution": {
+		"message": "Anulowanie wpisu rozdzielczości",
+		"translated": true
+	},
+	"Outils Techniques": {
+		"message": "Narzędzia techniczne",
+		"translated": true
+	},
+	"Détail": {
+		"message": "Szczegółów",
+		"translated": true
+	},
+	"Critères de sélection": {
+		"message": "Kryteria wyboru",
+		"translated": true
+	},
+	"Liste des appels de fonds correspondants": {
+		"message": "Lista odpowiednich zbiórek pieniędzy",
+		"translated": true
+	},
+	"Liste des appels de fonds": {
+		"message": "Lista zbiórek pieniędzy",
+		"translated": true
+	},
+	"Liste des opérations et tranches travaux": {
+		"message": "Lista operacji i plasterków roboczych",
+		"translated": true
+	},
+	"Detail de calcul": {
+		"message": "Szczegóły obliczeń",
+		"translated": true
+	},
+	"Classeurs": {
+		"message": "Skoroszytów",
+		"translated": true
+	},
+	"Paramétrage des codifications {{titleCategorie}}": {
+		"message": "Ustawianie kodowań \"titleCategorie\"",
+		"translated": true
+	},
+	"Sélection": {
+		"message": "Wybór",
+		"translated": true
+	},
+	"Compte client": {
+		"message": "Konto klienta",
+		"translated": true
+	},
+	"Acquisitions": {
+		"message": "Przejęcia",
+		"translated": true
+	},
+	"Pas de titre": {
+		"message": "Brak tytułu",
+		"translated": true
+	},
+	"Rôles fonctionnels": {
+		"message": "Role funkcjonalne",
+		"translated": true
+	},
+	"Rôle fonctionnel": {
+		"message": "Rola funkcjonalna",
+		"translated": true
+	},
+	"Echéanciers Type": {
+		"message": "Typ Echelolds",
+		"translated": true
+	},
+	"Echéances": {
+		"message": "Czas",
+		"translated": true
+	},
+	"Liste des factures à encaisser": {
+		"message": "Lista rachunków do zebrania",
+		"translated": true
+	},
+	"Liste des encaissements correspondants": {
+		"message": "Lista odpowiednich wpływów pieniężnych",
+		"translated": true
+	},
+	" {{libelleTitle}}": {
+		"message": " \"LibelleTitle\"",
+		"translated": true
+	},
+	"Emplacement": {
+		"message": "Wynajem",
+		"translated": true
+	},
+	"Surfaces": {
+		"message": "Powierzchni",
+		"translated": true
+	},
+	"Exposition": {
+		"message": "Wystawa",
+		"translated": true
+	},
+	"Champs paramétrables": {
+		"message": "Pola ustawiania",
+		"translated": true
+	},
+	"Liste des encaissements correspondant": {
+		"message": "Lista odpowiednich wpływów pieniężnych",
+		"translated": true
+	},
+	"Liste des tranches commerciales": {
+		"message": "Lista komercyjnych plastrów",
+		"translated": true
+	},
+	"Liste des tranches travaux": {
+		"message": "Lista plasterków roboczych",
+		"translated": true
+	},
+	"Vignette": {
+		"message": "Naklejki",
+		"translated": true
+	},
+	"Grid": {
+		"message": "Siatki",
+		"translated": true
+	},
+	"Liste des lots disponibles": {
+		"message": "Lista dostępnych partii",
+		"translated": true
+	},
+	"Modèle à créer": {
+		"message": "Model do utworzenia",
+		"translated": true
+	},
+	"Modèle à modifier": {
+		"message": "Model do zmodyfikowania",
+		"translated": true
+	},
+	"Détail de la règle": {
+		"message": "Szczegóły reguły",
+		"translated": true
+	},
+	"Liste des règles": {
+		"message": "Lista reguł",
+		"translated": true
+	},
+	"Totaux grille de prix": {
+		"message": "Łączna cena siatka",
+		"translated": true
+	},
+	" {{titleLots}}": {
+		"message": " \"titleLots\"",
+		"translated": true
+	},
+	"Choix de modèle": {
+		"message": "Wybór modelu",
+		"translated": true
+	},
+	"Edition": {
+		"message": "Edition",
+		"translated": true
+	},
+	"Modification du taux de TVA du lot": {
+		"message": "Zmiana stawki VAT partii",
+		"translated": true
+	},
+	"Informations bancaires du compte séquestre": {
+		"message": "Dane bankowe konta odbiorcy",
+		"translated": true
+	},
+	" {{libelle}}": {
+		"message": " Libelle",
+		"translated": true
+	},
+	"Informations générales": {
+		"message": "Informacje ogólne",
+		"translated": true
+	},
+	"Détail du prêt": {
+		"message": "Szczegóły pożyczki",
+		"translated": true
+	},
+	"Assurance du prêt": {
+		"message": "Ubezpieczenie kredytu",
+		"translated": true
+	},
+	"Aide à la vente TTC": {
+		"message": "TTC pomoc handlowa",
+		"translated": true
+	},
+	"Totaux par acquéreur": {
+		"message": "Suma na nabywcę",
+		"translated": true
+	},
+	"Echéancier du TMA": {
+		"message": "TMA Echelon",
+		"translated": true
+	},
+	"Historique des statuts": {
+		"message": "Historia stanu",
+		"translated": true
+	},
+	" {{titleResa}}": {
+		"message": " TitleResa (w)",
+		"translated": true
+	},
+	"Récapitulatif du dossier {{code}} - {{libelle}}": {
+		"message": "Podsumowanie folderu 'code '-'delibel '",
+		"translated": true
+	},
+	"Acquéreur": {
+		"message": "Nabywcy",
+		"translated": true
+	},
+	"Détail du tiers": {
+		"message": "Szczegóły trzeciego",
+		"translated": true
+	},
+	"Coordonnées": {
+		"message": "Współrzędne",
+		"translated": true
+	},
+	"Adresses": {
+		"message": "Adresy",
+		"translated": true
+	},
+	"Statistiques": {
+		"message": "Statystyki",
+		"translated": true
+	},
+	"Liste des comptes bancaires": {
+		"message": "Lista rachunków bankowych",
+		"translated": true
+	},
+	"Société {{libelleSociete}}": {
+		"message": "Societe 'Liberalsociete '",
+		"translated": true
+	},
+	" {{title}}": {
+		"message": " tytuł",
+		"translated": true
+	},
+	"Juridique": {
+		"message": "Prawnych",
+		"translated": true
+	},
+	"Tour de table": {
+		"message": "Okrążenie stołu",
+		"translated": true
+	},
+	"Liquidation": {
+		"message": "Likwidacji",
+		"translated": true
+	},
+	"Paramétrage comptable et fiscal": {
+		"message": "Ustawienia księgowości i podatków",
+		"translated": true
+	},
+	"Codes journaux": {
+		"message": "Kody do gazet",
+		"translated": true
+	},
+	"Paramétrage des exercices et clôtures comptables : modèle {{libelle}}": {
+		"message": "Konfigurowanie dla lat obrachunkowych i ogrodzeń księgowych: model \"libelle\"",
+		"translated": true
+	},
+	"Création exercice": {
+		"message": "Ćwiczenie tworzenia",
+		"translated": true
+	},
+	"Gestion des périodes de clôtures": {
+		"message": "Zarządzanie okresami zamknięcia",
+		"translated": true
+	},
+	"Liste des lots correspondants": {
+		"message": "Lista odpowiednich partii",
+		"translated": true
+	},
+	"Ajout d’un tiers": {
+		"message": "Dodawanie trzeciej",
+		"translated": true
+	},
+	"Informations complémentaires": {
+		"message": "Więcej informacji",
+		"translated": true
+	},
+	" {{title}} ": {
+		"message": " tytuł ",
+		"translated": true
+	},
+	"Facturation des TMA en masse": {
+		"message": "Masowe fakturowanie AMA",
+		"translated": true
+	},
+	"Paramétrage générique": {
+		"message": "Ustawienie rodzajowe",
+		"translated": true
+	},
+	"Création des Échéanciers TMA": {
+		"message": "Tworzenie terminów TMA",
+		"translated": true
+	},
+	"Resolution": {
+		"message": "Rozdzielczość",
+		"translated": true
+	},
+	"Administration": {
+		"message": "Administracji",
+		"translated": true
+	},
+	"Lancement des appels de fonds": {
+		"message": "Rozpoczęcie odwołań od funduszy",
+		"translated": true
+	},
+	"Visualisation des appels de fonds": {
+		"message": "Wyświetlanie odwołań do pozyskiwania funduszy",
+		"translated": true
+	},
+	"Les champs personnalisables": {
+		"message": "Dostosowywane pola",
+		"translated": true
+	},
+	"Paramétrage des codifications": {
+		"message": "Ustalanie kodyfikacje",
+		"translated": true
+	},
+	"Ajout d'une condition suspensive": {
+		"message": "Dodawanie warunku zawieszającego",
+		"translated": true
+	},
+	"Habilitations et contrôle des accès": {
+		"message": "Wzmocnienie pozycji i kontrola dostępu",
+		"translated": true
+	},
+	"Création d'un groupe": {
+		"message": "Tworzenie grupy",
+		"translated": true
+	},
+	"Groupes fonctionnels et organisationnels": {
+		"message": "Grupy funkcjonalne i organizacyjne",
+		"translated": true
+	},
+	"Niveau organisationnel description": {
+		"message": "Opis poziomu organizacyjnego",
+		"translated": true
+	},
+	"Attribution des droits": {
+		"message": "Przydział praw",
+		"translated": true
+	},
+	"Encaissements": {
+		"message": "Wpływy",
+		"translated": true
+	},
+	"Détail fiche lot - Description": {
+		"message": "Arkusz partii detali-opis",
+		"translated": true
+	},
+	"Flux financement": {
+		"message": "Przepływy finansowania",
+		"translated": true
+	},
+	"Calcul des frais financiers": {
+		"message": "Obliczanie kosztów finansowych",
+		"translated": true
+	},
+	"Périmètre sociétés": {
+		"message": "Obwód korporacyjny",
+		"translated": true
+	},
+	"Session expirée": {
+		"message": "Sesja wygasła",
+		"translated": true
+	},
+	"Paramétrage": {
+		"message": "Ustawienie",
+		"translated": true
+	},
+	"Saisie d'une réservation": {
+		"message": "Wprowadzanie rezerwacji",
+		"translated": true
+	},
+	"Exercices comptables": {
+		"message": "Ćwiczenia księgowe",
+		"translated": true
+	},
+	"Ouverture et clôture d'exercice": {
+		"message": "Otwarcie i zamknięcie roku",
+		"translated": true
+	},
+	"Société : informations administratives et juridiques": {
+		"message": "Firma: informacje administracyjne i prawne",
+		"translated": true
+	},
+	"Paramétrage des exercices et clôtures comptables": {
+		"message": "Ustanowienie lat budżetowych i zamknięcia rachunkowości",
+		"translated": true
+	},
+	"Acte de vente": {
+		"message": "Deed sprzedaży",
+		"translated": true
+	},
+	"Block": {
+		"message": "Bloku",
+		"translated": true
+	},
+	"Row": {
+		"message": "Wiersza",
+		"translated": true
+	},
+	"Accordion": {
+		"message": "Akordeon",
+		"translated": true
+	},
+	"Form": {
+		"message": "Formularza",
+		"translated": true
+	},
+	"Tabs": {
+		"message": "Karty",
+		"translated": true
+	},
+	"IFrame": {
+		"message": "Iframe",
+		"translated": true
+	},
+	"Menu as Image": {
+		"message": "Menu jako obraz",
+		"translated": true
+	},
+	"Home Page": {
+		"message": "Strona domowa",
+		"translated": true
+	},
+	"Langue": {
+		"message": "Język",
+		"translated": true
+	},
+	"Choisir la langue": {
+		"message": "Wybór języka",
+		"translated": true
+	},
+	"Dont Dation TTC": {
+		"message": "W tym Dation TTC",
+		"translated": true
+	},
+	"Types de pages": {
+		"message": "Rodzaje stron",
+		"translated": true
+	},
+	"Outils": {
+		"message": "Narzędzia",
+		"translated": true
+	},
+	"Api Swagger": {
+		"message": "Interfejs API Swagger",
+		"translated": true
+	},
+	"Boîte à outils techniques": {
+		"message": "Przybornik techniczny",
+		"translated": true
+	},
+	"Utilisateurs et habilitations": {
+		"message": "Użytkownicy i inicjacje",
+		"translated": true
+	},
+	"Accueil": {
+		"message": "W: strona główna",
+		"translated": true
+	},
+	"Unité d'organisation Modal": {
+		"message": "Modalna jednostka organizacyjna",
+		"translated": true
+	},
+	"Liste des FNP": {
+		"message": "Wykaz krajowych ram polityki",
+		"translated": true
+	},
+	"Dossier de l'opération": {
+		"message": "Plik transakcji",
+		"translated": true
+	},
+	"Recettes": {
+		"message": "Przepisy",
+		"translated": true
+	},
+	"Appels Fonds": {
+		"message": "Połączenia z Funduszem",
+		"translated": true
+	},
+	"Visualiser": {
+		"message": "Widok",
+		"translated": true
+	},
+	"Visualiser Encaissements": {
+		"message": "Zobacz zarabianie",
+		"translated": true
+	},
+	"Factures Recettes": {
+		"message": "Rachunki receptury",
+		"translated": true
+	},
+	"Liste": {
+		"message": "Listy",
+		"translated": true
+	},
+	"Ouverture / Clôture d'exercice ": {
+		"message": "Otwieranie/zamykanie ćwiczeń ",
+		"translated": true
+	},
+	"Customisation": {
+		"message": "Dostosowywania",
+		"translated": true
+	},
+	"Champs personnalisables": {
+		"message": "Dostosowywane pola",
+		"translated": true
+	},
+	"Codifications": {
+		"message": "Kodyfikacje odnoszące",
+		"translated": true
+	},
+	"Paramétrage TMA": {
+		"message": "Ustawienia TMA",
+		"translated": true
+	},
+	"Echéanciers TMA": {
+		"message": "TMA Echelons",
+		"translated": true
+	},
+	"Aides à la vente par Tranche Commerciale": {
+		"message": "Pomoce handlowe przez Commercial Slice",
+		"translated": true
+	},
+	"Echéanciers": {
+		"message": "Echeanciers (w)",
+		"translated": true
+	},
+	"Echéanciers par Tranche Commerciale": {
+		"message": "Echeanciers przez komercyjne Slice",
+		"translated": true
+	},
+	"Liste de frais financiers internes": {
+		"message": "Wykaz wewnętrznych wydatków finansowych",
+		"translated": true
+	},
+	"Frais financiers internes": {
+		"message": "Wewnętrzne koszty finansowe",
+		"translated": true
+	},
+	"Home": {
+		"message": "W: strona główna",
+		"translated": true
+	},
+	"Ecran pièce comptable": {
+		"message": "Księgowy ekran monety",
+		"translated": true
+	},
+	"Ecran detail calcul FNP stockable": {
+		"message": "Obliczanie ekranu szczegółu FNP stockable",
+		"translated": true
+	},
+	"Ecran detail calcul FNP non stockable": {
+		"message": "Ekran szczegółów obliczeń FNP niestockable",
+		"translated": true
+	},
+	"Ecran de frais financier": {
+		"message": "Ekran wydatków finansowych",
+		"translated": true
+	},
+	"Ecran pièces comptables": {
+		"message": "Dokumenty księgowe ekranu",
+		"translated": true
+	},
+	"Ecran detail frais financiers": {
+		"message": "Szczegóły ekranu koszty finansowe",
+		"translated": true
+	},
+	"Choix Echéanciers": {
+		"message": "Wybór timerów",
+		"translated": true
+	},
+	"Détail libre": {
+		"message": "Bezpłatne szczegóły",
+		"translated": true
+	},
+	"Catalogue": {
+		"message": "Katalog",
+		"translated": true
+	},
+	"Lancer la facturation": {
+		"message": "Rozpocznij rozliczenia",
+		"translated": true
+	},
+	"Détail de calcul": {
+		"message": "Szczegóły obliczeniowe",
+		"translated": true
+	},
+	"Reprise de Référentiel Planning": {
+		"message": "Wznowienie repozytorium planowania",
+		"translated": true
+	},
+	"Passage des opérations du statut « lancé » à « achevé»": {
+		"message": "Przełączanie operacji z \"uruchomiony\" na \"ukończony\"",
+		"translated": true
+	},
+	"Saisie de la date d'achèvement comptable": {
+		"message": "Wprowadzanie daty zakończenia księgowania",
+		"translated": true
+	},
+	"Date achèvement comptable": {
+		"message": "Data zakończenia księgowania",
+		"translated": true
+	},
+	"Délai entre réservation et vente (mois)": {
+		"message": "Czas między rezerwacją a sprzedażą (miesiąc)",
+		"translated": true
+	},
+	"Délai encaissement appel de fonds (jours)": {
+		"message": "Wypłata pieniędzy (dni)",
+		"translated": true
+	},
+	"Code société": {
+		"message": "Kod firmy",
+		"translated": true
+	},
+	"Classeur sociétés": {
+		"message": "Klasyfikator korporacyjny",
+		"translated": true
+	},
+	"filtre de l'objet": {
+		"message": "filtr obiektów",
+		"translated": true
+	},
+	"filtre du thème de l'objet": {
+		"message": "filtrowanie motywu obiektu",
+		"translated": true
+	},
+	"filtre du type de document de l'objet": {
+		"message": "filtruje typ dokumentu obiektu",
+		"translated": true
+	},
+	"Document": {
+		"message": "Dokumentu",
+		"translated": true
+	},
+	"Lien d'upload d'un fichier": {
+		"message": "Przekazywanie łącza do pliku",
+		"translated": true
+	},
+	"Nouveau": {
+		"message": "Nowy",
+		"translated": true
+	},
+	"enumListDef": {
+		"message": "enumListDef",
+		"translated": true
+	},
+	"Objet": {
+		"message": "Obiektu",
+		"translated": true
+	},
+	"Libellé de l'objet": {
+		"message": "Oznaczony etykietą obiektu",
+		"translated": true
+	},
+	"Thème de l'objet": {
+		"message": "Kompozycja Obiekt",
+		"translated": true
+	},
+	"Code du document": {
+		"message": "Kod dokumentu",
+		"translated": true
+	},
+	"Nom du document": {
+		"message": "Nazwa dokumentu",
+		"translated": true
+	},
+	"Date de modification": {
+		"message": "Zmień datę",
+		"translated": true
+	},
+	"Type de document": {
+		"message": "Typ dokumentu",
+		"translated": true
+	},
+	"Reférence de fichier": {
+		"message": "Odwołanie do pliku",
+		"translated": true
+	},
+	"Extension de fichier": {
+		"message": "Formatem",
+		"translated": true
+	},
+	"Lien du fichier": {
+		"message": "Łącze do pliku",
+		"translated": true
+	},
+	"Gantt Data": {
+		"message": "Dane Gantta",
+		"translated": true
+	},
+	"Utiliser modèle par défaut": {
+		"message": "Użyj modelu domyślnego",
+		"translated": true
+	},
+	"Libellé de l'adresse": {
+		"message": "Adres z etykietą",
+		"translated": true
+	},
+	"Adresse principale": {
+		"message": "Adres główny",
+		"translated": true
+	},
+	"Modifier la domiciliation bancaire": {
+		"message": "Zmiana miejsca zamieszkania w banku",
+		"translated": true
+	},
+	"Supprimer la domiciliation bancaire": {
+		"message": "Usuń miejsce zamieszkania w banku",
+		"translated": true
+	},
+	"Passer en domiciliation principale": {
+		"message": "Udaj się do głównej rezydencji",
+		"translated": true
+	},
+	"Domiciliation hors de la zone SEPA": {
+		"message": "Miejsce zamieszkania poza strefą SEPA",
+		"translated": true
+	},
+	"BIC": {
+		"message": "Bic",
+		"translated": true
+	},
+	"Titulaire du compte": {
+		"message": "Właściciel konta",
+		"translated": true
+	},
+	"Créer": {
+		"message": "Utworzyć",
+		"translated": true
+	},
+	"Modifier le représentant": {
+		"message": "Zmiana przedstawiciela",
+		"translated": true
+	},
+	"Supprimer le représentant": {
+		"message": "Skreślenie przedstawiciela",
+		"translated": true
+	},
+	"Passer en représentant principal": {
+		"message": "Przejdź do starszego przedstawiciela",
+		"translated": true
+	},
+	"répresentant principal": {
+		"message": "Głównie reprezentujący",
+		"translated": true
+	},
+	"Profession": {
+		"message": "Zawód",
+		"translated": true
+	},
+	"Date de naissance": {
+		"message": "Data urodzenia",
+		"translated": true
+	},
+	"Liste des tiers": {
+		"message": "Lista osób trzecich",
+		"translated": true
+	},
+	"Tiers Actif": {
+		"message": "Trzeci składnik aktywów",
+		"translated": true
+	},
+	"Appartient au groupe": {
+		"message": "Należy do grupy",
+		"translated": true
+	},
+	"Référence externe": {
+		"message": "Odniesienie zewnętrzne",
+		"translated": true
+	},
+	"Observations": {
+		"message": "Komentarze",
+		"translated": true
+	},
+	"Numéro RCS": {
+		"message": "Numer RCS",
+		"translated": true
+	},
+	"Tribunal de commerce": {
+		"message": "Sąd gospodarczy",
+		"translated": true
+	},
+	"N° TVA Intracommunautaire": {
+		"message": "Wewnątrzwspólnotowy podatek VAT",
+		"translated": true
+	},
+	"Objet de l'entreprise": {
+		"message": "Celem firmy jest",
+		"translated": true
+	},
+	"Début d'activité": {
+		"message": "Początek aktywności",
+		"translated": true
+	},
+	"Date de fermeture": {
+		"message": "Data zamknięcia",
+		"translated": true
+	},
+	"Representant": {
+		"message": "Przedstawiciel",
+		"translated": true
+	},
+	"Domiciliation": {
+		"message": "Zapłaty",
+		"translated": true
+	},
+	"Lieu de naissance": {
+		"message": "Miejsce urodzenia",
+		"translated": true
+	},
+	"Création d'un tiers": {
+		"message": "Tworzenie strony trzeciej",
+		"translated": true
+	},
+	"Identification": {
+		"message": "Identyfikacji",
+		"translated": true
+	},
+	"Suivi": {
+		"message": "Po",
+		"translated": true
+	},
+	"Représentants": {
+		"message": "Przedstawicieli",
+		"translated": true
+	},
+	"Informations juridiques": {
+		"message": "Informacje prawne",
+		"translated": true
+	},
+	"Inline Liste Tiers": {
+		"message": "Trzecia lista w linii",
+		"translated": true
+	},
+	"Portail Tiers": {
+		"message": "Trzeci portal",
+		"translated": true
+	},
+	"Liste de documents": {
+		"message": "Lista dokumentów",
+		"translated": true
+	},
+	"Reporter la valeur sur les X prochains mois": {
+		"message": "Odroczenie wartości w ciągu najbliższych X miesięcy",
+		"translated": true
+	},
+	"Date de livraison TC": {
+		"message": "Data dostawy TC",
+		"translated": true
+	},
+	"N° de dossier": {
+		"message": "Numer pliku",
+		"translated": true
+	},
+	"N° du lot": {
+		"message": "Nr partii",
+		"translated": true
+	},
+	"Date de réservation": {
+		"message": "Data rezerwacji",
+		"translated": true
+	},
+	"Date d'envoi du contrat": {
+		"message": "Data umowy",
+		"translated": true
+	},
+	"Date de report livraison (client)": {
+		"message": "Data odroczenia dostawy (odbiorca)",
+		"translated": true
+	},
+	"Retard (en jours)": {
+		"message": "Opóźnienie (w dniach)",
+		"translated": true
+	},
+	"Montant des indemnités": {
+		"message": "Wysokość uprawnień",
+		"translated": true
+	},
+	"Montant dû des appels de fond": {
+		"message": "Kwota należna z połączeń uziemienia",
+		"translated": true
+	},
+	"TT/TC": {
+		"message": "TT/TC",
+		"translated": true
+	},
+	"Planning": {
+		"message": "Planowania",
+		"translated": true
+	},
+	"Date d'échéance": {
+		"message": "Termin płatności",
+		"translated": true
+	},
+	"pour ajouter un document, selectionner le théme et l'objet": {
+		"message": "aby dodać dokument, wybierz motyw i obiekt",
+		"translated": true
+	},
+	"Délai de réalisation": {
+		"message": "Czas do ukończenia",
+		"translated": true
+	},
+	"Dans le suivi de dossier à la création du dossier": {
+		"message": "W następstwie utworzenia pliku",
+		"translated": true
+	},
+	"Administrative": {
+		"message": "Administracyjne",
+		"translated": true
+	},
+	"Actions conditionnées": {
+		"message": "Pakiety akcji",
+		"translated": true
+	},
+	"Enums": {
+		"message": "Wyliczenia",
+		"translated": true
+	},
+	"Ouvrir procédure": {
+		"message": "Procedura otwarta",
+		"translated": true
+	},
+	"Code de la procédure": {
+		"message": "Kod procedury",
+		"translated": true
+	},
+	"Libellé de la procédure": {
+		"message": "Procedura oznaczona etykietą",
+		"translated": true
+	},
+	"Utiliser un acteur existant": {
+		"message": "Korzystanie z istniejącego aktora",
+		"translated": true
+	},
+	"Statut de l'acteur": {
+		"message": "Stan aktora",
+		"translated": true
+	},
+	"Intervenant unique": {
+		"message": "Pojedynczy głośnik",
+		"translated": true
+	},
+	"Acteur localisable": {
+		"message": "Aktor, który można zlokalizować",
+		"translated": true
+	},
+	"Acteur": {
+		"message": "Aktor",
+		"translated": true
+	},
+	"Utiliser une action existante": {
+		"message": "Korzystanie z istniejącej akcji",
+		"translated": true
+	},
+	"Placer l'action après la ligne séléctionné": {
+		"message": "Umieszczanie akcji po zaznaczonym wierszu",
+		"translated": true
+	},
+	"Utiliser une étape existante": {
+		"message": "Użyj istniejącego kroku",
+		"translated": true
+	},
+	"Placer l'étape après la ligne séléctionné": {
+		"message": "Umieść krok po zaznaczonym wierszu",
+		"translated": true
+	},
+	"Domaine": {
+		"message": "Pole",
+		"translated": true
+	},
+	"Visibilité externe": {
+		"message": "Widoczność zewnętrzna",
+		"translated": true
+	},
+	"Date début de validité": {
+		"message": "Data rozpoczęcia ważności",
+		"translated": true
+	},
+	"Date fin de validité": {
+		"message": "Data zakończenia ważności",
+		"translated": true
+	},
+	"Etape": {
+		"message": "Krok",
+		"translated": true
+	},
+	"Dissocier Acteur": {
+		"message": "Odłącz aktora",
+		"translated": true
+	},
+	"Monter": {
+		"message": "Mount",
+		"translated": true
+	},
+	"Descendre": {
+		"message": "Dół",
+		"translated": true
+	},
+	"Suivi Dossier à sa création": {
+		"message": "Plik śledzenia przy jego tworzeniu",
+		"translated": true
+	},
+	"Tranches commerciales": {
+		"message": "Plastry komercyjne",
+		"translated": true
+	},
+	"Code analytique du programme": {
+		"message": "Kod analityczny programu",
+		"translated": true
+	},
+	"Code SMO": {
+		"message": "Kod SMO",
+		"translated": true
+	},
+	"Activite": {
+		"message": "Działania",
+		"translated": true
+	},
+	"Nature des travaux": {
+		"message": "Charakter pracy",
+		"translated": true
+	},
+	"Type programme": {
+		"message": "Typ programu",
+		"translated": true
+	},
+	"Type financement": {
+		"message": "Finansowanie typu",
+		"translated": true
+	},
+	"Régime fiscal": {
+		"message": "Podatku",
+		"translated": true
+	},
+	"Niveau de livraison": {
+		"message": "Poziom dostawy",
+		"translated": true
+	},
+	"Mode intervention": {
+		"message": "Tryb interwencji",
+		"translated": true
+	},
+	"Financement origine": {
+		"message": "Finansowanie pochodzenia",
+		"translated": true
+	},
+	"Construction sur sol autrui (O/N)": {
+		"message": "Budowa na innym gruncie (O/N)",
+		"translated": true
+	},
+	"Annee": {
+		"message": "Roku",
+		"translated": true
+	},
+	"Création secteur distinct": {
+		"message": "Tworzenie oddzielnego sektora",
+		"translated": true
+	},
+	"Structure": {
+		"message": "Struktury",
+		"translated": true
+	},
+	"Identifiant Nature - type ouvrage": {
+		"message": "Nature ID - typ książki",
+		"translated": true
+	},
+	"Poste budgétaire de vente": {
+		"message": "Pozycja budżetu sprzedaży",
+		"translated": true
+	},
+	"EstTranche": {
+		"message": "IsTranche ( IsTranche )",
+		"translated": true
+	},
+	"ExisteGP": {
+		"message": "ExistGP",
+		"translated": true
+	},
+	"Surface de base": {
+		"message": "Powierzchnia bazowa",
+		"translated": true
+	},
+	"SurfVendu": {
+		"message": "SurfVendu ( SurfVendu )",
+		"translated": true
+	},
+	"RatioSurfVB": {
+		"message": "WskaźnikSurfVB",
+		"translated": true
+	},
+	"optionTva": {
+		"message": "optionTva",
+		"translated": true
+	},
+	"reparTvaMarge": {
+		"message": "reparTvaMarge",
+		"translated": true
+	},
+	"posteTvaMarge": {
+		"message": "postTvaMarge",
+		"translated": true
+	},
+	"idProced": {
+		"message": "idProced ( idProced )",
+		"translated": true
+	},
+	"PosteDation": {
+		"message": "PostDation (PostDation)",
+		"translated": true
+	},
+	"Adresse 1": {
+		"message": "Adres 1",
+		"translated": true
+	},
+	"Adresse 2": {
+		"message": "Adres 2",
+		"translated": true
+	},
+	"Adresse 3": {
+		"message": "Adres 3",
+		"translated": true
+	},
+	"Rendement": {
+		"message": "Wydajności",
+		"translated": true
+	},
+	"Surface à vendre": {
+		"message": "Powierzchnia na sprzedaż",
+		"translated": true
+	},
+	"Lot principal": {
+		"message": "Główna partia",
+		"translated": true
+	},
+	"Lot secondaire": {
+		"message": "Partia wtórna",
+		"translated": true
+	},
+	"Id type lot": {
+		"message": "Partia typu Id",
+		"translated": true
+	},
+	"Code programme": {
+		"message": "Kod programu",
+		"translated": true
+	},
+	"Type de lot": {
+		"message": "Typ partii",
+		"translated": true
+	},
+	"IdTypologie": {
+		"message": "IdTypologia",
+		"translated": true
+	},
+	"Nature du lot": {
+		"message": "Charakter partii",
+		"translated": true
+	},
+	"Nombre": {
+		"message": "Numer",
+		"translated": true
+	},
+	"SHAB(m²) par lot": {
+		"message": "SHAB (m2) na partię",
+		"translated": true
+	},
+	"SHAB(m²) totale": {
+		"message": "Ogółem SHAB (m2)",
+		"translated": true
+	},
+	"Surface utile": {
+		"message": "Przydatna powierzchnia",
+		"translated": true
+	},
+	"Surface terrain": {
+		"message": "Powierzchnia pola",
+		"translated": true
+	},
+	"Rentabilité": {
+		"message": "Rentowność",
+		"translated": true
+	},
+	"Prix unitaire HT / lot": {
+		"message": "Cena jednostkowa HT/lot",
+		"translated": true
+	},
+	"Prix unitaire TTC / lot": {
+		"message": "Cena jednostkowa TTC/lot",
+		"translated": true
+	},
+	"Prix unitaire HT SHAB(m²)": {
+		"message": "HT SHAB cena jednostkowa (m2)",
+		"translated": true
+	},
+	"Prix unitaire TTC SHAB(m²)": {
+		"message": "Cena jednostkowa TTC SHAB (m2)",
+		"translated": true
+	},
+	"Loyer HT Annuel / m²": {
+		"message": "Roczny czynsz HT/m2",
+		"translated": true
+	},
+	"Loyer TTC Annuel / m²": {
+		"message": "Roczny czynsz TTC/m2",
+		"translated": true
+	},
+	"Surface utile par lot": {
+		"message": "Przydatna powierzchnia na partię",
+		"translated": true
+	},
+	"Surface utile totale": {
+		"message": "Całkowity obszar użytkowy",
+		"translated": true
+	},
+	"Prix unitaire HT": {
+		"message": "Cena jednostkowa HT",
+		"translated": true
+	},
+	"Prix unitaire TTC": {
+		"message": "Cena jednostkowa TTC",
+		"translated": true
+	},
+	"Prix HT / m²": {
+		"message": "Cena HT/ m2",
+		"translated": true
+	},
+	"Prix TTC / m²": {
+		"message": "Cena TTC/m2",
+		"translated": true
+	},
+	"Typologie": {
+		"message": "Typu",
+		"translated": true
+	},
+	"Code programme GF": {
+		"message": "Kod programu GF",
+		"translated": true
+	},
+	"Type ouvrage": {
+		"message": "Typ książki",
+		"translated": true
+	},
+	"Etape Budgétaire": {
+		"message": "Etap budżetu",
+		"translated": true
+	},
+	"TypeComm": {
+		"message": "TypComm (TypComm)",
+		"translated": true
+	},
+	"IdOp": {
+		"message": "IdOp ( IdOp )",
+		"translated": true
+	},
+	"Code analytique": {
+		"message": "Kod analityczny",
+		"translated": true
+	},
+	"Surface terrain en m²": {
+		"message": "Powierzchnia gruntu w m2",
+		"translated": true
+	},
+	"Par Défaut": {
+		"message": "Domyślny",
+		"translated": true
+	},
+	"Type Tva": {
+		"message": "Wpisz Tva",
+		"translated": true
+	},
+	"TN": {
+		"message": "Tn",
+		"translated": true
+	},
+	"TR": {
+		"message": "Tr",
+		"translated": true
+	},
+	"TI": {
+		"message": "Jest on a.",
+		"translated": true
+	},
+	"Procédure": {
+		"message": "Procedura",
+		"translated": true
+	},
+	" {{tiersTitle}} ": {
+		"message": " \"trzecitytuł\" ",
+		"translated": true
+	},
+	"Caractéristiques": {
+		"message": "Cechy",
+		"translated": true
+	},
+	"Calcul surface à vendre": {
+		"message": "Obliczanie powierzchni na sprzedaż",
+		"translated": true
+	},
+	"Lots principaux": {
+		"message": "Główne partie",
+		"translated": true
+	},
+	"Procédures": {
+		"message": "Procedury",
+		"translated": true
+	},
+	"Saisie en masse dossiers clients": {
+		"message": "Masowe przejmowanie plików klientów",
+		"translated": true
+	},
+	"Fiche tranche commerciale": {
+		"message": "Arkusz plasterków handlu",
+		"translated": true
+	},
+	"Typologie tranche commerciale": {
+		"message": "Typologia plasterek handlowych",
+		"translated": true
+	},
+	"Fiche tranche travaux": {
+		"message": "Arkusz plasterka roboczego",
+		"translated": true
+	},
+	"Reprise de Planning Spo": {
+		"message": "Wznowienie planowania Spo",
+		"translated": true
+	},
+	"Opération accession": {
+		"message": "Operacja Przystąpienie",
+		"translated": true
+	},
+	"Versions": {
+		"message": "Wersje",
+		"translated": true
+	},
+	"Libellé opération": {
+		"message": "Operacja oznaczona etykietą",
+		"translated": true
+	},
+	"CodePostal": {
+		"message": "Kod Pocztowy",
+		"translated": true
+	},
+	"NomVille": {
+		"message": "NameVille (NameVille)",
+		"translated": true
+	},
+	"Position géographique": {
+		"message": "Lokalizacji",
+		"translated": true
+	},
+	"Référence interne": {
+		"message": "Odwołanie wewnętrzne",
+		"translated": true
+	},
+	"Modèle de budget": {
+		"message": "Model budżetu",
+		"translated": true
+	},
+	"Référence GED": {
+		"message": "Odniesienie GED",
+		"translated": true
+	},
+	"Note": {
+		"message": "Uwaga",
+		"translated": true
+	},
+	"Modèles": {
+		"message": "Modele",
+		"translated": true
+	},
+	"Liaison": {
+		"message": "Stowarzyszenia",
+		"translated": true
+	},
+	"Procédure enfant": {
+		"message": "Procedura podrzędna",
+		"translated": true
+	},
+	"Procédure parent": {
+		"message": "Rodzicielstwo",
+		"translated": true
+	},
+	"Code étape": {
+		"message": "Kod kroku",
+		"translated": true
+	},
+	"Numéro d'ordre": {
+		"message": "Numer zamówienia",
+		"translated": true
+	},
+	"Date réalisée": {
+		"message": "Data ukończenia",
+		"translated": true
+	},
+	"Option tva": {
+		"message": "Opcja vat",
+		"translated": true
+	},
+	"TVA classique": {
+		"message": "Klasyczny podatek VAT",
+		"translated": true
+	},
+	"TVA sur marge inclus": {
+		"message": "VAT od marży wliczone",
+		"translated": true
+	},
+	"TVA sur marge non inclus": {
+		"message": "VAT od marży nie jest wliczony",
+		"translated": true
+	},
+	"Type de surface de base": {
+		"message": "Podstawowy typ powierzchni",
+		"translated": true
+	},
+	"Surface de plancher de base": {
+		"message": "Podstawowa powierzchnia podłogi",
+		"translated": true
+	},
+	"SHAB de base": {
+		"message": "Podstawowy SHAB",
+		"translated": true
+	},
+	"Surface terrain de base": {
+		"message": "Obszar pola bazowego",
+		"translated": true
+	},
+	"Type de surface vendue": {
+		"message": "Rodzaj sprzedanej powierzchni",
+		"translated": true
+	},
+	"Modification Typo": {
+		"message": "Literówka modyfikacji",
+		"translated": true
+	},
+	"Surface vendue / lot": {
+		"message": "Powierzchnia sprzedana / partia",
+		"translated": true
+	},
+	"Surface vendue": {
+		"message": "Powierzchnia sprzedana",
+		"translated": true
+	},
+	"Prix unitaire HT (m²)": {
+		"message": "Cena jednostkowa HT (m2)",
+		"translated": true
+	},
+	"Prix unitaire TTC (m²)": {
+		"message": "Cena jednostkowa TTC (m2)",
+		"translated": true
+	},
+	"Surface utile / lot": {
+		"message": "Przydatna powierzchnia / partia",
+		"translated": true
+	},
+	"Randement": {
+		"message": "Randement (Randement)",
+		"translated": true
+	},
+	"Surface totale vendue": {
+		"message": "Łączna powierzchnia sprzedana",
+		"translated": true
+	},
+	"Nombre lots principaux": {
+		"message": "Liczba partii głównych",
+		"translated": true
+	},
+	"Nombre lots secondaires": {
+		"message": "Liczba partii wtórnych",
+		"translated": true
+	},
+	"Marge": {
+		"message": "Margines",
+		"translated": true
+	},
+	"Taux de marge": {
+		"message": "Stopa depozytu zabezpieczającego",
+		"translated": true
+	},
+	"Date d'arrêté": {
+		"message": "Data aresztowania",
+		"translated": true
+	},
+	"Statut de version": {
+		"message": "Stan wersji",
+		"translated": true
+	},
+	"Faire une copie": {
+		"message": "Zrób kopię",
+		"translated": true
+	},
+	"Filtre Statut": {
+		"message": "Filtr stanu",
+		"translated": true
+	},
+	"Filtre Libellé": {
+		"message": "Filtr z etykietą",
+		"translated": true
+	},
+	"Archiver": {
+		"message": "Archiwum",
+		"translated": true
+	},
+	"Numéro de version": {
+		"message": "Numer wersji",
+		"translated": true
+	},
+	"Date dernière modification": {
+		"message": "Data ostatniej zmiany",
+		"translated": true
+	},
+	"Date archive": {
+		"message": "Data archiwum",
+		"translated": true
+	},
+	"Version parent": {
+		"message": "Wersja nadrzędna",
+		"translated": true
+	},
+	"Type de version": {
+		"message": "Typ wersji",
+		"translated": true
+	},
+	"Statut de la version": {
+		"message": "Stan wersji",
+		"translated": true
+	},
+	"Utilisateur créateur": {
+		"message": "Kreatywny użytkownik",
+		"translated": true
+	},
+	"Utilisateur modificateur": {
+		"message": "Modyfikator użytkownika",
+		"translated": true
+	},
+	"Commentaire automatique": {
+		"message": "Automatyczny komentarz",
+		"translated": true
+	},
+	"Liaison procédures dans le planning": {
+		"message": "Procedury łączenia w planowaniu",
+		"translated": true
+	},
+	"Suivi de dossier": {
+		"message": "Śledzenie plików",
+		"translated": true
+	},
+	"Fiche Opération": {
+		"message": "Arkusz operacyjny",
+		"translated": true
+	},
+	"Mot de passe": {
+		"message": "Hasło",
+		"translated": true
+	},
+	"Le mot de passe est obligatoire": {
+		"message": "Hasło jest obowiązkowe",
+		"translated": true
+	},
+	"Modification du mot de passe à la prochaine ouverture de session": {
+		"message": "Zmiana hasła przy następnym logowaniu",
+		"translated": true
+	},
+	"L'utilisateur ne peut pas changer de mot de passe": {
+		"message": "Użytkownik nie może zmieniać haseł",
+		"translated": true
+	},
+	"Le mot de passe n'expire jamais": {
+		"message": "Hasło nigdy nie wygasa",
+		"translated": true
+	},
+	"Nombre de caractères obligatoires": {
+		"message": "Wymagana liczba znaków",
+		"translated": true
+	},
+	"Date du dernier changement de mot de passe": {
+		"message": "Data ostatniej zmiany hasła",
+		"translated": true
+	},
+	"Date du prochain changement de mot de passe": {
+		"message": "Data następnej zmiany hasła",
+		"translated": true
+	},
+	"jour": {
+		"message": "Dzień",
+		"translated": true
+	},
+	"semaine": {
+		"message": "Tygodniu",
+		"translated": true
+	},
+	"mois": {
+		"message": "Miesiąc",
+		"translated": true
+	},
+	"annee": {
+		"message": "Roku",
+		"translated": true
+	},
+	"Intervalle de changement de mot de passe": {
+		"message": "Interwał zmiany hasła",
+		"translated": true
+	},
+	"Confirmation du mot de passe": {
+		"message": "Potwierdzenie hasła",
+		"translated": true
+	},
+	"Coût d’acquisition": {
+		"message": "Koszt nabycia",
+		"translated": true
+	},
+	"Annuler TVA forcée": {
+		"message": "Anulowanie podatku VAT wymuszone",
+		"translated": true
+	},
+	"Poste budgétaire vente": {
+		"message": "Sprzedaż po sprzedaży budżetowej",
+		"translated": true
+	},
+	"Répartition": {
+		"message": "Dystrybucji",
+		"translated": true
+	},
+	"Tantième": {
+		"message": "Ciociaultimate",
+		"translated": true
+	},
+	"Poste budgétaire TVA sur marge": {
+		"message": "Budżet VAT na marży",
+		"translated": true
+	},
+	"Poste budgétaire dation": {
+		"message": "Rozlinie pozycji budżetowej",
+		"translated": true
+	},
+	"Lot(s) concerné(s)": {
+		"message": "Partia(-y)",
+		"translated": true
+	},
+	"Poste": {
+		"message": "Post",
+		"translated": true
+	},
+	"Méthode TVA sur Marge": {
+		"message": "Metoda VAT na marży",
+		"translated": true
+	},
+	"au global": {
+		"message": "Globalnie",
+		"translated": true
+	},
+	"par lot": {
+		"message": "za partię",
+		"translated": true
+	},
+	"Surface / lot": {
+		"message": "Powierzchnia /partia",
+		"translated": true
+	},
+	"Loyer HT Mensuel / m²": {
+		"message": "Miesięczny czynsz HT/m2",
+		"translated": true
+	},
+	"Loyer TTC Mensuel / m²": {
+		"message": "Miesięczny czynsz TTC/m2",
+		"translated": true
+	},
+	"Créer la grille de prix": {
+		"message": "Tworzenie siatki cenowej",
+		"translated": true
+	},
+	"Supprimer la grille de prix": {
+		"message": "Usuwanie siatki cenowej",
+		"translated": true
+	},
+	"CP": {
+		"message": "Cp",
+		"translated": true
+	},
+	"Commune": {
+		"message": "Wspólne",
+		"translated": true
+	},
+	"Acceder à la grille de prix": {
+		"message": "Przystęp do siatki cenowej",
+		"translated": true
+	},
+	"Aides à la vente pour la tranche commerciale {{libelle}}": {
+		"message": "Pomoc na sprzedaż transzy handlowej \"libelle\"",
+		"translated": true
+	},
+	"Synthèse": {
+		"message": "Syntezy",
+		"translated": true
+	},
+	"codeGroupe": {
+		"message": "Codegroup",
+		"translated": true
+	},
+	"codeRole": {
+		"message": "CodeRole (Zarola kodowa)",
+		"translated": true
+	},
+	"codeUnite": {
+		"message": "Odkodowanie",
+		"translated": true
+	},
+	"Nombre minimum de caractères": {
+		"message": "Minimalna liczba znaków",
+		"translated": true
+	},
+	"Montant dation HT": {
+		"message": "Kwota HT",
+		"translated": true
+	},
+	"Montant dation TTC": {
+		"message": "Kwota TTC",
+		"translated": true
+	},
+	"Marge taxable": {
+		"message": "Marża podlegająca opodatkowaniu",
+		"translated": true
+	},
+	"Image url": {
+		"message": "Adres URL obrazu",
+		"translated": true
+	},
+	"Type de procédure": {
+		"message": "Rodzaj procedury",
+		"translated": true
+	},
+	"Prêteur": {
+		"message": "Pożyczkodawcy",
+		"translated": true
+	},
+	"N° de l'acte de vente": {
+		"message": "Nr czynu sprzedaży",
+		"translated": true
+	},
+	"Période comptable": {
+		"message": "Okres obrachunkowy",
+		"translated": true
+	},
+	"Date de livraison prévisionnelle": {
+		"message": "Przewidywana data dostawy",
+		"translated": true
+	},
+	"report TVA en fin d'Opération": {
+		"message": "Odroczenie podatku VAT na koniec transakcji",
+		"translated": true
+	},
+	"Établissement bancaire": {
+		"message": "Instytucja bankowa",
+		"translated": true
+	},
+	"Service": {
+		"message": "Usługi",
+		"translated": true
+	},
+	"APE": {
+		"message": "Epa",
+		"translated": true
+	},
+	"INSEE": {
+		"message": "Insee ( insee )",
+		"translated": true
+	},
+	"Role": {
+		"message": "Roli",
+		"translated": true
+	},
+	"Compte créditeur": {
+		"message": "Konto kredytowe",
+		"translated": true
+	},
+	"Compte débiteur": {
+		"message": "Rachunek należności",
+		"translated": true
+	},
+	"Nationalité": {
+		"message": "Narodowość",
+		"translated": true
+	},
+	"Situation familiale": {
+		"message": "Sytuacja rodzinna",
+		"translated": true
+	},
+	"Employeur": {
+		"message": "Pracodawca",
+		"translated": true
+	},
+	"Frais notaire": {
+		"message": "Opłaty notariusza",
+		"translated": true
+	},
+	"Méthode de saisie loyer": {
+		"message": "Metoda wykluczenia czynszu",
+		"translated": true
+	},
+	"Annuel": {
+		"message": "Roczne",
+		"translated": true
+	},
+	"Mensuel": {
+		"message": "Miesięczne",
+		"translated": true
+	},
+	"Ancienne valeur pour retour arrière de avancement travaux": {
+		"message": "Starożytna wartość dla zacofanych prac rozwojowych",
+		"translated": true
+	},
+	"Message de confirmation pour changement de avancement travaux": {
+		"message": "Komunikat potwierdzający pracę z postępumiętszą",
+		"translated": true
+	},
+	"Active": {
+		"message": "Aktywne",
+		"translated": true
+	},
+	"Impossible de répartir les budgets et les dépenses": {
+		"message": "Nie można przydzielić budżetów i wydatków",
+		"translated": true
+	},
+	"Suivi budgetaire": {
+		"message": "Śledzenie budżetu",
+		"translated": true
+	},
+	"Trésorerie": {
+		"message": "Gotówki",
+		"translated": true
+	},
+	"Rapport Externe": {
+		"message": "Raport zewnętrzny",
+		"translated": true
+	},
+	"TC - paramétrage générique": {
+		"message": "TC - ustawienie ogólne",
+		"translated": true
+	},
+	"TC - paramétrage codifs": {
+		"message": "TC - ustawienia codif",
+		"translated": true
+	},
+	"Synthese": {
+		"message": "Syntezy",
+		"translated": true
+	},
+	"Map": {
+		"message": "Mapę",
+		"translated": true
+	},
+	"Voir mot de passe": {
+		"message": "Zobacz hasło",
+		"translated": true
+	},
+	"Indicateurs": {
+		"message": "Wskaźniki",
+		"translated": true
+	},
+	"Filtrer les UO actives": {
+		"message": "Filtrowanie aktywnych uos",
+		"translated": true
+	},
+	"Saisir un nouveau mot de passe": {
+		"message": "Wprowadź nowe hasło",
+		"translated": true
+	},
+	"Rythme de commercialisation": {
+		"message": "Rytm marketingowy",
+		"translated": true
+	},
+	"Saisie rythme modal": {
+		"message": "Przechwytywanie rytmu modalnego",
+		"translated": true
+	},
+	"Rythme moyen": {
+		"message": "Średni rytm",
+		"translated": true
+	},
+	"Délai moyen réservation vente (mois)": {
+		"message": "Średni czas rezerwacji (miesiące)",
+		"translated": true
+	},
+	"Synchronisation CRM": {
+		"message": "Synchronizacja CRM",
+		"translated": true
+	},
+	"Echéanciers type pour la tranche commerciale {{libelle}}": {
+		"message": "Typowe marketerów dla handlowych kawałek \"libelle\"",
+		"translated": true
+	},
+	"Liste des documents correspondants": {
+		"message": "Wykaz odpowiednich dokumentów",
+		"translated": true
+	},
+	"Verrous": {
+		"message": "Blokad",
+		"translated": true
+	},
+	"Sur fond gris si prévisionnelle (date ramenée du planning ou du dossier client), sur fond vert si réelle (1ère date de réservation d'un dossier client)": {
+		"message": "Na szarym tle, jeśli prognoza (data przywrócona z harmonogramu lub pliku klienta), na zielonym tle tak prawdziwe (1 data rezerwacji pliku klienta)",
+		"translated": true
+	},
+	"Sur fond gris si prévisionnelle (date ramenée du planning ou du dossier client), sur fond vert si réelle (1ère date de vente d'un dossier client)": {
+		"message": "Na szarym tle, jeśli prognoza (data przywrócona z harmonogramu lub pliku klienta), na zielonym tle tak prawdziwe (1 data sprzedaży pliku klienta)",
+		"translated": true
+	},
+	"Date ramenée du planning. Sur fond gris si prévisionnele, sur fond vert si réelle.": {
+		"message": "Data przywrócona z harmonogramu. Na szarym tle tak prognozy, na zielonym tle tak realne.",
+		"translated": true
+	},
+	"Sur fond gris si prévisionnelle (date ramenée du planning ou du dossier client), sur fond vert si réelle (1ère date de livraison d'un dossier client)": {
+		"message": "Na szarym tle, jeśli prognoza (data przywrócona z harmonogramu lub pliku klienta), na zielonym tle tak prawdziwe (1 data dostawy pliku klienta)",
+		"translated": true
+	},
+	"Nombre de mois entre la date d'OS et la date de livraison": {
+		"message": "Liczba miesięcy między datą systemu operacyjnego a datą dostawy",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux de la tranche commerciale, ou nombre ou m² de lots secondaires si la tranche commerciale ne comporte pas des lots principaux": {
+		"message": "Liczba lub metr kwadratowy partii głównych w transzy handlowej lub liczby lub kwadratu partii wtórnych, jeżeli transza handlowa nie obejmuje partii głównych",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux de la tranche commerciale": {
+		"message": "Liczba lub metr kwadratowy głównych partii w paśmie handlowym",
+		"translated": true
+	},
+	"Nombre de mois entre la date de 1ère réservation et le mois courant ": {
+		"message": "Liczba miesięcy między datą 1 rezerwacji a bieżącym miesiącem ",
+		"translated": true
+	},
+	"Nombre de mois entre le mois courant et le dernier mois sur lequel est prévu une réservation ": {
+		"message": "Liczba miesięcy między bieżącym miesiącem a ostatnim miesiącem, w którym zaplanowano rezerwację ",
+		"translated": true
+	},
+	"RVL / nombre de mois depuis la 1ère réservation": {
+		"message": "RVL / liczba miesięcy od 1 rezerwacji",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux planifiés / durée restante de commercialisation": {
+		"message": "Liczba lub metr kwadratowy planowanych partii głównych/pozostały czas marketingu",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux au statut 'réservé', 'vendu' ou 'livré'": {
+		"message": "Liczba lub kwadrat partii głównych o statusie \"reserved\", \"sold\" lub \"delivered\"",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux planifiés": {
+		"message": "Liczba lub metr kwadratowy planowanych partii głównych",
+		"translated": true
+	},
+	"Valorisation des réservations prévues et réelles de la tranche commerciale à la date d'OS / valorisation de la tranche commerciale": {
+		"message": "Wycena planowanych i rzeczywistych rezerwacji transzy handlowej w dniu OS / wycena transzy handlowej",
+		"translated": true
+	},
+	"Valorisation des réservations prévues et réelles de la tranche travaux à la date d'OS / valorisation de la tranche travaux": {
+		"message": "Wycena planowanych i rzeczywistych rezerwacji transzy roboczej w dniu OS / wycena transzy roboczej",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux en stock restant à planifier": {
+		"message": "Liczba lub metr kwadratowy głównych partii w magazynie pozostających do zaplanowania",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux en stock restant à planifier avant le mois courant": {
+		"message": "Liczba lub metr kwadratowy głównych partii w magazynie, które mają być planowane przed bieżącym miesiącem",
+		"translated": true
+	},
+	"Tranche Travaux": {
+		"message": "Prace w plasterkach",
+		"translated": true
+	},
+	"Code analytique TT": {
+		"message": "Kod analityczny TT",
+		"translated": true
+	},
+	"Avancement Travaux": {
+		"message": "Prace progress",
+		"translated": true
+	},
+	"Code analytique TC": {
+		"message": "Kod analityczny TC",
+		"translated": true
+	},
+	"Synch. CRM": {
+		"message": "Synchronizacji. Crm",
+		"translated": true
+	},
+	"Reinitialiser": {
+		"message": "Zresetować",
+		"translated": true
+	},
+	"Historiser": {
+		"message": "Historiser (historiser)",
+		"translated": true
+	},
+	"Operand 1": {
+		"message": "Operand 1",
+		"translated": true
+	},
+	"Operand 2": {
+		"message": "Operand 2",
+		"translated": true
+	},
+	"Result": {
+		"message": "Wynik",
+		"translated": true
+	},
+	"Text": {
+		"message": "Tekst",
+		"translated": true
+	},
+	"Date pose d'option": {
+		"message": "Opcja daty ułożenia",
+		"translated": true
+	},
+	"Date fin option": {
+		"message": "Data opcji zakończenia",
+		"translated": true
+	},
+	"Tout cocher": {
+		"message": "Tykanie wszystkiego",
+		"translated": true
+	},
+	"entité permettant l'accès aux échéanciers types par tranche commerciale": {
+		"message": "podmiot umożliwiający dostęp do standardowych harmonogramów na transzę komercyjną",
+		"translated": true
+	},
+	"Poste budgétaire": {
+		"message": "Pozycja budżetowa",
+		"translated": true
+	},
+	"Surface GLA": {
+		"message": "Powierzchnia GLA",
+		"translated": true
+	},
+	"Date livraison prévisionnelle": {
+		"message": "Przewidywana data dostawy",
+		"translated": true
+	},
+	"Favoris": {
+		"message": "Ulubione",
+		"translated": true
+	},
+	"Latitude": {
+		"message": "Szerokość geograficzna",
+		"translated": true
+	},
+	"Longitude": {
+		"message": "Długość geograficzna",
+		"translated": true
+	},
+	"Code évènement": {
+		"message": "Kod zdarzenia",
+		"translated": true
+	},
+	"Renommer": {
+		"message": "Zmienić nazwę",
+		"translated": true
+	},
+	"Période d'arrêté": {
+		"message": "Okres aresztowania",
+		"translated": true
+	},
+	"Banque à partir d'une opération": {
+		"message": "Bank z transakcji",
+		"translated": true
+	},
+	"Afficher seulement le planning": {
+		"message": "Pokaż tylko harmonogram",
+		"translated": true
+	},
+	"Ajouter une action après la ligne sélectionnée": {
+		"message": "Dodaj akcję po zaznaczonym wierszu",
+		"translated": true
+	},
+	"Etapes facultatives": {
+		"message": "Opcjonalne kroki",
+		"translated": true
+	},
+	"Ajout / suppression des étapes facultatives": {
+		"message": "Dodawanie/usuwanie kroków opcjonalnych",
+		"translated": true
+	},
+	"Alerte": {
+		"message": "Alert",
+		"translated": true
+	},
+	"Pas de date prevu": {
+		"message": "Brak podanej daty",
+		"translated": true
+	},
+	"Realisé": {
+		"message": "Realizowane",
+		"translated": true
+	},
+	"En retard": {
+		"message": "Późno",
+		"translated": true
+	},
+	"A venir": {
+		"message": "Wkrótce",
+		"translated": true
+	},
+	"Code Procédure": {
+		"message": "Kod procedury",
+		"translated": true
+	},
+	"Ouvrage": {
+		"message": "Dokonać rezerwacji",
+		"translated": true
+	},
+	"Principal/Secondaire": {
+		"message": "Główny/pomocniczy",
+		"translated": true
+	},
+	"Stade": {
+		"message": "Etapie",
+		"translated": true
+	},
+	"Stade d'avancement Travaux": {
+		"message": "Prace etapowe postępu",
+		"translated": true
+	},
+	"Synchronisée CRM": {
+		"message": "Zsynchronizowany program CRM",
+		"translated": true
+	},
+	"Créer Grille Prix": {
+		"message": "Tworzenie siatki cenowej",
+		"translated": true
+	},
+	"Supprimer Grille prix": {
+		"message": "Usuń siatkę cenową",
+		"translated": true
+	},
+	"Libellé Opération": {
+		"message": "Operacja oznaczona etykietą",
+		"translated": true
+	},
+	"Surface Vendue": {
+		"message": "Powierzchnia sprzedana",
+		"translated": true
+	},
+	"Procédure tranche commerciale": {
+		"message": "Procedura w komercyjnym plasterku",
+		"translated": true
+	},
+	"Prix Figé": {
+		"message": "Cena Figé",
+		"translated": true
+	},
+	"Unité Commercialisation": {
+		"message": "Dział marketingu",
+		"translated": true
+	},
+	"m2": {
+		"message": "m2",
+		"translated": true
+	},
+	"Type de Lot": {
+		"message": "Typ de Lot",
+		"translated": true
+	},
+	"Filtre type version": {
+		"message": "Filtr typu wersji",
+		"translated": true
+	},
+	"Type de la version": {
+		"message": "Typ wersji",
+		"translated": true
+	},
+	"Champs paramétrables de l'opération {{libOperation}}": {
+		"message": "Ustawienia operacji \"libOperation\"",
+		"translated": true
+	},
+	"Action {{libelle}}": {
+		"message": "Akcja 'libelle'",
+		"translated": true
+	},
+	"Dates libres": {
+		"message": "Daty wolne",
+		"translated": true
+	},
+	"Informations bancaires du compte": {
+		"message": "Informacje o koncie bankowym",
+		"translated": true
+	},
+	"Nature Travaux {{libelle}}": {
+		"message": "Natura Works 'libelle'",
+		"translated": true
+	},
+	"Tranche commerciale {{lib}}": {
+		"message": "Kawałek komercyjny ' 'lib'",
+		"translated": true
+	},
+	"Autres informations": {
+		"message": "Więcej informacji",
+		"translated": true
+	},
+	"Champs paramétrables de la tranche {{libTranche}}": {
+		"message": "Pola konfiguracji plasterka 'libTranche'",
+		"translated": true
+	},
+	"Typologie pour la tranche commerciale {{lib}}": {
+		"message": "Typologia dla transzy handlowej \"lib\"",
+		"translated": true
+	},
+	"Type Ouvrage {{libelle}}": {
+		"message": "Wpisz praca 'libelle'",
+		"translated": true
+	},
+	"Locks": {
+		"message": "Blokad",
+		"translated": true
+	},
+	"Actions": {
+		"message": "Działania",
+		"translated": true
+	},
+	"FNP détail": {
+		"message": "Szczegóły FNP",
+		"translated": true
+	},
+	"Tuiles ": {
+		"message": "Płytki ",
+		"translated": true
+	},
+	"Versions little-view": {
+		"message": "Wersje z małym widokiem",
+		"translated": true
+	},
+	"Tuiles réservation": {
+		"message": "Kafelki rezerwacji",
+		"translated": true
+	},
+	"Reservation TMA": {
+		"message": "Rezerwacja TMA",
+		"translated": true
+	},
+	"Societes": {
+		"message": "Firm",
+		"translated": true
+	},
+	"Exercice Comptable": {
+		"message": "Księgowych",
+		"translated": true
+	},
+	"Documents": {
+		"message": "Dokumentów",
+		"translated": true
+	},
+	"Type Ouvrage": {
+		"message": "Wpisz pracę",
+		"translated": true
+	},
+	"Nature Travaux": {
+		"message": "Prace przyrodnicze",
+		"translated": true
+	},
+	"Paramétrage avancement des tranches travaux": {
+		"message": "Konfigurowanie postępu plasterków pracy",
+		"translated": true
+	},
+	"OP - paramétrage codifs": {
+		"message": "OP - ustawienia codif",
+		"translated": true
+	},
+	" Synchronisation avec CRM": {
+		"message": " Synchronizacja z programem CRM",
+		"translated": true
+	},
+	"Liste de frais financiers par tranche": {
+		"message": "Wykaz kosztów finansowych na ratę",
+		"translated": true
+	},
+	" Passage des opérations du statut «lancé» au staut «achevé»": {
+		"message": " Przełączanie operacji z \"uruchomiony\" na \"ukończony\" staut",
+		"translated": true
+	},
+	"Demo-Test": {
+		"message": "Test demonstracyjny",
+		"translated": true
+	},
+	"Fiche extension opération": {
+		"message": "Przedłużacz operacji",
+		"translated": true
+	},
+	"Paramétrage de l'avancement des tranches travaux": {
+		"message": "Konfigurowanie postępu plasterków pracy",
+		"translated": true
+	},
+	"Fiche extension tranches": {
+		"message": "Arkusz wytłaczania",
+		"translated": true
+	},
+	"Rythme": {
+		"message": "Rytm",
+		"translated": true
+	},
+	"Encaissement Facture Recette": {
+		"message": "Zarabianie w rachunku przychodów",
+		"translated": true
+	},
+	"Le tiers \"{0}\" n'existe pas dans le réferentiel tiers.": {
+		"message": "Trzeci \"{0}\" nie istnieje w repozytorium innych firm.",
+		"translated": true
+	},
+	"Gestion des modèles": {
+		"message": "Zarządzanie modelami",
+		"translated": true
+	},
+	"Enregistrer la configuration": {
+		"message": "Zapisz konfigurację",
+		"translated": true
+	},
+	"Annulation d'option": {
+		"message": "Anulowanie opcji",
+		"translated": true
+	},
+	"Export au format excel": {
+		"message": "Eksportowanie w formacie excel",
+		"translated": true
+	},
+	"Choix d'unité d'organisation": {
+		"message": "Wybór jednostki organizacyjnej",
+		"translated": true
+	},
+	"La modification de l'Unité d'Organisation peut impacter les droits d'accès .Êtes-vous sûr(e) de vouloir continuer ?": {
+		"message": "Zmiana jednostki organizacyjnej może mieć wpływ na prawa dostępu. Czy na pewno chcesz iść dalej?",
+		"translated": true
+	},
+	"Aujourd'hui": {
+		"message": "Dzisiaj",
+		"translated": true
+	},
+	"Un conflit s'est produit ... les modifications récentes ont été annulées.": {
+		"message": "Wystąpił konflikt ... ostatnie zmiany zostały odwrócone.",
+		"translated": true
+	},
+	"Période précédente": {
+		"message": "Poprzedni okres",
+		"translated": true
+	},
+	"Période suivante": {
+		"message": "Następny okres",
+		"translated": true
+	},
+	"Tout déplier": {
+		"message": "Odsuń wszystko odsuń",
+		"translated": true
+	},
+	"Tout plier": {
+		"message": "Złóż wszystko",
+		"translated": true
+	},
+	"Niveau de Zoom": {
+		"message": "Poziom powiększenia",
+		"translated": true
+	},
+	"Etapes et Jalons": {
+		"message": "Schody i Jalons",
+		"translated": true
+	},
+	"Etapes et Tâches": {
+		"message": "Kroki i zadania",
+		"translated": true
+	},
+	"Etapes": {
+		"message": "Kroki",
+		"translated": true
+	},
+	"Tous": {
+		"message": "Wszystkie",
+		"translated": true
+	},
+	"Filtre des symboles": {
+		"message": "Filtr symboli",
+		"translated": true
+	},
+	"Ajuster": {
+		"message": "Dostosować",
+		"translated": true
+	},
+	"Mettre en évidence le chemin critique": {
+		"message": "Wyróżnianie ścieżki krytycznej",
+		"translated": true
+	},
+	"Rechercher par tâche": {
+		"message": "Wyszukiwanie według zadań",
+		"translated": true
+	},
+	"Convertir en tâche": {
+		"message": "Konwertuj na zadanie",
+		"translated": true
+	},
+	"Convertir en jalon": {
+		"message": "Konwersja na kamień milowy",
+		"translated": true
+	},
+	"Hauteur de la ligne": {
+		"message": "Wysokość linii",
+		"translated": true
+	},
+	"Espace tâche": {
+		"message": "Miejsce na zadania",
+		"translated": true
+	},
+	"Export": {
+		"message": "Eksportu",
+		"translated": true
+	},
+	"Informations sur la tâche...": {
+		"message": "Informacje o zadaniu...",
+		"translated": true
+	},
+	"Début du projet": {
+		"message": "Początek projektu",
+		"translated": true
+	},
+	"Nouvelle tâche": {
+		"message": "Nowe zadanie",
+		"translated": true
+	},
+	"Nouveau jalon": {
+		"message": "Nowy kamień milowy",
+		"translated": true
+	},
+	"Semaine": {
+		"message": "Tygodniu",
+		"translated": true
+	},
+	"Année - Mois": {
+		"message": "Rok - Miesiąc",
+		"translated": true
+	},
+	"Année - Trimestre": {
+		"message": "Rok - Kwartał",
+		"translated": true
+	},
+	"Années": {
+		"message": "Lat",
+		"translated": true
+	},
+	"Stockholm": {
+		"message": "Sztokholm",
+		"translated": true
+	},
+	"Sombre": {
+		"message": "Ciemne",
+		"translated": true
+	},
+	"Lumineux": {
+		"message": "Jasne",
+		"translated": true
+	},
+	"Material": {
+		"message": "Materiał",
+		"translated": true
+	},
+	"Défaut": {
+		"message": "Wady",
+		"translated": true
+	},
+	"Attention : réalisation d'une date future.": {
+		"message": "Ostrzeżenie: osiągnięcie przyszłej daty.",
+		"translated": true
+	},
+	"Ajout nouvelle procédure": {
+		"message": "Dodawanie nowej procedury",
+		"translated": true
+	},
+	"Duplication de la procédure \"{0}\"": {
+		"message": "Powielanie procedury \"{0}\"",
+		"translated": true
+	},
+	"Ajout nouvelle étape": {
+		"message": "Dodawanie nowego kroku",
+		"translated": true
+	},
+	"Ajout nouvelle action": {
+		"message": "Dodawanie nowej akcji",
+		"translated": true
+	},
+	"Ajout nouvel acteur": {
+		"message": "Dodawanie nowego aktora",
+		"translated": true
+	},
+	"Modifier étape": {
+		"message": "Krok zmiany",
+		"translated": true
+	},
+	"Modifier action": {
+		"message": "Akcja zmiany",
+		"translated": true
+	},
+	"Vous ne pouvez pas créer d'action s'il n'y a aucune étape sélectionnée.": {
+		"message": "Nie można utworzyć akcji, jeśli nie ma żadnych wybranych kroków.",
+		"translated": true
+	},
+	"Vous pouvez attribuer seulement un acteur à une action.": {
+		"message": "Do akcji można przypisać tylko jednego aktora.",
+		"translated": true
+	},
+	"Ajout d'une action existante": {
+		"message": "Dodawanie istniejącej akcji",
+		"translated": true
+	},
+	"Confirmez-vous la suppression de cette adresse ?": {
+		"message": "Czy potwierdzasz usunięcie tego adresu?",
+		"translated": true
+	},
+	"Confirmez-vous la suppression de ce représentant ?": {
+		"message": "Czy potwierdzasz usunięcie tego przedstawiciela?",
+		"translated": true
+	},
+	"Confirmez-vous la suppression de cette domiciliation ?": {
+		"message": "Czy potwierdzasz usunięcie tego miejsca zamieszkania?",
+		"translated": true
+	},
+	"Contrôle d'existence de doublons": {
+		"message": "Podwójna kontrola istnienia",
+		"translated": true
+	},
+	"Fermer l'écran des doublons sans enregistrer": {
+		"message": "Zamykanie zduplikowanego ekranu bez nagrywania",
+		"translated": true
+	},
+	"Ignorer les doublons et enregistrer le tiers": {
+		"message": "Ignoruj duplikaty i zapisuj trzecią",
+		"translated": true
+	},
+	"\"Modifier\" stoppe la création/modification et vous redirige vers sa fiche.\nCliquez sur \"Enregistrer\" pour poursuivre votre création/modification.": {
+		"message": "\"Edytuj\" zatrzymuje tworzenie /modyfikację i przekierowuje do jego aukcji.\nKliknij \"Zapisz\", aby kontynuować tworzenie/modyfikację.",
+		"translated": true
+	},
+	"Cliquez sur \"Enregistrer\" pour poursuivre votre création/modification.": {
+		"message": "Kliknij \"Zapisz\", aby kontynuować tworzenie/modyfikację.",
+		"translated": true
+	},
+	"Copier la version": {
+		"message": "Kopiowanie wersji",
+		"translated": true
+	},
+	"Archiver la version": {
+		"message": "Archiwizowanie wersji",
+		"translated": true
+	},
+	"Modifier la version": {
+		"message": "Zmienianie wersji",
+		"translated": true
+	},
+	"Propogation": {
+		"message": "Propogacja",
+		"translated": true
+	},
+	"Propogation d'une action sur les opérations existantes": {
+		"message": "Propogacja działania na istniejących operacjach",
+		"translated": true
+	},
+	"Est version": {
+		"message": "Jest wersja",
+		"translated": true
+	},
+	"Tranches locatives": {
+		"message": "Wycinki na wynajem",
+		"translated": true
+	},
+	"Construction sur sol d'autrui": {
+		"message": "Budowanie na gruncie innych",
+		"translated": true
+	},
+	"Année de programmation": {
+		"message": "Rok programowania",
+		"translated": true
+	},
+	"Etape budgétaire": {
+		"message": "Krok budżetu",
+		"translated": true
+	},
+	"Type de programme": {
+		"message": "Typ programu",
+		"translated": true
+	},
+	"Activité": {
+		"message": "Działania",
+		"translated": true
+	},
+	"Financement d'origine": {
+		"message": "Finansowanie pochodzenia",
+		"translated": true
+	},
+	"Nombre de logements démolis": {
+		"message": "Liczba wyburzonych domów",
+		"translated": true
+	},
+	"Collectif": {
+		"message": "Zbiorowego",
+		"translated": true
+	},
+	"Individuel": {
+		"message": "Indywidualne",
+		"translated": true
+	},
+	"Autre": {
+		"message": "Innych",
+		"translated": true
+	},
+	"Equiv.": {
+		"message": "Pan Equiv.",
+		"translated": true
+	},
+	"Tranche locative": {
+		"message": "Kawałek wynajmu",
+		"translated": true
+	},
+	"Surface corigée": {
+		"message": "Współbudowa powierzchnia",
+		"translated": true
+	},
+	"Nombre de logements avants": {
+		"message": "Liczba jednostek przednich",
+		"translated": true
+	},
+	"Nombre de logements après": {
+		"message": "Liczba mieszkań po",
+		"translated": true
+	},
+	"Variation nombre de logements": {
+		"message": "Zmiana liczby mieszkań",
+		"translated": true
+	},
+	"Après": {
+		"message": "Po",
+		"translated": true
+	},
+	"Variation": {
+		"message": "Zmiany",
+		"translated": true
+	},
+	"Avant": {
+		"message": "Przed",
+		"translated": true
+	},
+	"Surface dans oeuvre": {
+		"message": "Powierzchnia w pracy",
+		"translated": true
+	},
+	"Loyer mensuel pratiqué": {
+		"message": "Miesięczny czynsz pobierany",
+		"translated": true
+	},
+	"Clé de répartition par programme": {
+		"message": "Klucz alokacji programu",
+		"translated": true
+	},
+	"Nombre de lots commercialisés": {
+		"message": "Liczba partii na rynku",
+		"translated": true
+	},
+	"Niveau de Livraison": {
+		"message": "Poziom dostawy",
+		"translated": true
+	},
+	"Mode d'intervention": {
+		"message": "Jak interweniować",
+		"translated": true
+	},
+	"Surface Utile": {
+		"message": "Przydatna powierzchnia",
+		"translated": true
+	},
+	"Surface Annexe": {
+		"message": "Dodatek powierzchniowy",
+		"translated": true
+	},
+	"SHON": {
+		"message": "Shon (Shon)",
+		"translated": true
+	},
+	"SHOB": {
+		"message": "Shob (shob)",
+		"translated": true
+	},
+	"SDO": {
+		"message": "Sdo",
+		"translated": true
+	},
+	"Ecart": {
+		"message": "Gap",
+		"translated": true
+	},
+	"Propagation de \"{{titleAction}}\"": {
+		"message": "Propagacja \"titleAction\"",
+		"translated": true
+	},
+	"Démolition": {
+		"message": "Rozbiórki",
+		"translated": true
+	},
+	"Tranches Locatives": {
+		"message": "Wycinki na wynajem",
+		"translated": true
+	},
+	"Logements": {
+		"message": "Obudowa",
+		"translated": true
+	},
+	"Réservataires": {
+		"message": "Rezerwistów",
+		"translated": true
+	},
+	"Lots Principaux": {
+		"message": "Główne partie",
+		"translated": true
+	},
+	"Lots Secondaires": {
+		"message": "Partie wtórne",
+		"translated": true
+	},
+	"Tranche Locative Caractéristiques": {
+		"message": "Funkcje wycinka wynajmu",
+		"translated": true
+	},
+	"Tranche Locative Typologie": {
+		"message": "Plasterek wynajmu typologii",
+		"translated": true
+	},
+	"Tranche Locative": {
+		"message": "Kawałek wynajmu",
+		"translated": true
+	},
+	"Pièces comptables": {
+		"message": "Pièces comptables"
+	},
+	"Ecritures comptables": {
+		"message": "Ecritures comptables"
+	},
+	"Journal": {
+		"message": "Journal"
+	},
+	"Journaux": {
+		"message": "Journaux"
+	},
+	"Action et acteurs associés": {
+		"message": "Action et acteurs associés"
+	},
+	"Association": {
+		"message": "Association"
+	},
+	"Code procédure": {
+		"message": "Code procédure"
+	},
+	"Poste de recette CA": {
+		"message": "Poste de recette CA"
+	},
+	"Poste de recette TMA": {
+		"message": "Poste de recette TMA"
+	},
+	"Poste de recette désistement": {
+		"message": "Poste de recette désistement"
+	},
+	"Poste de recette résolution": {
+		"message": "Poste de recette résolution"
+	},
+	"Poste dation": {
+		"message": "Poste dation"
+	},
+	"Poste remise Psla": {
+		"message": "Poste remise Psla"
+	},
+	"Retour à la liste des pièces": {
+		"message": "Retour à la liste des pièces"
+	},
+	"id": {
+		"message": "id"
+	},
+	"Date transfert": {
+		"message": "Date transfert"
+	},
+	"N° pièce": {
+		"message": "N° pièce"
+	},
+	"Montant Crédit": {
+		"message": "Montant Crédit"
+	},
+	"Montant Débit": {
+		"message": "Montant Débit"
+	},
+	"N° ligne": {
+		"message": "N° ligne"
+	},
+	"Sens": {
+		"message": "Sens"
+	},
+	"Compte analytique": {
+		"message": "Compte analytique"
+	},
+	"Compte auxiliaire": {
+		"message": "Compte auxiliaire"
+	},
+	"Code schéma": {
+		"message": "Code schéma"
+	},
+	"N° ligne schéma": {
+		"message": "N° ligne schéma"
+	},
+	"Témoin sous-pièce": {
+		"message": "Témoin sous-pièce"
+	},
+	"N° sous-pièce": {
+		"message": "N° sous-pièce"
+	},
+	"Type journal": {
+		"message": "Type journal"
+	},
+	"Loué": {
+		"message": "Loué"
+	},
+	"Résolu / Résilié": {
+		"message": "Résolu / Résilié"
+	},
+	"Revenir à l'état de vente": {
+		"message": "Revenir à l'état de vente"
+	},
+	"Revenir à l'état de réservation / loué": {
+		"message": "Revenir à l'état de réservation / loué"
+	},
+	"Annuler la Location": {
+		"message": "Annuler la Location"
+	},
+	"Revenir à l'état de réservation": {
+		"message": "Revenir à l'état de réservation"
+	},
+	"Code sStatut": {
+		"message": "Code sStatut"
+	},
+	"Date de signature du contrat préliminaire": {
+		"message": "Date de signature du contrat préliminaire"
+	},
+	"Date de signature du contrat de location": {
+		"message": "Date de signature du contrat de location"
+	},
+	"Levée d’option": {
+		"message": "Levée d’option"
+	},
+	"Courrier": {
+		"message": "Courrier"
+	},
+	"Code action": {
+		"message": "Code action"
+	},
+	"Code expéditeur": {
+		"message": "Code expéditeur"
+	},
+	"Expéditeur": {
+		"message": "Expéditeur"
+	},
+	"Destinataire": {
+		"message": "Destinataire"
+	},
+	"Signataire 1": {
+		"message": "Signataire 1"
+	},
+	"Signataire 2": {
+		"message": "Signataire 2"
+	},
+	"Poste budgétaire produit financier": {
+		"message": "Poste budgétaire produit financier"
+	},
+	"Filtrer les documents": {
+		"message": "Filtrer les documents"
+	},
+	"Afficher tous": {
+		"message": "Afficher tous"
+	},
+	"Afficher uniquement les documents joints": {
+		"message": "Afficher uniquement les documents joints"
+	},
+	"Afficher uniquement les éditions": {
+		"message": "Afficher uniquement les éditions"
+	},
+	"Date d'envoi": {
+		"message": "Date d'envoi"
+	},
+	"Signataires": {
+		"message": "Signataires"
+	},
+	"Modèle utilisé": {
+		"message": "Modèle utilisé"
+	},
+	"Résiliation": {
+		"message": "Résiliation"
+	},
+	"Lever l'option": {
+		"message": "Lever l'option"
+	},
+	"Louer": {
+		"message": "Louer"
+	},
+	"Date de simulation": {
+		"message": "Date de simulation"
+	},
+	"Date d’entrée dans les lieux": {
+		"message": "Date d’entrée dans les lieux"
+	},
+	"Date minimum de levée d’option": {
+		"message": "Date minimum de levée d’option"
+	},
+	"Date limite de levée d’option": {
+		"message": "Date limite de levée d’option"
+	},
+	"Date de levée d’option": {
+		"message": "Date de levée d’option"
+	},
+	"Date de demande de levée d’option": {
+		"message": "Date de demande de levée d’option"
+	},
+	"Date d’attestation d’assurance": {
+		"message": "Date d’attestation d’assurance"
+	},
+	"Date d’agrément définitive": {
+		"message": "Date d’agrément définitive"
+	},
+	"Date d’agrément provisoire": {
+		"message": "Date d’agrément provisoire"
+	},
+	"Part locative": {
+		"message": "Part locative"
+	},
+	"Part acquisitive": {
+		"message": "Part acquisitive"
+	},
+	"Autres charges": {
+		"message": "Autres charges"
+	},
+	"Aides": {
+		"message": "Aides"
+	},
+	"Révisions de loyers": {
+		"message": "Révisions de loyers"
+	},
+	"Remise annuelle (%)": {
+		"message": "Remise annuelle (%)"
+	},
+	"Remise en €": {
+		"message": "Remise en €"
+	},
+	"Total part acquisitive": {
+		"message": "Total part acquisitive"
+	},
+	"Régularisation loyer en €": {
+		"message": "Régularisation loyer en €"
+	},
+	"Régularisation charges en €": {
+		"message": "Régularisation charges en €"
+	},
+	"Externe": {
+		"message": "Externe"
+	},
+	"Interne": {
+		"message": "Interne"
+	},
+	"Acteurs": {
+		"message": "Acteurs"
+	},
+	"Ajouter des acteurs à la procédure": {
+		"message": "Ajouter des acteurs à la procédure"
+	},
+	"Dissocier les acteurs sélectionnés de la procédure": {
+		"message": "Dissocier les acteurs sélectionnés de la procédure"
+	},
+	"Retour à la procédure": {
+		"message": "Retour à la procédure"
+	},
+	"Propagation": {
+		"message": "Propagation"
+	},
+	"Propagation d'une action sur les opérations existantes": {
+		"message": "Propagation d'une action sur les opérations existantes"
+	},
+	"Acteurs de la procédure": {
+		"message": "Acteurs de la procédure"
+	},
+	"Editions": {
+		"message": "Editions"
+	},
+	"Paramétrage des Editions": {
+		"message": "Paramétrage des Editions"
+	},
+	"Acteur (qui fait ?)": {
+		"message": "Acteur (qui fait ?)"
+	},
+	"Redevance": {
+		"message": "Redevance"
+	},
+	"Mode de réglement de la redevance": {
+		"message": "Mode de réglement de la redevance"
+	},
+	"Autre remise en €": {
+		"message": "Autre remise en €"
+	},
+	"A encaisser en €": {
+		"message": "A encaisser en €"
+	},
+	"Durée entre l'entrée dans les lieux et la levée d'option": {
+		"message": "Durée entre l'entrée dans les lieux et la levée d'option"
+	},
+	"Date d’obtention de l’agrément provisoire": {
+		"message": "Date d’obtention de l’agrément provisoire"
+	},
+	"Date d’obtention de l’agrément définitif": {
+		"message": "Date d’obtention de l’agrément définitif"
+	},
+	"Date de dernière remise": {
+		"message": "Date de dernière remise"
+	},
+	"date1": {
+		"message": "date1"
+	},
+	"date2": {
+		"message": "date2"
+	},
+	"date3": {
+		"message": "date3"
+	},
+	"date4": {
+		"message": "date4"
+	},
+	"date5": {
+		"message": "date5"
+	},
+	"datePSLA1": {
+		"message": "datePSLA1"
+	},
+	"datePSLA2": {
+		"message": "datePSLA2"
+	},
+	"datePSLA3": {
+		"message": "datePSLA3"
+	},
+	"datePSLA4": {
+		"message": "datePSLA4"
+	},
+	"datePSLA5": {
+		"message": "datePSLA5"
+	},
+	"datePSLA6": {
+		"message": "datePSLA6"
+	},
+	"Décompte": {
+		"message": "Décompte"
+	},
+	"Ajouter -->": {
+		"message": "Ajouter -->"
+	},
+	"<-- Enlever": {
+		"message": "<-- Enlever"
+	},
+	"Champs": {
+		"message": "Champs"
+	},
+	"Champs selectionnés": {
+		"message": "Champs selectionnés"
+	},
+	"Choix du paramétrage société type": {
+		"message": "Choix du paramétrage société type"
+	},
+	"Promoteur": {
+		"message": "Promoteur"
+	},
+	"Ecritures d'engagement Prix de revient": {
+		"message": "Ecritures d'engagement Prix de revient"
+	},
+	"Ecritures d'engagement Financement": {
+		"message": "Ecritures d'engagement Financement"
+	},
+	"Ecritures de financement": {
+		"message": "Ecritures de financement"
+	},
+	"Ecritures avec LASM provisionnée": {
+		"message": "Ecritures avec LASM provisionnée"
+	},
+	"Ecritures LASM avant création secteur": {
+		"message": "Ecritures LASM avant création secteur"
+	},
+	"Schéma": {
+		"message": "Schéma"
+	},
+	"Type de régime": {
+		"message": "Type de régime"
+	},
+	"Libellé type": {
+		"message": "Libellé type"
+	},
+	"Code acteur": {
+		"message": "Code acteur"
+	},
+	"Id utilisateur": {
+		"message": "Id utilisateur"
+	},
+	"Code Répresentant": {
+		"message": "Code Répresentant"
+	},
+	"Périmètre d'intervention": {
+		"message": "Périmètre d'intervention"
+	},
+	"Répresentant": {
+		"message": "Répresentant"
+	},
+	"Collaborateur": {
+		"message": "Collaborateur"
+	},
+	"Ajouter un Tiers": {
+		"message": "Ajouter un Tiers"
+	},
+	"Modification du Tiers": {
+		"message": "Modification du Tiers"
+	},
+	"Suivi Dossier": {
+		"message": "Suivi Dossier"
+	},
+	"Mail": {
+		"message": "Mail"
+	},
+	"Intervenants": {
+		"message": "Intervenants"
+	},
+	"Editer": {
+		"message": "Editer"
+	},
+	"Date d'agrément provisoire": {
+		"message": "Date d'agrément provisoire"
+	},
+	"Date d'agrément définitive": {
+		"message": "Date d'agrément définitive"
+	},
+	"Gestion du PSLA": {
+		"message": "Gestion du PSLA"
+	},
+	"Délai minimum de levée d’option (en mois)": {
+		"message": "Délai minimum de levée d’option (en mois)"
+	},
+	"Délai maximum de levée d’option (en années)": {
+		"message": "Délai maximum de levée d’option (en années)"
+	},
+	"Pourcentage de remise annuelle": {
+		"message": "Pourcentage de remise annuelle"
+	},
+	"Préfixe numérotation des lots": {
+		"message": "Préfixe numérotation des lots"
+	},
+	"Cumul": {
+		"message": "Cumul"
+	},
+	"Gauche": {
+		"message": "Gauche"
+	},
+	"Droite": {
+		"message": "Droite"
+	},
+	"Consolidation": {
+		"message": "Consolidation"
+	},
+	"Signe": {
+		"message": "Signe"
+	},
+	"Type montant": {
+		"message": "Type montant"
+	},
+	"Modéle": {
+		"message": "Modéle"
+	},
+	"Ouvrir modéle": {
+		"message": "Ouvrir modéle"
+	},
+	"Acteurs associés à la procédure \"{{titleProcedure}}\"": {
+		"message": "Acteurs associés à la procédure \"{{titleProcedure}}\""
+	},
+	"Les lots": {
+		"message": "Les lots"
+	},
+	"Les dates": {
+		"message": "Les dates"
+	},
+	"La redevance": {
+		"message": "La redevance"
+	},
+	"Schéma comptable {{societeTitle}} - {{libEvt}}": {
+		"message": "Schéma comptable {{societeTitle}} - {{libEvt}}"
+	},
+	"Schéma comptable {{lib}}": {
+		"message": "Schéma comptable {{lib}}"
+	},
+	"Code analytique de l'opération": {
+		"message": "Code analytique de l'opération"
+	},
+	"Intervenants pour \"{{libOperation}}\"": {
+		"message": "Intervenants pour \"{{libOperation}}\""
+	},
+	"Portail tiers - {{libelle}}": {
+		"message": "Portail tiers - {{libelle}}"
+	},
+	"Paramétrage PSLA": {
+		"message": "Paramétrage PSLA"
+	},
+	"Ajout nouveau détail poste": {
+		"message": "Ajout nouveau détail poste"
+	},
+	"Ajout nouveau détail cumul": {
+		"message": "Ajout nouveau détail cumul"
+	},
+	"Modéle de consolidation": {
+		"message": "Modéle de consolidation"
+	},
+	"Ajout nouveau modèle": {
+		"message": "Ajout nouveau modèle"
+	},
+	"Duplication du modèle \"{0}\"": {
+		"message": "Duplication du modèle \"{0}\""
+	},
+	"Modèles de consolidation": {
+		"message": "Modèles de consolidation"
+	},
+	"Paramétrage SPO": {
+		"message": "Paramétrage SPO"
+	},
+	"ADMINISTRATION ET CONTRÔLE DES ACCÈS": {
+		"message": "ADMINISTRATION ET CONTRÔLE DES ACCÈS"
+	},
+	"Verrous ADV": {
+		"message": "Verrous ADV"
+	},
+	"Langue (DEMO)": {
+		"message": "Langue (DEMO)"
+	},
+	"PROCÉDURE ET PLANNING": {
+		"message": "PROCÉDURE ET PLANNING"
+	},
+	"Liaison procédures dans le Planning": {
+		"message": "Liaison procédures dans le Planning"
+	},
+	"OPÉRATIONS": {
+		"message": "OPÉRATIONS"
+	},
+	"BUDGET": {
+		"message": "BUDGET"
+	},
+	"Associer un modèle de budget à une procédure": {
+		"message": "Associer un modèle de budget à une procédure"
+	},
+	"Associer un poste budgétaire de recette à un type d’ouvrage": {
+		"message": "Associer un poste budgétaire de recette à un type d’ouvrage"
+	},
+	"TRÉSORERIE": {
+		"message": "TRÉSORERIE"
+	},
+	"Modèle de consolidation": {
+		"message": "Modèle de consolidation"
+	},
+	"COMPTABILITÉ": {
+		"message": "COMPTABILITÉ"
+	},
+	"Schéma comptable": {
+		"message": "Schéma comptable"
+	},
+	"Exercice comptable": {
+		"message": "Exercice comptable"
+	},
+	"TRANCHES COMMERCIALES": {
+		"message": "TRANCHES COMMERCIALES"
+	},
+	"Codifications Tranche": {
+		"message": "Codifications Tranche"
+	},
+	"Codifications Dossier Client": {
+		"message": "Codifications Dossier Client"
+	},
+	"Natures de travaux": {
+		"message": "Natures de travaux"
+	},
+	"Paramétrage de l’avancement des tranches travaux": {
+		"message": "Paramétrage de l’avancement des tranches travaux"
+	},
+	"EDITIONS": {
+		"message": "EDITIONS"
+	},
+	"Paramétrage des éditions": {
+		"message": "Paramétrage des éditions"
+	},
+	"INTERFACE CRM": {
+		"message": "INTERFACE CRM"
+	},
+	" Passage des opérations du statut «lancé» au statut «achevé»": {
+		"message": " Passage des opérations du statut «lancé» au statut «achevé»"
+	},
+	"Associer un poste budgétaire de recette à un type d'ouvrage": {
+		"message": "Associer un poste budgétaire de recette à un type d'ouvrage"
+	}
+}

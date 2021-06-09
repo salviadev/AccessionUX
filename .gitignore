@@ -1,0 +1,11 @@
+/node_modules
+/public
+/dist
+/.vscode
+/versions
+/yarn-error.log
+/.tscache/lib/timestamp
+/.tscache/lib/hashes
+/src/accession/tests
+SPO_AccessionUX.zip
+/old

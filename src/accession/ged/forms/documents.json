@@ -1,0 +1,201 @@
+{
+    "name": "documents",
+    "$type": "block",
+    "datasets": {
+        "maindata": {
+            "name": "maindata",
+            "$type": "sync",
+            "$params": {
+                "$replaceSearch": [
+                    "destination",
+                    "backToSpo"
+                ],
+                "$persistent": true,
+                "$entity": "DocJointMain",
+                "$data": {
+                    "operation": "$url.operation",
+                    "type": "$url.type",
+                    "objet": "$url.objet",
+                    "piece": "$url.piece"
+                }
+            }
+        }
+    },
+    "$items": [
+        {
+            "$type": "block",
+            "$inline": true,
+            "$title": {
+                "value": "Critères de sélection",
+                "$style": "$spo-h2",
+                "size": 4
+            },
+            "$items": [
+                {
+                    "$bind": "operationFilterLib",
+                    "$lookup": "enumListOperation",
+                    "options": {
+                        "columns": true,
+                        "lookupColumns": [
+                            "code",
+                            "libelle"
+                        ]
+                    }
+                },
+                {
+                    "$bind": "objetFilter",
+                    "options": {
+                        "columns": true
+                    }
+                },
+                {
+                    "$bind": "pieceFilterLib",
+                    "$lookup": "enumListPiece",
+                    "$name": "lookupPiece",
+                    "options": {
+                        "minWidth": "25em",
+                        "lookupMinWidth": 600,
+                        "columns": true,
+                        "lookupColumns": [
+                            "code",
+                            "libelle"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "$type": "block",
+            "$title": {
+                "value": "Liste des documents correspondants",
+                "$style": "$spo-h2",
+                "size": 4
+            },
+            "$items": [
+                {
+                    "$bind": "documents",
+                    "$widget": "array-actions",
+                    "options": {
+                        "gridName": "grid-documents",
+                        "options": {
+                            "icon": "bars",
+                            "titleIsHidden": false
+                        },
+                        "links": [
+                            {
+                                "name": "$filter",
+                                "important": true
+                            },
+                            {
+                                "name": "new",
+                                "important": true
+                            },
+                            {
+                                "name": "removeDoc",
+                                "important": true
+                            },
+                            {
+                                "name": "update",
+                                "options": {
+                                    "icon": "pencil"
+                                },
+                                "important": true
+                            },
+                            {
+                                "name": "$columns",
+                                "important": true
+                            },
+                            {
+                                "name": "download",
+                                "options": {
+                                    "icon": "cloud-download",
+                                    "titleIsHidden": true,
+                                    "type": "link"
+                                },
+                                "important": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "$bind": "filterDocs",
+                    "options": {
+                        "titleIsHidden": true
+                    }
+                }
+            ],
+            "$inline": true
+        },
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$bind": "documents",
+                    "$name": "grid-documents",
+                    "options": {
+                        "striped": false,
+                        "align": "middle",
+                        "border": true,
+                        "sorting": true,
+                        "selecting": {
+                            "row": true,
+                            "cell": false,
+                            "multiselect": true,
+                            "selectAll": true
+                        },
+                        "columns": [
+                            {
+                                "$bind": "libDoc"
+                            },
+                            {
+                                "$bind": "dtCreateDoc"
+                            },
+                            {
+                                "$bind": "dtModifDoc"
+                            },
+                            {
+                                "$bind": "expediteurDoc"
+                            },
+                            {
+                                "$bind": "destinataireDoc"
+                            },
+                            {
+                                "$bind": "signatairesDoc"
+                            },
+                            {
+                                "$bind": "srcModeleDoc"
+                            },
+                            {
+                                "$bind": "commentaireDoc"
+                            },
+                            {
+                                "$bind": "extenionDoc",
+                                "options": {
+                                    "width": 55
+                                }
+                            },
+                            {
+                                "$bind": "libPiece"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "$type": "block",
+            "$style": "$white",
+            "$inline": true,
+            "$sticky": "bottom",
+            "$items": [
+                {
+                    "$bind": "$links.back",
+                    "options": {
+                        "right": true
+                    }
+                }
+            ]
+        }
+    ],
+    "form": true
+}

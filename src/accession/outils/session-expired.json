@@ -1,0 +1,21 @@
+{
+    "name": "session-expired",
+    "$menus": {
+        "left": "detail"
+    },
+    "$items": [
+        {
+            "$config": {
+                "$title": "Session expirée",
+                "$titleIsHidden": false,
+                "form": {
+                    "name": "outils/forms/session-expired",
+                    "meta": "outils/metas/session-expired",
+                    "controller": "accession.session-expired.controller"
+                },
+                "$type": "form"
+            }
+        }
+    ],
+    "$type": "block"
+}

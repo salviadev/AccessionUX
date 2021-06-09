@@ -1,0 +1,123 @@
+html {
+    font-size: 13px !important;
+}
+
+div.accession-remove-vspace > .bs-island {
+    margin-bottom: 0px !important;
+}
+
+@font-face {
+    font-family: "accession";
+    src: url("../font/accession.eot?11589452");
+    src: url("../font/accession.eot?11589452#iefix") format("embedded-opentype"),
+        url("../font/accession.woff2?11589452") format("woff2"),
+        url("../font/accession.woff?11589452") format("woff"),
+        url("../font/accession.ttf?11589452") format("truetype"),
+        url("../font/accession.svg?11589452#accession") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.accession {
+    font-family: "accession";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+.accession-houses:before {
+    content: "\e800";
+} /* '' */
+.accession-parking:before {
+    content: "\e801";
+} /* '' */
+.accession-plan:before {
+    content: "\e802";
+} /* '' */
+.accession-house:before {
+    content: "\e803";
+} /* '' */
+.accession-plus-squared:before {
+    content: "\e804";
+} /* '' */
+.accession-minus-squared:before {
+    content: "\e805";
+} /* '' */
+.accession-client:before {
+    content: "\e806";
+} /* '' */
+.accession-lots:before {
+    content: "\e807";
+} /* '' */
+.accession-dates:before {
+    content: "\e808";
+} /* '' */
+.accession-prix:before {
+    content: "\e809";
+} /* '' */
+.accession-echancier:before {
+    content: "\e80a";
+} /* '' */
+.accession-tma:before {
+    content: "\e80b";
+} /* '' */
+.accession-financements:before {
+    content: "\e80c";
+} /* '' */
+.accession-documents:before {
+    content: "\e80d";
+} /* '' */
+.accession-suivi-de-compte:before {
+    content: "\e80e";
+} /* '' */
+.accession-commentaires:before {
+    content: "\e80f";
+} /* '' */
+.accession-contacts:before {
+    content: "\e810";
+} /* '' */
+.accession-zones-libres:before {
+    content: "\e811";
+} /* '' */
+.accession-historique:before {
+    content: "\e812";
+} /* '' */
+.accession-reserves:before {
+    content: "\e813";
+} /* '' */
+.accession-description:before {
+    content: "\e814";
+} /* '' */
+.accession-surfaces:before {
+    content: "\e815";
+} /* '' */
+.accession-vendeur:before {
+    content: "\e816";
+} /* '' */
+.accession-localisation:before {
+    content: "\e817";
+} /* '' */
+.accession-ecritures:before {
+    content: "\e818";
+} /* '' */
+.accession-columns:before {
+    content: "\e819";
+} /* '' */
+.accession-file-excel:before {
+    content: "\f1c3";
+} /* '' */
+
+.accession-none:before {
+    content: "\e805";
+    color: transparent !important;
+} /* '' */
+
+.accession-empty:before {
+    content: "\e805";
+    color: transparent !important;
+} /* '' */

@@ -1,0 +1,21 @@
+{
+    "name": "parametrage-models",
+    "$menus": {
+        "left": "detail"
+    },
+    "$items": [
+        {
+            "$config": {
+                "$titleIsHidden": false,
+                "form": {
+                    "name": "editions/forms/parametrage-models",
+                    "meta": "editions/metas/parametrage-models",
+                    "controller": "accession.sync.editions.parametrage-models.controller"
+                },
+                "$type": "form",
+                "$title": "Paramétrage des éditions"
+            }
+        }
+    ],
+    "$type": "block"
+}

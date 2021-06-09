@@ -1,0 +1,74 @@
+{
+    "name": "create-preference",
+    "$type": "block",
+    "datasets": {
+        "main": {
+            "name": "main",
+            "$type": "sync",
+            "$params": {
+                "$entity": "PreferenceSave",
+                "$data": {
+                    "valeur": "$context.valeur",
+                    "defaultModel": "$context.defaultModel",
+                    "classe": "$context.classe"
+                }
+            }
+        }
+    },
+    "$items": [
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$bind": "modeCreate"
+                }
+            ]
+        },
+        {
+            "$type": "block",
+            "bindVisibility": "modeCreate",
+            "bindVisibilityValue": true,
+            "$items": [
+                {
+                    "$bind": "libelle"
+                },
+                {
+                    "$bind": "prive",
+                    "$widget": "grpbtn",
+                    "options": {
+                        "titleIsHidden": true,
+                        "binary": true
+                    }
+                }
+            ],
+            "$title": {
+                "value": "Modèle à créer",
+                "size": 4,
+                "$style": "$spo-h2"
+            }
+        },
+        {
+            "$type": "block",
+            "bindVisibility": "modeCreate",
+            "bindVisibilityValue": false,
+            "$items": [
+                {
+                    "$bind": "codeModel",
+                    "$lookup": "model",
+                    "$widget": "select-relation",
+                    "options": {
+                        "titleIsHidden": true,
+                        "code": "code",
+                        "title": "libelle"
+                    }
+                }
+            ],
+            "$title": {
+                "value": "Modèle à modifier",
+                "size": 4,
+                "$style": "$spo-h2"
+            }
+        }
+    ],
+    "form": true
+}

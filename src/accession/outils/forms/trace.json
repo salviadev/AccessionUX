@@ -1,0 +1,113 @@
+{
+    "name": "trace",
+    "$type": "block",
+    "datasets": {
+        "main": {
+            "$type": "basic",
+            "$data": {
+                "$factory": "traces.load-traces"
+            }
+        }
+    },
+    "$items": [
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$type": "block",
+                    "$items": [
+                        {
+                            "$bind": "traces",
+                            "$widget": "array-actions",
+                            "options": {
+                                "options": {
+                                    "icon": "bars",
+                                    "titleIsHidden": false
+                                },
+                                "right": false,
+                                "links": [
+                                    {
+                                        "name": "trace",
+                                        "important": true
+                                    },
+                                    {
+                                        "name": "stopTrace",
+                                        "important": true
+                                    },
+                                    {
+                                        "name": "clear",
+                                        "important": true
+                                    },
+                                    {
+                                        "name": "refresh",
+                                        "important": true
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "$type": "block",
+                    "$items": [
+                        {
+                            "$bind": "traces",
+                            "$widget": "basicgrid",
+                            "options": {
+                                "striped": true,
+                                "scrolling": {
+                                    "vertical": true
+                                },
+                                "minHeight": 150,
+                                "bottom": 100,
+                                "selecting": {
+                                    "row": false,
+                                    "cell": true,
+                                    "multiselect": false,
+                                    "selectAll": false
+                                },
+                                "expandingProperty": "items",
+                                "editing": false,
+                                "expanding": {
+                                    "selectChildren": false
+                                },
+                                "border": true,
+                                "allowColumnResize": false,
+                                "allowFrozenColumns": false,
+                                "columns": [
+                                    {
+                                        "$bind": "$expand",
+                                        "options": {
+                                            "display": "message",
+                                            "width": "100%"
+                                        }
+                                    },
+                                    {
+                                        "$bind": "time",
+                                        "options": {
+                                            "width": "10em"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "$type": "block",
+                    "$items": [
+                        {
+                            "$bind": "totalTime",
+                            "$readOnly": true,
+                            "options": {
+                                "$expression": "<h4>Total:&nbsp;<span class=\"badge badge-secondary\">{{totalTime}}</span>&nbsp;Data:&nbsp;<span class=\"badge badge-danger\">{{dataTime}}</span>&nbsp;Rules:&nbsp;<span class=\"badge badge-dark\">{{rulesTime}}</span>&nbsp;Alloc Id:&nbsp;<span class=\"badge badge-warning\">{{newIdTime}}</span></h4>"
+                            }
+                        }
+                    ],
+                    "$inline": true
+                }
+            ]
+        }
+    ],
+    "form": true
+}

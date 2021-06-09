@@ -1,0 +1,142 @@
+{
+    "type": "object",
+    "title": "Model du paramétrage de publipostage",
+    "primaryKey": "id",
+    "name": "ParametrageEditionModelsView",
+    "properties": {
+        "id": {
+            "type": "integer"
+        },
+        "modelsList": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/Model"
+            },
+            "links": {
+                "new": {
+                    "title": "Modèle",
+                    "isNew": true,
+                    "ux": true
+                },
+                "update": {
+                    "title": "",
+                    "isAction": true,
+                    "ux": true,
+                    "select": {
+                        "multiselect": false
+                    }
+                },
+                "modify": {
+                    "title": ""
+                },
+                "upload": {
+                    "title": ""
+                },
+                "download": {
+                    "title": "Télécharger",
+                    "isAction": true,
+                    "ux": true,
+                    "select": {},
+                    "noRights": true
+                },
+                "$remove": {
+                    "title": "",
+                    "confirm": {
+                        "message": "Confirmez-vous la suppression de ce modèle ?"
+                    },
+                    "isRemove": true,
+                    "select": {}
+                }
+            }
+        },
+        "filterDefaultModel": {
+            "title": "Par défaut",
+            "type": "boolean",
+            "noRights": true
+        },
+        "filterModel": {
+            "type": "string",
+            "title": "Rechercher",
+            "noRights": true
+        },
+        "filterObjet": {
+            "title": "Objet",
+            "type": "string",
+            "enum": {
+                "arrayProperty": "objectsList",
+                "code": "code",
+                "title": "libelle"
+            },
+            "noRights": true
+        },
+        "filterCourrier": {
+            "title": "Courrier",
+            "type": "string",
+            "enum": {
+                "arrayProperty": "courriersList",
+                "code": "code",
+                "title": "libelle"
+            },
+            "noRights": true
+        },
+        "uploadUrl": {
+            "type": "string"
+        }
+    },
+    "links": {
+        "$save": {
+            "description": "Appliquer",
+            "isSave": true
+        },
+        "cancel": {
+            "ux": true,
+            "title": "Retour",
+            "description": "Retour",
+            "noRights": true
+        }
+    },
+    "definitions": {
+        "Model": {
+            "type": "object",
+            "primaryKey": "id",
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "code": {
+                    "format": "code",
+                    "type": "string",
+                    "title": "Code"
+                },
+                "libelle": {
+                    "type": "string",
+                    "title": "Libellé"
+                },
+                "objet": {
+                    "type": "string",
+                    "title": "Objet"
+                },
+                "courrier": {
+                    "type": "string",
+                    "title": "Courrier"
+                },
+                "typeDoc": {
+                    "type": "string",
+                    "title": "Type"
+                },
+                "proprietaire": {
+                    "type": "string",
+                    "title": "Propriétaire"
+                },
+                "defaultModel": {
+                    "type": "boolean",
+                    "title": "Par défaut"
+                },
+                "modelLink": {
+                    "type": "string",
+                    "title": "Lien"
+                }
+            }
+        }
+    }
+}

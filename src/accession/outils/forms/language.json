@@ -1,0 +1,48 @@
+{
+    "name": "language",
+    "$type": "block",
+    "datasets": {
+        "main": {
+            "$type": "basic",
+            "$data": {
+                "$factory": "language.data-factory"
+            }
+        }
+    },
+    "$items": [
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$type": "block",
+                    "$title": {
+                        "value": "Choisir la langue",
+                        "$style": "$spo-h2",
+                        "size": 4
+                    },
+                    "$items": [
+                        {
+                            "$bind": "lang"
+                        }
+                    ],
+                    "$fieldsOptions": {
+                        "columns": true
+                    }
+                }
+            ]
+        },
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$bind": "$links.save",
+                    "options": {
+                        "right": true
+                    }
+                }
+            ],
+            "$inline": true
+        }
+    ],
+    "form": true
+}

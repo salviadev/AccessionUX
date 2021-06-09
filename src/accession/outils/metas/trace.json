@@ -1,0 +1,96 @@
+{
+    "type": "object",
+    "properties": {
+        "active": {
+            "title": "Trace",
+            "type": "boolean"
+        },
+        "totalTime": {
+            "title": "Total",
+            "type": "number",
+            "decimals": 4
+        },
+        "dataTime": {
+            "title": "Data Time",
+            "type": "number",
+            "decimals": 4
+        },
+        "newIdTime": {
+            "title": "Alloc Id Time",
+            "type": "number",
+            "decimals": 4
+        },
+        "rulesTime": {
+            "title": "Rules Time",
+            "type": "number",
+            "decimals": 4
+        },
+        "traces": {
+            "title": "Traces",
+            "children": "items",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/item"
+            },
+            "links": {
+                "clear": {
+                    "title": "Clear",
+                    "isAction": true,
+                    "ux": true
+                },
+                "trace": {
+                    "title": "Start Trace",
+                    "isApply": true,
+                    "ux": true
+                },
+                "stopTrace": {
+                    "title": "Stop Trace",
+                    "isImportant": true,
+                    "ux": true
+                },
+                "refresh": {
+                    "title": "Refresh",
+                    "ux": true,
+                    "isNavigation": true
+                }
+            }
+        }
+    },
+    "definitions": {
+        "items": {
+            "type": "array",
+            "children": "items",
+            "autoSelect": false,
+            "items": {
+                "$ref": "#/definitions/item"
+            }
+        },
+        "item": {
+            "type": "object",
+            "primaryKey": [
+                "id"
+            ],
+            "properties": {
+                "id": {
+                    "type": "integer",
+                    "title": "Id"
+                },
+                "message": {
+                    "type": "string",
+                    "title": "Title"
+                },
+                "type": {
+                    "type": "string"
+                },
+                "time": {
+                    "type": "number",
+                    "title": "Time (ms)",
+                    "decimals": 4
+                },
+                "items": {
+                    "$ref": "#/definitions/items"
+                }
+            }
+        }
+    }
+}

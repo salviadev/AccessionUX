@@ -1,0 +1,10 @@
+{
+    "name": "home",
+    "$theme": "main",
+    "$menus": {
+		"left": "detail"
+	},
+    "$items": [
+    ],
+    "$type": "block"
+}

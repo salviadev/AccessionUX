@@ -1,0 +1,74 @@
+{
+    "type": "object",
+    "properties": {
+        "instanceasstring": {
+            "type": "string",
+            "format": "json"
+        },
+        "totalInstances": {
+            "title": "Total Instances",
+            "type": "integer"
+        },
+        "instances": {
+            "title": "Instances",
+            "children": "instances",
+            "autoSelect": false,
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/instance"
+            },
+            "links": {
+                "refresh": {
+                    "title": "Refresh",
+                    "ux": true
+                }
+            }
+        }
+    },
+    "definitions": {
+        "instances": {
+            "type": "array",
+            "children": "instances",
+            "autoSelect": false,
+            "items": {
+                "$ref": "#/definitions/instance"
+            }
+        },
+        "instance": {
+            "type": "object",
+            "primaryKey": [
+                "id"
+            ],
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "title": "Instances"
+                },
+                "status": {
+                    "type": "number",
+                    "title": "Statut",
+                    "nullable": true,
+                    "enum": [
+                        0,
+                        1,
+                        2,
+                        4,
+                        8,
+                        16
+                    ],
+                    "enumNames": [
+                        "Unknown",
+                        "Unmodified",
+                        "New",
+                        "Modified",
+                        "Deleted",
+                        "Canceled"
+                    ]
+                },
+                "instances": {
+                    "$ref": "#/definitions/instances"
+                }
+            }
+        }
+    }
+}

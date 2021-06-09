@@ -1,0 +1,46 @@
+{
+  "name": "article-detail",
+  "$type": "block",
+  "datasets": {
+    "main": {
+      "name": "main",
+      "$type": "sync",
+      "$params": {
+        "$entity": "ArticleDetail",
+        "$data": {
+          "code": "$url.code"
+        }
+      }
+    }
+  },
+  "$items": [
+    {
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "code"
+        },
+        {
+          "$bind": "libelle",
+          "options": {
+            "actionName": "modify"
+          }
+        },
+        {
+          "$bind": "prix"
+        }
+      ]
+    },
+    {
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "$links.save"
+        }
+      ],
+      "$inline": true,
+      "$sticky": "bottom"
+    }
+  ],
+  "form": true
+}

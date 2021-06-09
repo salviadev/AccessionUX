@@ -1,0 +1,28 @@
+{
+    "name": "session-expired",
+    "$type": "block",
+    "$items": [
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$type": "block",
+                    "$items": []
+                },
+                {
+                    "$type": "block",
+                    "$items": [
+                        {
+                            "$bind": "$links.home",
+                            "options": {
+                                "icon": "arrow-left"
+                            }
+                        }
+                    ],
+                    "$inline": "block"
+                }
+            ]
+        }
+    ],
+    "form": true
+}

@@ -1,0 +1,183 @@
+{
+    "name": "parametrage-models",
+    "$type": "block",
+    "datasets": {
+        "maindata": {
+            "name": "maindata",
+            "$type": "sync",
+            "$params": {
+                "$replaceSearch": [
+                    "destination",
+                    "backToSpo"
+                ],
+                "$persistent": true,
+                "$entity": "ParametrageEditionModels",
+                "$data": {
+                    "params": "$url.params",
+                    "code": "$url.code",
+                    "codes": "$url.codes",
+                    "typesModelSupported": "$url.typesModelSupported"
+                }
+            }
+        }
+    },
+    "$items": [
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$type": "block",
+                    "$inline": true,
+                    "$title": {
+                        "value": "Critères de sélection",
+                        "$style": "$spo-h2",
+                        "size": 4
+                    },
+                    "$items": [
+                        {
+                            "$bind": "filterModel",
+                            "options": {
+                                "columns": true,
+                                "placeHolder": true,
+                                "titleIsHidden": true
+                            }
+                        },
+                        {
+                            "$bind": "filterObjet",
+                            "options": {
+                                "columns": true
+                            }
+                        },
+                        {
+                            "$bind": "filterCourrier",
+                            "options": {
+                                "columns": true
+                            }
+                        },
+                        {
+                            "$bind": "filterDefaultModel",
+                            "options": {
+                                "columns": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "$type": "block",
+                    "$title": {
+                        "value": "Choix de modèle",
+                        "size": 4,
+                        "$style": "$spo-h2"
+                    },
+                    "$items": [
+                        {
+                            "$type": "block",
+                            "$items": [
+                                {
+                                    "$bind": "modelsList",
+                                    "$widget": "array-actions",
+                                    "options": {
+                                        "gridName": "grid-models",
+                                        "options": {
+                                            "icon": "bars",
+                                            "titleIsHidden": false
+                                        },
+                                        "links": [
+                                            {
+                                                "name": "new",
+                                                "important": true
+                                            },
+                                            {
+                                                "name": "$remove",
+                                                "important": true
+                                            },
+                                            {
+                                                "name": "update",
+                                                "options": {
+                                                    "icon": "pencil"
+                                                },
+                                                "important": true
+                                            },
+                                            {
+                                                "name": "download",
+                                                "options": {
+                                                    "type": "link",
+                                                    "titleIsHidden": true,
+                                                    "icon": "cloud-download"
+                                                },
+                                                "important": true
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+                            "$inline": true
+                        },
+                        {
+                            "$type": "block",
+                            "$items": [
+                                {
+                                    "$bind": "modelsList",
+                                    "$name": "grid-models",
+                                    "options": {
+                                        "striped": false,
+                                        "align": "middle",
+                                        "border": true,
+                                        "selecting": {
+                                            "row": true,
+                                            "cell": true
+                                        },
+                                        "columns": [
+                                            {
+                                                "$bind": "libelle",
+                                                "options": {
+                                                    "width": "40%"
+                                                }
+                                            },
+                                            {
+                                                "$bind": "objet",
+                                                "options": {
+                                                    "width": "30%"
+                                                }
+                                            },
+                                            {
+                                                "$bind": "courrier",
+                                                "options": {
+                                                    "width": "30%"
+                                                }
+                                            },
+                                            {
+                                                "$bind": "defaultModel"
+                                            },
+                                            {
+                                                "$bind": "typeDoc",
+                                                "options": {
+                                                    "width": "4em"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "$type": "block",
+                    "$style": "$white",
+                    "$inline": true,
+                    "$sticky": "bottom",
+                    "$items": [
+                        {
+                            "$bind": "$links.cancel",
+                            "options": {
+                                "right": true
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "form": true
+}

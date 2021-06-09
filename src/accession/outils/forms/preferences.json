@@ -1,0 +1,83 @@
+{
+    "name": "preferences",
+    "$type": "block",
+    "datasets": {
+        "main": {
+            "name": "main",
+            "$type": "sync",
+            "$params": {
+                "$entity": "PreferencesManagement",
+                "$data": {
+                    "classe": "$context.classe"
+                }
+            }
+        }
+    },
+    "$items": [
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$type": "block",
+                    "$items": [
+                        {
+                            "$bind": "preferences",
+                            "$widget": "array-actions",
+                            "options": {
+                                "options": {
+                                    "icon": "bars",
+                                    "titleIsHidden": false
+                                },
+                                "right": false,
+                                "links": [
+                                    {
+                                        "name": "removePreference",
+                                        "options": {
+                                            "disableOnNoSelect": true
+                                        },
+                                        "important": true
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "$type": "block",
+                    "$items": [
+                        {
+                            "$bind": "preferences",
+                            "$widget": "basicgrid",
+                            "options": {
+                                "autofocus": true,
+                                "allowColumnMove": false,
+                                "allowColumnResize": false,
+                                "align": "middle",
+                                "border": true,
+                                "striped": true,
+                                "selecting": {
+                                    "row": true,
+                                    "cell": true
+                                },
+                                "headerIsHidden": false,
+                                "editing": "true",
+                                "columns": [
+                                    {
+                                        "$bind": "libelle"
+                                    },
+                                    {
+                                        "$bind": "prive",
+                                        "options": {
+                                            "editing": true
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "form": true
+}

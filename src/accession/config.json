@@ -1,0 +1,21 @@
+{
+    "application": {
+        "title": "Salvia Accession"
+    },
+    "plugins_before": {
+        "debug": {
+            "scripts": [
+                "<%= bowerPath %>/highcharts/highstock.js",
+                "<%= bowerPath %>/highcharts/modules/data.js"
+            ],
+            "styles": []
+        },
+        "dist": {
+            "scripts": [
+                "<%= bowerPath %>/highcharts/highstock.js",
+                "<%= bowerPath %>/highcharts/modules/data.js"
+            ],
+            "styles": []
+        }
+    }
+}

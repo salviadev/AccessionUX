@@ -1,0 +1,23 @@
+{
+	"proxy": {
+		"local": {
+			"src": "/AccessionRV/ViewModels/*",
+			"dst": "http://localhost:3000"
+		},
+		"profile": {
+			"src": "/AccessionRV/profile/*",
+			"dst": "http://localhost:3000"
+		},
+		"api": {
+			"src": "/AccessionRV/api/*",
+			"dst": "http://localhost:3000"
+		},
+		"lookup": {
+			"src": "/AccessionRV/lookup/*",
+			"dst": "http://localhost:3000"
+		}
+        
+	},
+	
+	"simulateBus": false
+}

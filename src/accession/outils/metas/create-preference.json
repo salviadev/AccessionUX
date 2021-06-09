@@ -1,0 +1,95 @@
+{
+    "type": "object",
+    "primaryKey": [
+        "id"
+    ],
+    "properties": {
+        "id": {
+            "title": "Id",
+            "type": "integer"
+        },
+        "libelle": {
+            "title": "Modèle",
+            "type": "string"
+        },
+        "modeCreate": {
+            "title": "Créer un nouveau modèle",
+            "type": "boolean"
+        },
+        "codeModel": {
+            "title": "Modèle",
+            "type": "string"
+        },
+        "classe": {
+            "type": "string"
+        },
+        "prive": {
+            "title": "Visibilité",
+            "type": "boolean",
+            "enum": [
+                true,
+                false
+            ],
+            "enumNames": [
+                "Pour moi",
+                "Pour tous les utilisateurs"
+            ]
+        },
+        "valeur": {
+            "type": "string",
+            "format": "memo"
+        },
+        "models": {
+            "type": "array",
+            "autoSelect": false,
+            "title": "Modeles",
+            "items": {
+                "$ref": "#/definitions/modelDef"
+            }
+        }
+    },
+    "states": {
+        "libelle": {
+            "isMandatory": true
+        }
+    },
+    "links": {
+        "saveModel": {
+            "after": "afterSaveModel",
+            "forceAfterOnErrors": true
+        }
+    },
+    "lookups": {
+        "model": {
+            "data": {
+                "$type": "relation",
+                "$params": {
+                    "relation": "models"
+                }
+            },
+            "mapping": {
+                "code": "code",
+                "libelle": "libelle"
+            }
+        }
+    },
+    "definitions": {
+        "modelDef": {
+            "type": "object",
+            "primaryKey": [
+                "code"
+            ],
+            "properties": {
+                "code": {
+                    "title": "Code",
+                    "format": "code",
+                    "type": "string"
+                },
+                "libelle": {
+                    "title": "Libellé",
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

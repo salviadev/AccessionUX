@@ -1,0 +1,15 @@
+{
+    "rest": {
+        "base": "/{$module}",
+        "$module": "AccessionRV"
+    },
+    "sync": {
+        "base": "/{$module}/ViewModels",
+        "$module": "AccessionRV"
+    },
+	"find": {
+        "base": "/{$module}/lookup/dataset",
+        "$module": "AccessionRV"
+    },
+    "support": "Marketing@salviadeveloppement.com"
+}

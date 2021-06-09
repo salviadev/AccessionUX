@@ -1,0 +1,20 @@
+{
+    "name": "language",
+    "$menus": {
+        "left": "detail"
+    },
+    "$items": [
+        {
+            "$config": {
+                "$titleIsHidden": true,
+                "form": {
+                    "name": "outils/forms/language",
+                    "meta": "outils/metas/language",
+                    "controller": "language.controller"
+                },
+                "$type": "form"
+            }
+        }
+    ],
+    "$type": "block"
+}

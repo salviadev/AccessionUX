@@ -1,0 +1,233 @@
+{
+    "name": "parametrage-procedure-models",
+    "$type": "block",
+    "datasets": {
+        "maindata": {
+            "name": "maindata",
+            "$type": "sync",
+            "$params": {
+                "$replaceSearch": [
+                    "destination",
+                    "backToSpo"
+                ],
+                "$persistent": true,
+                "$entity": "ParametrageEditionModelsProcedure",
+                "$data": {
+                    "codeProced": "$url.procedure",
+                    "codeAction": "$url.action",
+                    "typesModelSupported": "$url.typesModelSupported"
+                }
+            }
+        }
+    },
+    "$items": [
+        {
+            "$type": "block",
+            "$items": [
+                {
+                    "$type": "block",
+                    "$title": {
+                        "value": "Procédure",
+                        "$style": "$spo-h2",
+                        "size": 4
+                    },
+                    "$items": [
+                        {
+                            "$type": "row",
+                            "$items": [
+                                {
+                                    "$items": [
+                                        {
+                                            "$bind": "procedure.libelle",
+                                            "options": {
+                                                "columns": true
+                                            }
+                                        },
+                                        {
+                                            "$bind": "action.libelle",
+                                            "options": {
+                                                "columns": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "$items": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "$type": "block",
+                    "$inline": true,
+                    "$title": {
+                        "value": "Action et acteurs associés",
+                        "$style": "$spo-h2",
+                        "size": 4
+                    },
+                    "$items": [
+                        {
+                            "$type": "row",
+                            "$items": [
+                                {
+                                    "$items": [
+                                        {
+                                            "$bind": "codeExpe",
+                                            "options": {
+                                                "columns": true
+                                            }
+                                        },
+                                        {
+                                            "$bind": "codeDest",
+                                            "options": {
+                                                "columns": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "$items": []
+                                }
+                            ]
+                        },
+                        {
+                            "$type": "row",
+                            "$items": [
+                                {
+                                    "$items": [
+                                        {
+                                            "$bind": "codeSign1",
+                                            "options": {
+                                                "columns": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "$items": [
+                                        {
+                                            "$bind": "codeSign2",
+                                            "options": {
+                                                "columns": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "$type": "block",
+                    "$title": {
+                        "value": "Choix de modèle",
+                        "size": 4,
+                        "$style": "$spo-h2"
+                    },
+                    "$items": [
+                        {
+                            "$type": "block",
+                            "$items": [
+                                {
+                                    "$bind": "modelsList",
+                                    "$widget": "array-actions",
+                                    "options": {
+                                        "gridName": "grid-models",
+                                        "options": {
+                                            "icon": "bars",
+                                            "titleIsHidden": false
+                                        },
+                                        "links": [
+                                            {
+                                                "name": "new",
+                                                "important": true
+                                            },
+                                            {
+                                                "name": "$remove",
+                                                "important": true
+                                            },
+                                            {
+                                                "name": "update",
+                                                "options": {
+                                                    "icon": "pencil"
+                                                },
+                                                "important": true
+                                            },
+                                            {
+                                                "name": "download",
+                                                "options": {
+                                                    "type": "link",
+                                                    "titleIsHidden": true,
+                                                    "icon": "cloud-download"
+                                                },
+                                                "important": true
+                                            }
+                                        ]
+                                    }
+                                }
+                            ],
+                            "$inline": true
+                        },
+                        {
+                            "$type": "block",
+                            "$items": [
+                                {
+                                    "$bind": "modelsList",
+                                    "$name": "grid-models",
+                                    "options": {
+                                        "striped": false,
+                                        "align": "middle",
+                                        "border": true,
+                                        "selecting": {
+                                            "row": true,
+                                            "cell": true
+                                        },
+                                        "columns": [
+                                            {
+                                                "$bind": "libelle",
+                                                "options": {
+                                                    "width": "100%"
+                                                }
+                                            },
+                                            {
+                                                "$bind": "defaultModel"
+                                            },
+                                            {
+                                                "$bind": "typeDoc",
+                                                "options": {
+                                                    "width": "4em"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "$type": "block",
+                    "$style": "$white",
+                    "$inline": true,
+                    "$sticky": "bottom",
+                    "$items": [
+                        {
+                            "$bind": "$links.$save",
+                            "options": {
+                                "right": true
+                            }
+                        },
+                        {
+                            "$bind": "$links.cancel",
+                            "options": {
+                                "right": true
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "form": true
+}

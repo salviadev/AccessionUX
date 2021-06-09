@@ -1,0 +1,34 @@
+{
+	"name": "menu.json",
+	"$moduleTitle": "Types de pages",
+	"$groups": [
+		{
+			"$title": "Types de pages",
+			"$items": [
+				{
+					"$title": "Formulaires",
+					"$items": [
+						{
+							"$title": "Dossiers Clients",
+							"$link": {
+								"$page": "dossiersClients/listDossier"
+							}
+						},
+						{
+							"$title": "Exemples de champs",
+							"$link": {
+								"$page": "ergo/champs"
+							}
+						},
+						{
+							"$title": "Formulaires et listes",
+							"$link": {
+								"$page": "ergo/form"
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

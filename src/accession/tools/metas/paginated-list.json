@@ -1,0 +1,83 @@
+{
+    "type": "object",
+    "properties": {
+        "modelCode": {
+            "title": "Modèle",
+            "type": "string",
+            "noRights": true
+        },
+        "listPropName": {
+            "type": "string"
+        },
+        "modelTitle": {
+            "title": "Modèle",
+            "type": "string",
+            "noRights": true
+        },
+        "classePref": {
+            "type": "string",
+            "title": "Preference code"
+        },
+        "search": {
+            "type": "string",
+            "title": "Rechercher",
+            "ux": true,
+            "noRights": true
+        },
+        "models": {
+            "type": "array",
+            "autoSelect": false,
+            "title": "Modèles",
+            "items": {
+                "type": "object",
+                "primaryKey": [
+                    "code"
+                ],
+                "properties": {
+                    "code": {
+                        "title": "Code",
+                        "format": "code",
+                        "type": "string"
+                    },
+                    "libelle": {
+                        "title": "Libellé",
+                        "type": "string"
+                    }
+                }
+            },
+            "links": {
+                "saveModel": {
+                    "title": "Enregistrer comme modèle",
+                    "ux": true,
+                    "noRights": true
+                },
+                "manageModels": {
+                    "title": "Gérer les modèles",
+                    "ux": true,
+                    "noRights": true
+                }
+            }
+        }
+    },
+    "lookups": {
+        "model": {
+            "data": {
+                "$type": "relation",
+                "$params": {
+                    "relation": "models"
+                }
+            },
+            "mapping": {
+                "code": "code",
+                "libelle": "libelle"
+            }
+        }
+    },
+    "links": {
+        "search": {},
+        "clearSearch": {
+            "description": "Effacer la recherche"
+        },
+        "saveSelected": {}
+    }
+}

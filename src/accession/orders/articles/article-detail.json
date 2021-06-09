@@ -1,0 +1,20 @@
+{
+  "name": "article-detail",
+  "$menus": {
+    "left": "detail"
+  },
+  "$items": [
+    {
+      "$config": {
+        "$titleIsHidden": true,
+        "form": {
+          "name": "orders/articles/forms/article-detail",
+          "meta": "orders/articles/metas/article-detail",
+          "controller": "phoenix.empty.controller"
+        },
+        "$type": "form"
+      }
+    }
+  ],
+  "$type": "block"
+}

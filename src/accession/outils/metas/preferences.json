@@ -1,0 +1,71 @@
+{
+    "type": "object",
+    "primaryKey": [
+        "id"
+    ],
+    "properties": {
+        "id": {
+            "title": "Id",
+            "type": "integer"
+        },
+        "preferences": {
+            "type": "array",
+            "autoSelect": false,
+            "title": "Modeles",
+            "items": {
+                "$ref": "#/definitions/preferencelDef"
+            },
+            "links": {
+                "removePreference": {
+                    "confirm": true,
+                    "isRemove": true,
+                    "select": {
+                        "multiselect": true
+                    }
+                }
+            }
+        }
+    },
+    "states": {
+        "libelle": {
+            "isMandatory": true
+        }
+    },
+    "links": {
+        "savePreference": {
+            "after": "afterSavePreferences",
+            "forceAfterOnErrors": true
+        }
+    },
+    "definitions": {
+        "preferencelDef": {
+            "type": "object",
+            "primaryKey": [
+                "id"
+            ],
+            "properties": {
+                "id": {
+                    "title": "Id",
+                    "type": "integer"
+                },
+                "libelle": {
+                    "title": "Modèle",
+                    "format": "code",
+                    "type": "string"
+                },
+                "prive": {
+                    "title": "Visibilité",
+                    "type": "boolean",
+                    "enum": [
+                        true,
+                        false
+                    ],
+                    "enumNames": [
+                        "Pour moi",
+                        "Pour tous"
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "article-list",
+  "$type": "block",
+  "datasets": {
+    "main": {
+      "name": "main",
+      "$type": "sync",
+      "$params": {
+        "$entity": "Articles"
+      }
+    }
+  },
+  "$items": [
+    {
+      "$title": {
+        "value": "Articles",
+        "$style": "$spo-h2",
+        "size": 4
+      },
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "articles",
+          "$widget": "array-actions",
+          "options": {
+            "options": {
+              "icon": "bars",
+              "titleIsHidden": false
+            },
+            "right": false,
+            "links": [
+              {
+                "name": "add",
+                "important": true
+              },
+              {
+                "name": "remove",
+                "important": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "articles",
+          "$widget": "basicgrid",
+          "options": {
+            "autofocus": true,
+            "allowColumnMove": true,
+            "allowColumnResize": true,
+            "align": "middle",
+            "border": true,
+            "striped": true,
+            "selecting": {
+              "row": true,
+              "cell": false
+            },
+            "total": {
+              "property": "total"
+            },
+            "headerIsHidden": false,
+            "editing": false,
+            "columns": [
+              {
+                "$bind": "code"
+              },
+              {
+                "$bind": "libelle",
+                "options": {
+                  "actionName": "modify"
+                }
+              },
+              {
+                "$bind": "prix"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "$type": "block",
+      "$items": []
+    }
+  ],
+  "form": true
+}

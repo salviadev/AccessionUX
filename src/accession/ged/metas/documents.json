@@ -1,0 +1,319 @@
+{
+    "type": "object",
+    "title": "Documents joints",
+    "primaryKey": "id",
+    "properties": {
+        "id": {
+            "type": "integer",
+            "title": "Id"
+        },
+        "pieceFilter": {
+            "type": "string",
+            "title": "filtre de l'objet",
+            "noRights": true
+        },
+        "lookupInfo": {
+            "type": "string"
+        },
+        "pieceFilterLib": {
+            "type": "string",
+            "title": "Libellé",
+            "noRights": true
+        },
+        "FilterLib": {
+            "type": "string",
+            "title": "Libellé",
+            "noRights": true
+        },
+        "objetFilter": {
+            "type": "string",
+            "title": "Objet",
+            "enum": {
+                "arrayProperty": "enumListObjet",
+                "code": "code",
+                "title": "libelle"
+            },
+            "noRights": true
+        },
+        "operationFilter": {
+            "type": "string",
+            "format": "code",
+            "title": "Opération",
+            "noRights": true
+        },
+        "operationFilterLib": {
+            "type": "string",
+            "title": "Opération",
+            "noRights": true
+        },
+        "typeDocFilter": {
+            "type": "string",
+            "title": "filtre du type de document de l'objet",
+            "enum": [
+                "MODELE",
+                "DOCUMENT"
+            ],
+            "enumNames": [
+                "Document",
+                "Modèle"
+            ],
+            "noRights": true
+        },
+        "uploadDocUrl": {
+            "type": "string",
+            "title": "Lien d'upload d'un fichier"
+        },
+        "filterDocs": {
+            "type": "string",
+            "title": "Filtrer les documents",
+            "enum": [
+                "ALL",
+                "JOINT",
+                "EDITION"
+            ],
+            "enumNames": [
+                "Afficher tous",
+                "Afficher uniquement les documents joints",
+                "Afficher uniquement les éditions"
+            ],
+            "noRights": true
+        },
+        "documents": {
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/DocumentJointDef"
+            },
+            "links": {
+                "new": {
+                    "title": "Document",
+                    "isNew": true,
+                    "description": "pour ajouter un document, selectionner le théme et l'objet",
+                    "isDisabled": true,
+                    "ux": true
+                },
+                "update": {
+                    "title": "",
+                    "isAction": true,
+                    "ux": true,
+                    "select": {
+                        "multiselect": false
+                    }
+                },
+                "uploadDoc": {
+                    "title": ""
+                },
+                "modifyDoc": {
+                    "title": ""
+                },
+                "download": {
+                    "title": "Télécharger",
+                    "ux": true,
+                    "isAction": true,
+                    "select": {
+                        "multiselect": false
+                    }
+                },
+                "removeDoc": {
+                    "title": "",
+                    "confirm": {
+                        "message": "Confirmez-vous la suppression du document ?"
+                    },
+                    "isRemove": true,
+                    "select": {
+                        "multiselect": true
+                    }
+                }
+            }
+        },
+        "enumListObjet": {
+            "type": "array",
+            "autoSelect": false,
+            "title": "enumListDef",
+            "items": {
+                "$ref": "#/definitions/EnumListDef"
+            }
+        }
+    },
+    "links": {
+        "back": {
+            "ux": true,
+            "isCancel": true,
+            "title": "Retour",
+            "noRights": true
+        }
+    },
+    "definitions": {
+        "DocumentJointDef": {
+            "type": "object",
+            "primaryKey": "id",
+            "properties": {
+                "id": {
+                    "type": "integer",
+                    "title": "Id"
+                },
+                "codePiece": {
+                    "type": "string",
+                    "format": "code",
+                    "title": "Objet",
+                    "capabilities": ""
+                },
+                "libPiece": {
+                    "type": "string",
+                    "title": "Libellé de l'objet",
+                    "capabilities": ""
+                },
+                "objet": {
+                    "type": "string",
+                    "title": "Thème de l'objet",
+                    "enum": {
+                        "arrayProperty": "enumListObjet",
+                        "code": "code",
+                        "title": "libelle"
+                    },
+                    "capabilities": ""
+                },
+                "codeDoc": {
+                    "type": "string",
+                    "format": "code",
+                    "title": "Code du document"
+                },
+                "libDoc": {
+                    "type": "string",
+                    "title": "Nom du document"
+                },
+                "dtCreateDoc": {
+                    "type": "string",
+                    "format": "date-time",
+                    "title": "Date de création"
+                },
+                "dtModifDoc": {
+                    "type": "string",
+                    "format": "date-time",
+                    "title": "Date de modification"
+                },
+                "typeDoc": {
+                    "type": "string",
+                    "title": "Type de document"
+                },
+                "commentaireDoc": {
+                    "type": "string",
+                    "title": "Commentaire"
+                },
+                "expediteurDoc": {
+                    "type": "string",
+                    "title": "Expéditeur"
+                },
+                "destinataireDoc": {
+                    "type": "string",
+                    "title": "Destinataire"
+                },
+                "signatairesDoc": {
+                    "type": "string",
+                    "title": "Signataires"
+                },
+                "srcModeleDoc": {
+                    "type": "string",
+                    "title": "Modèle utilisé"
+                },
+                "refFichierDoc": {
+                    "type": "string",
+                    "title": "Reférence de fichier",
+                    "capabilities": ""
+                },
+                "extenionDoc": {
+                    "type": "string",
+                    "title": "Extension de fichier",
+                    "capabilities": ""
+                },
+                "linkFichierDoc": {
+                    "type": "string",
+                    "title": "Lien du fichier",
+                    "capabilities": ""
+                }
+            }
+        },
+        "EnumListDef": {
+            "primaryKey": "id",
+            "type": "object",
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "code": {
+                    "title": "Code",
+                    "type": "string",
+                    "format": "code"
+                },
+                "libelle": {
+                    "title": "Libellé",
+                    "type": "string"
+                }
+            }
+        }
+    },
+    "lookups": {
+        "enumListPiece": {
+            "data": {
+                "$type": "find",
+                "$params": {
+                    "$entity": "AllEntities"
+                }
+            },
+            "schema": {
+                "type": "object",
+                "properties": {
+                    "documents": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "primaryKey": "code",
+                            "properties": {}
+                        }
+                    }
+                }
+            },
+            "mapping": {
+                "pieceFilter": "code",
+                "pieceFilterLib": "libelle"
+            }
+        },
+        "enumListOperation": {
+            "data": {
+                "$type": "find",
+                "$params": {
+                    "$entity": "OPOperations",
+                    "$orderby": "code"
+                }
+            },
+            "schema": {
+                "type": "object",
+                "properties": {
+                    "documents": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "name": "OPOperations",
+                            "primaryKey": "code",
+                            "properties": {
+                                "code": {
+                                    "type": "string",
+                                    "title": "Code",
+                                    "capabilities": "searchable,sortable,filtrable"
+                                },
+                                "libelle": {
+                                    "title": "Libellé",
+                                    "type": "string",
+                                    "capabilities": "searchable,sortable,filtrable"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "mapping": {
+                "operationFilter": "code",
+                "operationFilterLib": "libelle"
+            }
+        }
+    }
+}

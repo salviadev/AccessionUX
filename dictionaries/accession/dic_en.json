@@ -1,0 +1,7581 @@
+{
+	"Lancer": {
+		"message": "Launch",
+		"translated": true
+	},
+	"Id.": {
+		"message": "Id.",
+		"translated": true
+	},
+	"Tick.": {
+		"message": "Tick.",
+		"translated": true
+	},
+	"Progress": {
+		"message": "Progress",
+		"translated": true
+	},
+	"message": {
+		"message": "Message",
+		"translated": true
+	},
+	"Log messages": {
+		"message": "Log messages",
+		"translated": true
+	},
+	"Listes des fonctions": {
+		"message": "Lists of functions",
+		"translated": true
+	},
+	"Recalculer l'affectation budgétaire ADV": {
+		"message": "Recalculating the ADV budget allocation",
+		"translated": true
+	},
+	"Reprise de DOM Tiers": {
+		"message": "Takeover of DOM Third",
+		"translated": true
+	},
+	"Reprise de Référentiel Tiers": {
+		"message": "Third-party repository takeover",
+		"translated": true
+	},
+	"Aides à la vente": {
+		"message": "Help for sale",
+		"translated": true
+	},
+	"Aide": {
+		"message": "Help",
+		"translated": true
+	},
+	"Supprimer": {
+		"message": "Remove",
+		"translated": true
+	},
+	"Code": {
+		"message": "Code",
+		"translated": true
+	},
+	"Libellé aide à la vente": {
+		"message": "Labeled sales aid",
+		"translated": true
+	},
+	"Actif": {
+		"message": "Active",
+		"translated": true
+	},
+	"Dossier": {
+		"message": "Folder",
+		"translated": true
+	},
+	"Lot": {
+		"message": "Lot",
+		"translated": true
+	},
+	"Type aide": {
+		"message": "Type helps",
+		"translated": true
+	},
+	"TVA": {
+		"message": "Vat",
+		"translated": true
+	},
+	"Montant TTC max": {
+		"message": "Amount TTC max",
+		"translated": true
+	},
+	"Montant HT max": {
+		"message": "Amount HT max",
+		"translated": true
+	},
+	"Aides à la vente (Tranche)": {
+		"message": "Help for sale (Slice)",
+		"translated": true
+	},
+	"Retour à la tranche commerciale": {
+		"message": "Back to the commercial tranche",
+		"translated": true
+	},
+	"Code tranche commerciale": {
+		"message": "Commercial slice code",
+		"translated": true
+	},
+	"Libellé tranche commerciale": {
+		"message": "Labeled commercial tranche",
+		"translated": true
+	},
+	"Libellé": {
+		"message": "Wording",
+		"translated": true
+	},
+	"Début validité": {
+		"message": "Start valid",
+		"translated": true
+	},
+	"Fin validité": {
+		"message": "End valid",
+		"translated": true
+	},
+	"Comptabiliser": {
+		"message": "Recognise",
+		"translated": true
+	},
+	"Comptabilisé": {
+		"message": "Recognised",
+		"translated": true
+	},
+	"Date réglement prevu": {
+		"message": "Date regulation provided",
+		"translated": true
+	},
+	"Date d'appel": {
+		"message": "Call date",
+		"translated": true
+	},
+	"Montant": {
+		"message": "Amount",
+		"translated": true
+	},
+	"Statut": {
+		"message": "Status",
+		"translated": true
+	},
+	"Appel fonds notaire": {
+		"message": "Call funds notary",
+		"translated": true
+	},
+	"Client": {
+		"message": "Client",
+		"translated": true
+	},
+	"Tiers": {
+		"message": "Third",
+		"translated": true
+	},
+	"Code dossier de vente": {
+		"message": "Sales folder code",
+		"translated": true
+	},
+	"Opération": {
+		"message": "Operation",
+		"translated": true
+	},
+	"Montant TTC": {
+		"message": "Amount TTC",
+		"translated": true
+	},
+	"Montant HT": {
+		"message": "Amount HT",
+		"translated": true
+	},
+	"Taux TVA": {
+		"message": "VAT rate",
+		"translated": true
+	},
+	"%": {
+		"message": "%",
+		"translated": true
+	},
+	"Type": {
+		"message": "Type",
+		"translated": true
+	},
+	"Tma": {
+		"message": "Tma",
+		"translated": true
+	},
+	"Echéance": {
+		"message": "Deadline",
+		"translated": true
+	},
+	"Rechercher": {
+		"message": "Search",
+		"translated": true
+	},
+	"TTC": {
+		"message": "Ttc",
+		"translated": true
+	},
+	"HT": {
+		"message": "Ht",
+		"translated": true
+	},
+	"Tranche commerciale": {
+		"message": "Commercial slice",
+		"translated": true
+	},
+	"Code opération": {
+		"message": "Operation code",
+		"translated": true
+	},
+	"Lien du document": {
+		"message": "Link to the document",
+		"translated": true
+	},
+	"Montant déjà appelé": {
+		"message": "Amount already called",
+		"translated": true
+	},
+	"Solde client": {
+		"message": "Customer balance",
+		"translated": true
+	},
+	"Montant exigible": {
+		"message": "Amount due",
+		"translated": true
+	},
+	"Montant appel TTC": {
+		"message": "Amount call TTC",
+		"translated": true
+	},
+	"Lancer les appels de fonds": {
+		"message": "Launching fundraising",
+		"translated": true
+	},
+	"Adresse client": {
+		"message": "Customer address",
+		"translated": true
+	},
+	"Numéro des lots": {
+		"message": "Lot number",
+		"translated": true
+	},
+	"Bâtiment": {
+		"message": "Building",
+		"translated": true
+	},
+	"Montant vente": {
+		"message": "Amount sale",
+		"translated": true
+	},
+	"Date Stade": {
+		"message": "Stadium Date",
+		"translated": true
+	},
+	"% cumulé exigible": {
+		"message": "% accumulated due",
+		"translated": true
+	},
+	"Date prévue règlement": {
+		"message": "Expected settlement date",
+		"translated": true
+	},
+	"Tranches": {
+		"message": "Slices",
+		"translated": true
+	},
+	"Id": {
+		"message": "Id",
+		"translated": true
+	},
+	"Test": {
+		"message": "Test",
+		"translated": true
+	},
+	"Refresh": {
+		"message": "Refresh",
+		"translated": true
+	},
+	"Afficher les dossiers désistés / résolus ": {
+		"message": "View disencased/resolved folders ",
+		"translated": true
+	},
+	"Montant TTC appelé": {
+		"message": "Amount TTC called",
+		"translated": true
+	},
+	"Montant HT appelé": {
+		"message": "Amount called HT",
+		"translated": true
+	},
+	"Publipostage": {
+		"message": "Mailing",
+		"translated": true
+	},
+	"Documents joints": {
+		"message": "Attached documents",
+		"translated": true
+	},
+	"Date vente": {
+		"message": "Date sale",
+		"translated": true
+	},
+	"Code appel": {
+		"message": "Call code",
+		"translated": true
+	},
+	"Date prévue de réglement": {
+		"message": "Expected settlement date",
+		"translated": true
+	},
+	"Commentaire": {
+		"message": "Comment",
+		"translated": true
+	},
+	"Date résolution": {
+		"message": "Date resolution",
+		"translated": true
+	},
+	"Passage des opérations « lancé » vers opérations « achevé»": {
+		"message": "Switching from \"launched\" to \"completed\" operations",
+		"translated": true
+	},
+	"Recherche": {
+		"message": "Research",
+		"translated": true
+	},
+	"Unité d'organisation": {
+		"message": "Organizational unit",
+		"translated": true
+	},
+	"Societé": {
+		"message": "Society",
+		"translated": true
+	},
+	"Avancement": {
+		"message": "Advancement",
+		"translated": true
+	},
+	"Nature de travaux": {
+		"message": "Nature of work",
+		"translated": true
+	},
+	"Lignes comptabilisées": {
+		"message": "Lines counted",
+		"translated": true
+	},
+	"Saisir une date d’achèvement comptable": {
+		"message": "Enter an accounting completion date",
+		"translated": true
+	},
+	"Ajouter nouvelle date achevement": {
+		"message": "Add new date complete",
+		"translated": true
+	},
+	"Supprimer une date d’achèvement comptable": {
+		"message": "Delete an accounting completion date",
+		"translated": true
+	},
+	"Comptabilisation (passé le statut à « achevé »)": {
+		"message": "Accounting (past status to \"completed\")",
+		"translated": true
+	},
+	"Annuler la comptabilisation (repassé le statut en lancé)": {
+		"message": "Cancel the accounting (re-launched status)",
+		"translated": true
+	},
+	"Réf. comptable": {
+		"message": "Accounting ref",
+		"translated": true
+	},
+	"Réf. externe": {
+		"message": "External ref",
+		"translated": true
+	},
+	"Société": {
+		"message": "Company",
+		"translated": true
+	},
+	"Code analytique opération": {
+		"message": "Analytic code operation",
+		"translated": true
+	},
+	"Tranche travaux": {
+		"message": "Work slice",
+		"translated": true
+	},
+	"Code analytique tranche travaux": {
+		"message": "Analytical Code slices work",
+		"translated": true
+	},
+	"Avancement travaux": {
+		"message": "Progress works",
+		"translated": true
+	},
+	"Numéro": {
+		"message": "Number",
+		"translated": true
+	},
+	"Date": {
+		"message": "Date",
+		"translated": true
+	},
+	"Date achevement comptable": {
+		"message": "Accounting closing date",
+		"translated": true
+	},
+	"Budget": {
+		"message": "Budget",
+		"translated": true
+	},
+	"Dépenses total HT": {
+		"message": "Total HT expenses",
+		"translated": true
+	},
+	"Stockable HT": {
+		"message": "Stockable HT",
+		"translated": true
+	},
+	"Non stockable HT": {
+		"message": "Non-stockable HT",
+		"translated": true
+	},
+	"Hors FNP HT": {
+		"message": "Excluding FNP HT",
+		"translated": true
+	},
+	"Montant stockable": {
+		"message": "Amount stockable",
+		"translated": true
+	},
+	"Montant non stockable": {
+		"message": "Amount not stowed",
+		"translated": true
+	},
+	"Total HT": {
+		"message": "Total HT",
+		"translated": true
+	},
+	"FNP stockable": {
+		"message": "Stockable NPF",
+		"translated": true
+	},
+	"FNP non stockable": {
+		"message": "Non-stockable NPF",
+		"translated": true
+	},
+	"% Stocké": {
+		"message": "% Stored",
+		"translated": true
+	},
+	"% Vendu": {
+		"message": "% Sold",
+		"translated": true
+	},
+	"% Livré": {
+		"message": "% Delivered",
+		"translated": true
+	},
+	"PR lots achevés": {
+		"message": "PR lots completed",
+		"translated": true
+	},
+	"PR lots livrés": {
+		"message": "PR lots delivered",
+		"translated": true
+	},
+	"CA livrés": {
+		"message": "CA delivered",
+		"translated": true
+	},
+	"Date comptabilisation": {
+		"message": "Accounting date",
+		"translated": true
+	},
+	"Date traitement": {
+		"message": "Date treatment",
+		"translated": true
+	},
+	"Comptabilisées": {
+		"message": "Accounted for",
+		"translated": true
+	},
+	"Code Fnp": {
+		"message": "Code Fnp",
+		"translated": true
+	},
+	"Saisie de la date d'achevement comptable": {
+		"message": "Entering the accounting date",
+		"translated": true
+	},
+	"Save": {
+		"message": "Save",
+		"translated": true
+	},
+	"N°": {
+		"message": "No",
+		"translated": true
+	},
+	"Version": {
+		"message": "Version",
+		"translated": true
+	},
+	"Champs paramètrables": {
+		"message": "Set-up fields",
+		"translated": true
+	},
+	"Choisir l'entité": {
+		"message": "Choosing the entity",
+		"translated": true
+	},
+	"Recherche par propriété ou libelle": {
+		"message": "Search by property or libel",
+		"translated": true
+	},
+	"Entité": {
+		"message": "Entity",
+		"translated": true
+	},
+	"Catégorie": {
+		"message": "Category",
+		"translated": true
+	},
+	"Propriété": {
+		"message": "Property",
+		"translated": true
+	},
+	"Obligatoire": {
+		"message": "Mandatory",
+		"translated": true
+	},
+	"Sélectionner": {
+		"message": "Select",
+		"translated": true
+	},
+	"Annuler": {
+		"message": "Cancel",
+		"translated": true
+	},
+	"Unités d'organisation": {
+		"message": "Organizational units",
+		"translated": true
+	},
+	"Page d'accueil": {
+		"message": "Homepage",
+		"translated": true
+	},
+	"Titre catégorie": {
+		"message": "Title category",
+		"translated": true
+	},
+	"Codification": {
+		"message": "Consolidation",
+		"translated": true
+	},
+	"Insertion": {
+		"message": "Insertion",
+		"translated": true
+	},
+	"Ordre": {
+		"message": "Order",
+		"translated": true
+	},
+	"RVL Opération": {
+		"message": "RVL Operation",
+		"translated": true
+	},
+	"Catégories": {
+		"message": "Categories",
+		"translated": true
+	},
+	"Hypothèses": {
+		"message": "Assumptions",
+		"translated": true
+	},
+	"Actualisation du prévisionnel": {
+		"message": "Forecast update",
+		"translated": true
+	},
+	"Actualisation du prévisionnel de commercialisation": {
+		"message": "Updated marketing forecast",
+		"translated": true
+	},
+	"Actualiser": {
+		"message": "Update",
+		"translated": true
+	},
+	"Mois": {
+		"message": "Month",
+		"translated": true
+	},
+	"Trimestre": {
+		"message": "Quarter",
+		"translated": true
+	},
+	"Année": {
+		"message": "Year",
+		"translated": true
+	},
+	"Période fin": {
+		"message": "End period",
+		"translated": true
+	},
+	"Lignes": {
+		"message": "Lines",
+		"translated": true
+	},
+	"RVL Ligne": {
+		"message": "RVL Line",
+		"translated": true
+	},
+	"Type cellule": {
+		"message": "Cell type",
+		"translated": true
+	},
+	"Value": {
+		"message": "Value",
+		"translated": true
+	},
+	"Détail cellule RVL": {
+		"message": "Detail cell RVL",
+		"translated": true
+	},
+	"Mouvement": {
+		"message": "Movement",
+		"translated": true
+	},
+	"N° du lot principal": {
+		"message": "Number of the main lot",
+		"translated": true
+	},
+	"Nombre de lots": {
+		"message": "Number of lots",
+		"translated": true
+	},
+	"Prix HT": {
+		"message": "Price HT",
+		"translated": true
+	},
+	"Prix TTC": {
+		"message": "TTC Price",
+		"translated": true
+	},
+	"Surface": {
+		"message": "Surface",
+		"translated": true
+	},
+	"Date réservation": {
+		"message": "Booking date",
+		"translated": true
+	},
+	"Date livraison": {
+		"message": "Delivery date",
+		"translated": true
+	},
+	"Réservé": {
+		"message": "Booked",
+		"translated": true
+	},
+	"Vendu": {
+		"message": "Sold",
+		"translated": true
+	},
+	"Livré": {
+		"message": "Delivered",
+		"translated": true
+	},
+	"Sélectionner TTC": {
+		"message": "Select TTC",
+		"translated": true
+	},
+	"Sélectionner HT": {
+		"message": "Select HT",
+		"translated": true
+	},
+	"Désélectionner TTC": {
+		"message": "Deselect TTC",
+		"translated": true
+	},
+	"Désélectionner HT": {
+		"message": "Deselect HT",
+		"translated": true
+	},
+	"Sel.": {
+		"message": "Salt.",
+		"translated": true
+	},
+	"Comment souhaitez-vous actualiser le prévisionnel de commercialisation ?": {
+		"message": "How do you want to update the marketing forecast?",
+		"translated": true
+	},
+	"Décaler le prévisionnel de commercialisation à actualiser sur le mois courant + (n) mois": {
+		"message": "Shift the marketing forecast to be updated on the current month - (n) month",
+		"translated": true
+	},
+	"Décaler automatiquement l'ensemble du prévisionnel de commercialisation à partir du mois courant": {
+		"message": "Automatically shift the entire marketing forecast from the current month",
+		"translated": true
+	},
+	"Nombre des mois à décaler": {
+		"message": "Number of months to shift",
+		"translated": true
+	},
+	"Source": {
+		"message": "Source",
+		"translated": true
+	},
+	"Paramétrage Commercialisation": {
+		"message": "Marketing setting",
+		"translated": true
+	},
+	"Appliquer": {
+		"message": "Apply",
+		"translated": true
+	},
+	"Sélectionnez la Tranche Commerciale": {
+		"message": "Select the Commercial Slice",
+		"translated": true
+	},
+	"Date 1ère réservation": {
+		"message": "Date 1st booking",
+		"translated": true
+	},
+	"Date 1ère vente": {
+		"message": "Date 1st sale",
+		"translated": true
+	},
+	"Date OS": {
+		"message": "Date OS",
+		"translated": true
+	},
+	"Date de livraison": {
+		"message": "Delivery date",
+		"translated": true
+	},
+	"Durée des travaux (mois)": {
+		"message": "Duration of work (months)",
+		"translated": true
+	},
+	"Delai entre réservation et vente (mois)": {
+		"message": "Delai between booking and sale (month)",
+		"translated": true
+	},
+	"Delai encaissement appel de fonds (jours)": {
+		"message": "Delai cashout cash appeal (days)",
+		"translated": true
+	},
+	"Unité de commercialisation": {
+		"message": "Marketing unit",
+		"translated": true
+	},
+	"Nombre de lots principaux de la tranche commerciale, ou nombre de lots secondaires si la tranche ne contient que des lots secondaires": {
+		"message": "Number of main lots in the commercial bracket, or number of secondary lots if the portion contains only secondary lots",
+		"translated": true
+	},
+	"Saisie du prévisionnel": {
+		"message": "Entering the forecast",
+		"translated": true
+	},
+	"le prévisionnel de commercialisation du stock est saisi sur la base du nombre de lots principaux": {
+		"message": "the stock's marketing forecast is entered on the basis of the number of main lots",
+		"translated": true
+	},
+	"Nombre de lots moyens": {
+		"message": "Average number of lots",
+		"translated": true
+	},
+	"Stock restant à commercialiser": {
+		"message": "Stock still to market",
+		"translated": true
+	},
+	"Nbre de mois depuis 1ère réservation": {
+		"message": "Month's number since 1st booking",
+		"translated": true
+	},
+	"Durée restante de commercialisation": {
+		"message": "Remaining marketing time",
+		"translated": true
+	},
+	"Durée totale de commercialisation": {
+		"message": "Total marketing time",
+		"translated": true
+	},
+	"Rythme moyen sur RVL": {
+		"message": "Average rhythm on RVL",
+		"translated": true
+	},
+	"Rythme moyen planifié": {
+		"message": "Planned Average Rhythm",
+		"translated": true
+	},
+	"RVL": {
+		"message": "Rvl",
+		"translated": true
+	},
+	"Planifié": {
+		"message": "Planned",
+		"translated": true
+	},
+	"% commercialisation TC à l'OS": {
+		"message": "% TC marketing to OS",
+		"translated": true
+	},
+	"% commercialisation TT à l'OS": {
+		"message": "% TT marketing to OS",
+		"translated": true
+	},
+	"Reste à planifier": {
+		"message": "It remains to be planned",
+		"translated": true
+	},
+	"A Actualiser": {
+		"message": "Update",
+		"translated": true
+	},
+	"Saisie en masse modal": {
+		"message": "Modal mass entry",
+		"translated": true
+	},
+	"Nombre de mois": {
+		"message": "Number of months",
+		"translated": true
+	},
+	"Reporter la valeur jusqu'à épuisement du stock": {
+		"message": "Postpone value until stock runs out",
+		"translated": true
+	},
+	"Reporter la valeur sur les X prochaines mois": {
+		"message": "Post value over the next X months",
+		"translated": true
+	},
+	"Dossier client": {
+		"message": "Customer file",
+		"translated": true
+	},
+	"Grille de prix": {
+		"message": "Price grid",
+		"translated": true
+	},
+	"Acquereur": {
+		"message": "Acquereur",
+		"translated": true
+	},
+	"code": {
+		"message": "Code",
+		"translated": true
+	},
+	"Operations": {
+		"message": "Operations",
+		"translated": true
+	},
+	"Dossiers": {
+		"message": "Files",
+		"translated": true
+	},
+	"Acquereurs": {
+		"message": "Acquereurs",
+		"translated": true
+	},
+	"Date événement début": {
+		"message": "Date event start",
+		"translated": true
+	},
+	"Date événement fin": {
+		"message": "Date end event",
+		"translated": true
+	},
+	"Date comptable début": {
+		"message": "Accountant's date begins",
+		"translated": true
+	},
+	"Date comptable fin": {
+		"message": "End accounting date",
+		"translated": true
+	},
+	"Operation": {
+		"message": "Operation",
+		"translated": true
+	},
+	"numéro dossier": {
+		"message": "file number",
+		"translated": true
+	},
+	"Statut Dossier": {
+		"message": "Status File",
+		"translated": true
+	},
+	"Date événement": {
+		"message": "Event date",
+		"translated": true
+	},
+	"Date comptable": {
+		"message": "Accounting date",
+		"translated": true
+	},
+	"Appelé TTC": {
+		"message": "Called TTC",
+		"translated": true
+	},
+	"Encaissé TTC": {
+		"message": "Cashed TTC",
+		"translated": true
+	},
+	"Solde à régler TTC": {
+		"message": "Balance to be paid TTC",
+		"translated": true
+	},
+	"Evénement": {
+		"message": "Event",
+		"translated": true
+	},
+	"numero": {
+		"message": "Number",
+		"translated": true
+	},
+	"Inclus acte": {
+		"message": "Included act",
+		"translated": true
+	},
+	"Solde TTC": {
+		"message": "TTC balance",
+		"translated": true
+	},
+	"tmasVisibility": {
+		"message": "tmasVisibility",
+		"translated": true
+	},
+	"Numéro dossier": {
+		"message": "File number",
+		"translated": true
+	},
+	"Numero": {
+		"message": "Number",
+		"translated": true
+	},
+	"Nature": {
+		"message": "Nature",
+		"translated": true
+	},
+	"Total client TTC": {
+		"message": "Total TTC customer",
+		"translated": true
+	},
+	"Montant à appeler TTC": {
+		"message": "Amount to call TTC",
+		"translated": true
+	},
+	"Montant appelé TTC": {
+		"message": "Amount called TTC",
+		"translated": true
+	},
+	"Montant encaissé TTC": {
+		"message": "Amount cashed in TTC",
+		"translated": true
+	},
+	"Solde dossier client TTC": {
+		"message": "TTC customer file balance",
+		"translated": true
+	},
+	"En stock": {
+		"message": "In stock",
+		"translated": true
+	},
+	"Option": {
+		"message": "Option",
+		"translated": true
+	},
+	"Préréservé": {
+		"message": "Prebooked",
+		"translated": true
+	},
+	"Désisté": {
+		"message": "Disstressed",
+		"translated": true
+	},
+	"Conditions suspensives": {
+		"message": "Suspensive conditions",
+		"translated": true
+	},
+	"Condition Suspensive": {
+		"message": "Condition Suspensive",
+		"translated": true
+	},
+	"Filter": {
+		"message": "Filter",
+		"translated": true
+	},
+	"Ouvrir dossier": {
+		"message": "Open folder",
+		"translated": true
+	},
+	"Annuler la Livraison": {
+		"message": "Cancel Delivery",
+		"translated": true
+	},
+	"Annuler la Vente": {
+		"message": "Cancel Sale",
+		"translated": true
+	},
+	"Recherche par client": {
+		"message": "Search by customer",
+		"translated": true
+	},
+	"Afficher les dossiers désistés / résolus": {
+		"message": "View disencased/resolved folders",
+		"translated": true
+	},
+	"N° dossier": {
+		"message": "No. folder",
+		"translated": true
+	},
+	"PSLA": {
+		"message": "PSLA",
+		"translated": true
+	},
+	"N° lot": {
+		"message": "Lot No.",
+		"translated": true
+	},
+	"Date pose option": {
+		"message": "Date pose option",
+		"translated": true
+	},
+	"Date pré-réservation": {
+		"message": "Pre-booking date",
+		"translated": true
+	},
+	"Réalisée": {
+		"message": "Carried out",
+		"translated": true
+	},
+	"Date statut": {
+		"message": "Status date",
+		"translated": true
+	},
+	"Date convocation notaire": {
+		"message": "Date summons notary",
+		"translated": true
+	},
+	"Date désistement": {
+		"message": "Date withdrawal",
+		"translated": true
+	},
+	"Pages": {
+		"message": "Pages",
+		"translated": true
+	},
+	"Rôles": {
+		"message": "Roles",
+		"translated": true
+	},
+	"Groupes": {
+		"message": "Groups",
+		"translated": true
+	},
+	"Utilisateurs": {
+		"message": "Users",
+		"translated": true
+	},
+	"Retour": {
+		"message": "Back",
+		"translated": true
+	},
+	"Admin": {
+		"message": "Admin",
+		"translated": true
+	},
+	"Niveaux organisationnels": {
+		"message": "Organizational levels",
+		"translated": true
+	},
+	"Code Rôle": {
+		"message": "Role Code",
+		"translated": true
+	},
+	"Rôle(s) fonctionnel(s)": {
+		"message": "Functional role",
+		"translated": true
+	},
+	"Filtrer": {
+		"message": "Filter",
+		"translated": true
+	},
+	"Groupe": {
+		"message": "Group",
+		"translated": true
+	},
+	"Ouvrir un groupe": {
+		"message": "Open a group",
+		"translated": true
+	},
+	"Ajouter": {
+		"message": "Add",
+		"translated": true
+	},
+	"Fonction": {
+		"message": "Function",
+		"translated": true
+	},
+	"Modifier": {
+		"message": "Change",
+		"translated": true
+	},
+	"Dupliquer": {
+		"message": "Duplicate",
+		"translated": true
+	},
+	"Rôle": {
+		"message": "Role",
+		"translated": true
+	},
+	"Ouvrir role": {
+		"message": "Open role",
+		"translated": true
+	},
+	"Choisir le module": {
+		"message": "Choose the module",
+		"translated": true
+	},
+	"Module": {
+		"message": "Module\\r",
+		"translated": true
+	},
+	"Action": {
+		"message": "Action",
+		"translated": true
+	},
+	"Lecture": {
+		"message": "Reading",
+		"translated": true
+	},
+	"Gestion": {
+		"message": "Management",
+		"translated": true
+	},
+	"Niveau d'accès": {
+		"message": "Level of access",
+		"translated": true
+	},
+	"Login": {
+		"message": "Login",
+		"translated": true
+	},
+	"Nom": {
+		"message": "Name",
+		"translated": true
+	},
+	"Prénom": {
+		"message": "Name",
+		"translated": true
+	},
+	"Date d'activation": {
+		"message": "Activation date",
+		"translated": true
+	},
+	"Date d'expiration": {
+		"message": "Expiration date",
+		"translated": true
+	},
+	"Téléphone": {
+		"message": "Phone",
+		"translated": true
+	},
+	"E-mail": {
+		"message": "Email",
+		"translated": true
+	},
+	"Id Poste Utilisateur": {
+		"message": "Id User Post",
+		"translated": true
+	},
+	"Groupe(s)": {
+		"message": "Groups",
+		"translated": true
+	},
+	"Code Groupe": {
+		"message": "Group Code",
+		"translated": true
+	},
+	"Utilisateur": {
+		"message": "User",
+		"translated": true
+	},
+	"Ouvrir utilisateur": {
+		"message": "Open user",
+		"translated": true
+	},
+	"Echéanciers types par nature travaux": {
+		"message": "Typical echelanciers by nature works",
+		"translated": true
+	},
+	"entité permettant l'accès aux échéanciers types par nature de travaux": {
+		"message": "entity allowing access to standard schedules by nature of work",
+		"translated": true
+	},
+	"id nature": {
+		"message": "nature id",
+		"translated": true
+	},
+	"Nature travaux": {
+		"message": "Nature works",
+		"translated": true
+	},
+	"Echéancier type": {
+		"message": "Typical timer",
+		"translated": true
+	},
+	"Par défaut": {
+		"message": "Default",
+		"translated": true
+	},
+	"Délai règlement par défaut": {
+		"message": "Default settlement time",
+		"translated": true
+	},
+	"Echéance type": {
+		"message": "Typical time",
+		"translated": true
+	},
+	"Evènement": {
+		"message": "Event",
+		"translated": true
+	},
+	"Délai en jours": {
+		"message": "Time in days",
+		"translated": true
+	},
+	"Libellé de l'écheance": {
+		"message": "Labeled the exhaust",
+		"translated": true
+	},
+	"% cumulé": {
+		"message": "% cumulative",
+		"translated": true
+	},
+	"Réf": {
+		"message": "Ref",
+		"translated": true
+	},
+	"Vente": {
+		"message": "Sale",
+		"translated": true
+	},
+	"Echéanciers types par tranche commerciale": {
+		"message": "Typical time-bounds per commercial tranche",
+		"translated": true
+	},
+	"id tranche": {
+		"message": "id slice",
+		"translated": true
+	},
+	"Date d'écheance": {
+		"message": "Deadline",
+		"translated": true
+	},
+	"Libelle": {
+		"message": "Libel",
+		"translated": true
+	},
+	"Code reglement": {
+		"message": "Regulation code",
+		"translated": true
+	},
+	"Banque": {
+		"message": "Bank",
+		"translated": true
+	},
+	"IBAN": {
+		"message": "Iban",
+		"translated": true
+	},
+	"Date de règlement": {
+		"message": "Settlement date",
+		"translated": true
+	},
+	"N° Règlement": {
+		"message": "Regulations",
+		"translated": true
+	},
+	"Mode de règlement": {
+		"message": "How to settle",
+		"translated": true
+	},
+	"Reste à encaisser": {
+		"message": "Remains to be cashed in",
+		"translated": true
+	},
+	"Date Facture": {
+		"message": "Bill Date",
+		"translated": true
+	},
+	"Compte": {
+		"message": "Account",
+		"translated": true
+	},
+	"Liste des encaissements": {
+		"message": "List of cash receipts",
+		"translated": true
+	},
+	"Encaisser": {
+		"message": "Cash",
+		"translated": true
+	},
+	"Id Facture": {
+		"message": "Id Bill",
+		"translated": true
+	},
+	"Date facture": {
+		"message": "Bill date",
+		"translated": true
+	},
+	"Code Opération": {
+		"message": "Operation Code",
+		"translated": true
+	},
+	"N° Facture": {
+		"message": "No. Bill",
+		"translated": true
+	},
+	"Tiers Id": {
+		"message": "Third Id",
+		"translated": true
+	},
+	"Montant déjà encaissé": {
+		"message": "Amount already cashed",
+		"translated": true
+	},
+	"Montant déjà encaissé HT": {
+		"message": "Amount already cashed HT",
+		"translated": true
+	},
+	"Montant facture": {
+		"message": "Amount invoice",
+		"translated": true
+	},
+	"Montant facture HT": {
+		"message": "Amount HT bill",
+		"translated": true
+	},
+	"Code Encaissement": {
+		"message": "Cashing Code",
+		"translated": true
+	},
+	"Date règlement.": {
+		"message": "Settlement date.",
+		"translated": true
+	},
+	"Tiers.": {
+		"message": "Third.",
+		"translated": true
+	},
+	"Id Tiers.": {
+		"message": "Id Third.",
+		"translated": true
+	},
+	"Référence règlement.": {
+		"message": "Reference regulation.",
+		"translated": true
+	},
+	"Date réglement": {
+		"message": "Settlement date",
+		"translated": true
+	},
+	"Montant de l'encaissement": {
+		"message": "Amount of cash",
+		"translated": true
+	},
+	"Montant total de l'encaissement": {
+		"message": "Total cash flow",
+		"translated": true
+	},
+	"Versement notarié": {
+		"message": "Notarized payment",
+		"translated": true
+	},
+	"Frais de notaire pris en charge": {
+		"message": "Notary fees paid",
+		"translated": true
+	},
+	"Reste à ventiler": {
+		"message": "Remains to ventilate",
+		"translated": true
+	},
+	"Code échéance": {
+		"message": "Deadline code",
+		"translated": true
+	},
+	"TMA": {
+		"message": "Tma",
+		"translated": true
+	},
+	"Lancé non encaissé": {
+		"message": "Launched not cashed",
+		"translated": true
+	},
+	"Date appel de fonds": {
+		"message": "Fundraising date",
+		"translated": true
+	},
+	"Valider la modale": {
+		"message": "Validate the modal",
+		"translated": true
+	},
+	"Montant de l'appel de fonds": {
+		"message": "Amount of the call for funds",
+		"translated": true
+	},
+	"Code dossier": {
+		"message": "File code",
+		"translated": true
+	},
+	"Montant encaissé": {
+		"message": "Amount cashed in",
+		"translated": true
+	},
+	"Encaissemts": {
+		"message": "Cash",
+		"translated": true
+	},
+	"Montant déjà appelé non encaissé": {
+		"message": "Amount already called uncashed",
+		"translated": true
+	},
+	"Montant du dossier de vente": {
+		"message": "Amount of sale file",
+		"translated": true
+	},
+	"Montant du dossier de vente par tiers": {
+		"message": "Amount of sales file per third party",
+		"translated": true
+	},
+	"Ref": {
+		"message": "Ref",
+		"translated": true
+	},
+	"Fiche lot": {
+		"message": "Lot sheet",
+		"translated": true
+	},
+	"Grille de Prix": {
+		"message": "Price Grid",
+		"translated": true
+	},
+	"Lots Liés": {
+		"message": "Linked Lots",
+		"translated": true
+	},
+	"Tranche": {
+		"message": "Slice",
+		"translated": true
+	},
+	"Principal / Secondaire": {
+		"message": "Principal / Secondary",
+		"translated": true
+	},
+	"Principal": {
+		"message": "Main",
+		"translated": true
+	},
+	"Secondaire": {
+		"message": "Secondary",
+		"translated": true
+	},
+	"Dation": {
+		"message": "Giving",
+		"translated": true
+	},
+	"Spécificité du lot": {
+		"message": "Lot specificity",
+		"translated": true
+	},
+	"Tantièmes": {
+		"message": "Aunites",
+		"translated": true
+	},
+	"N° copropriété": {
+		"message": "Co-ownership No.",
+		"translated": true
+	},
+	"Prix Stock TTC": {
+		"message": "Stock TTC Price",
+		"translated": true
+	},
+	"Prix Stock HT": {
+		"message": "Price Stock HT",
+		"translated": true
+	},
+	"Prix Commercial TTC": {
+		"message": "Commercial TTC Award",
+		"translated": true
+	},
+	"Prix Commercial HT": {
+		"message": "Commercial Price HT",
+		"translated": true
+	},
+	"Prix de Lancement TTC": {
+		"message": "TTC Launch Price",
+		"translated": true
+	},
+	"Prix de Lancement HT": {
+		"message": "Launch Price HT",
+		"translated": true
+	},
+	"Prix Budget TTC": {
+		"message": "Budget TTC Award",
+		"translated": true
+	},
+	"Prix Budget HT": {
+		"message": "Budget Price HT",
+		"translated": true
+	},
+	"Loyer Mensuel TTC / m²": {
+		"message": "Monthly rent TTC / m2",
+		"translated": true
+	},
+	"Loyer Mensuel HT / m²": {
+		"message": "Monthly rent HT / m2",
+		"translated": true
+	},
+	"Loyer Annuel TTC / m²": {
+		"message": "Annual rent TTC / m2",
+		"translated": true
+	},
+	"Loyer Annuel HT / m²": {
+		"message": "Annual rent HT / m2",
+		"translated": true
+	},
+	"TVA sur Marge": {
+		"message": "TVA on Margin",
+		"translated": true
+	},
+	"Taux de TVA": {
+		"message": "VAT rate",
+		"translated": true
+	},
+	"Bât": {
+		"message": "Pack",
+		"translated": true
+	},
+	"Etage": {
+		"message": "Floor",
+		"translated": true
+	},
+	"Escalier": {
+		"message": "Stairs",
+		"translated": true
+	},
+	"Adresse": {
+		"message": "Address",
+		"translated": true
+	},
+	"Code Postal": {
+		"message": "Zip code",
+		"translated": true
+	},
+	"Ville": {
+		"message": "City",
+		"translated": true
+	},
+	"Pays": {
+		"message": "Country",
+		"translated": true
+	},
+	"DAACT": {
+		"message": "DAACT",
+		"translated": true
+	},
+	"Date d'achèvement": {
+		"message": "Completion date",
+		"translated": true
+	},
+	"Date de mise en exploitation": {
+		"message": "Start-up date",
+		"translated": true
+	},
+	"Date de réception": {
+		"message": "Reception date",
+		"translated": true
+	},
+	"Exposition principale": {
+		"message": "Main exhibition",
+		"translated": true
+	},
+	"Exposition Secondaire": {
+		"message": "Secondary exhibition",
+		"translated": true
+	},
+	"Adresse tranche": {
+		"message": "Slice address",
+		"translated": true
+	},
+	"Reprendre l'adresse de la tranche": {
+		"message": "Take back the address of the slice",
+		"translated": true
+	},
+	"Nombre de m²": {
+		"message": "Number of square metres",
+		"translated": true
+	},
+	"Flux de financement": {
+		"message": "Funding flows",
+		"translated": true
+	},
+	"Retour à la liste": {
+		"message": "Back to the list",
+		"translated": true
+	},
+	"Associé": {
+		"message": "Associated with",
+		"translated": true
+	},
+	"Intitulé de la banque": {
+		"message": "Entitled the bank",
+		"translated": true
+	},
+	"Date Réglement": {
+		"message": "Date Settlement",
+		"translated": true
+	},
+	"Flux prévisionnel": {
+		"message": "Forecast flows",
+		"translated": true
+	},
+	"Ventilation du montant": {
+		"message": "Breakdown of the amount",
+		"translated": true
+	},
+	"Fonds propres": {
+		"message": "Equity",
+		"translated": true
+	},
+	"Tranches travaux": {
+		"message": "Work slices",
+		"translated": true
+	},
+	"Code associé": {
+		"message": "Associated code",
+		"translated": true
+	},
+	"Code tiers": {
+		"message": "Third-party code",
+		"translated": true
+	},
+	"libellé": {
+		"message": "Wording",
+		"translated": true
+	},
+	"Clé de répartition": {
+		"message": "Distribution key",
+		"translated": true
+	},
+	"Liste des flux de financement": {
+		"message": "List of funding flows",
+		"translated": true
+	},
+	"Code societé": {
+		"message": "Code",
+		"translated": true
+	},
+	"Type Flux": {
+		"message": "Type Flux",
+		"translated": true
+	},
+	"Flux": {
+		"message": "Flow",
+		"translated": true
+	},
+	"Details": {
+		"message": "Details",
+		"translated": true
+	},
+	"Code banque": {
+		"message": "Bank code",
+		"translated": true
+	},
+	"Mode réglement": {
+		"message": "Regulation mode",
+		"translated": true
+	},
+	"Annnuler": {
+		"message": "Annnuler",
+		"translated": true
+	},
+	"Date début": {
+		"message": "Start date",
+		"translated": true
+	},
+	"Date de fin": {
+		"message": "End date",
+		"translated": true
+	},
+	"Taux de financement": {
+		"message": "Funding rate",
+		"translated": true
+	},
+	"Liste des frais financiers": {
+		"message": "List of financial expenses",
+		"translated": true
+	},
+	"Frais financiers": {
+		"message": "Financial expenses",
+		"translated": true
+	},
+	"Ref TC": {
+		"message": "Ref TC",
+		"translated": true
+	},
+	"Date fin": {
+		"message": "End date",
+		"translated": true
+	},
+	"Taux": {
+		"message": "Rate",
+		"translated": true
+	},
+	"Base calcul": {
+		"message": "Base calculation",
+		"translated": true
+	},
+	"Réf. pièce comptable": {
+		"message": "Ref. accounting document",
+		"translated": true
+	},
+	"FNP à la date d'achèvement comptable": {
+		"message": "NPF on accounting completion date",
+		"translated": true
+	},
+	"Périmètre societé": {
+		"message": "Company perimeter",
+		"translated": true
+	},
+	"Classeur (code)": {
+		"message": "Classiby (code)",
+		"translated": true
+	},
+	"Société mére": {
+		"message": "Mother company",
+		"translated": true
+	},
+	"Société fille": {
+		"message": "Girl company",
+		"translated": true
+	},
+	"Type de commerciallisation": {
+		"message": "Type of commercialization",
+		"translated": true
+	},
+	"Creation frais financieres": {
+		"message": "Creating financial expenses",
+		"translated": true
+	},
+	"Avancement commercial": {
+		"message": "Business advancement",
+		"translated": true
+	},
+	"Type de commercialisation": {
+		"message": "Marketing type",
+		"translated": true
+	},
+	"refTranche": {
+		"message": "refTranche",
+		"translated": true
+	},
+	"operation": {
+		"message": "Operation",
+		"translated": true
+	},
+	"codeTrancheTravaux": {
+		"message": "codeTrancheWorks",
+		"translated": true
+	},
+	"codeSociete": {
+		"message": "societe code",
+		"translated": true
+	},
+	"Dernier frais financier calculé": {
+		"message": "Last calculated financial expense",
+		"translated": true
+	},
+	"Frais financier": {
+		"message": "Financial expenses",
+		"translated": true
+	},
+	"Début": {
+		"message": "Beginning",
+		"translated": true
+	},
+	"Fin": {
+		"message": "End",
+		"translated": true
+	},
+	"Code frais financier": {
+		"message": "Financial expense code",
+		"translated": true
+	},
+	"Calcul frais financiers par tranche travaux": {
+		"message": "Calculating financial costs per installment of work",
+		"translated": true
+	},
+	"Sociétés": {
+		"message": "Companies",
+		"translated": true
+	},
+	"Opérations": {
+		"message": "Operations",
+		"translated": true
+	},
+	"Calcul frais financiers": {
+		"message": "Calculating financial expenses",
+		"translated": true
+	},
+	"Classeur societés": {
+		"message": "Company filing class",
+		"translated": true
+	},
+	"Périmètre": {
+		"message": "Perimeter",
+		"translated": true
+	},
+	"Liste des sociétes": {
+		"message": "List of companies",
+		"translated": true
+	},
+	"Lots sélectionnés": {
+		"message": "Selected lots",
+		"translated": true
+	},
+	"Grille de Prix de Vente": {
+		"message": "Sale Price Grid",
+		"translated": true
+	},
+	"Preference code": {
+		"message": "Preference code",
+		"translated": true
+	},
+	"codeOperation": {
+		"message": "CodeOperation",
+		"translated": true
+	},
+	"Modelé": {
+		"message": "Modeled",
+		"translated": true
+	},
+	"Modification": {
+		"message": "Changing",
+		"translated": true
+	},
+	"Modeles": {
+		"message": "Models",
+		"translated": true
+	},
+	"Lots": {
+		"message": "Lots",
+		"translated": true
+	},
+	"Grouper les lots": {
+		"message": "Group lots",
+		"translated": true
+	},
+	"Dégrouper les lots": {
+		"message": "Ungrouping lots",
+		"translated": true
+	},
+	"Vente en bloc": {
+		"message": "Bulk sale",
+		"translated": true
+	},
+	"Décocher Vente en bloc": {
+		"message": "Uncheck Bulk Sale",
+		"translated": true
+	},
+	"Poser une option": {
+		"message": "Ask an option",
+		"translated": true
+	},
+	"Poser une option rapide": {
+		"message": "Ask a quick option",
+		"translated": true
+	},
+	"Annuler une option": {
+		"message": "Cancel an option",
+		"translated": true
+	},
+	"Changer de tranche": {
+		"message": "Changing slices",
+		"translated": true
+	},
+	"Réserver": {
+		"message": "Book",
+		"translated": true
+	},
+	"Pondération des prix": {
+		"message": "Price weighting",
+		"translated": true
+	},
+	"Exporter": {
+		"message": "Export",
+		"translated": true
+	},
+	"Consulter le dossier client": {
+		"message": "View customer file",
+		"translated": true
+	},
+	"Documents associés": {
+		"message": "Related documents",
+		"translated": true
+	},
+	"Désistement": {
+		"message": "Discontinuance",
+		"translated": true
+	},
+	"Résolution": {
+		"message": "Resolution",
+		"translated": true
+	},
+	"Livraison": {
+		"message": "Delivery",
+		"translated": true
+	},
+	"Enregistrer comme modèle": {
+		"message": "Save as a model",
+		"translated": true
+	},
+	"Gérer les modèles": {
+		"message": "Manage models",
+		"translated": true
+	},
+	"Forcer la TVA sur Marge": {
+		"message": "Forcing VAT on Margin",
+		"translated": true
+	},
+	"Pas de TVA sur Marge forcée": {
+		"message": "No VAT on Forced Margin",
+		"translated": true
+	},
+	"Recalculer la TVA sur Marge": {
+		"message": "Recalculate VAT on Margin",
+		"translated": true
+	},
+	"lot de la Grille de Prix de Vente": {
+		"message": "Lot of the Sale Price Grid",
+		"translated": true
+	},
+	"Code Dossier": {
+		"message": "File Code",
+		"translated": true
+	},
+	"Code Option": {
+		"message": "Code Option",
+		"translated": true
+	},
+	"Type Ligne": {
+		"message": "Line Type",
+		"translated": true
+	},
+	"lotGrp": {
+		"message": "lotGrp",
+		"translated": true
+	},
+	"Type lot": {
+		"message": "Lot type",
+		"translated": true
+	},
+	"Spécificité": {
+		"message": "Specificity",
+		"translated": true
+	},
+	"Exposition secondaire": {
+		"message": "Secondary exposure",
+		"translated": true
+	},
+	"Numéro copropriété": {
+		"message": "Condominium number",
+		"translated": true
+	},
+	"idLotImmo": {
+		"message": "idLotImmo",
+		"translated": true
+	},
+	"SDP": {
+		"message": "Sdp",
+		"translated": true
+	},
+	"SHAB": {
+		"message": "Shab",
+		"translated": true
+	},
+	"SU": {
+		"message": "Knew",
+		"translated": true
+	},
+	"Surface Terrain": {
+		"message": "Surface Plot",
+		"translated": true
+	},
+	"Surface Parcelle": {
+		"message": "Surface Plot",
+		"translated": true
+	},
+	"Annexe": {
+		"message": "Annex",
+		"translated": true
+	},
+	"Code postal": {
+		"message": "Zip code",
+		"translated": true
+	},
+	"Date achèvement": {
+		"message": "Completion date",
+		"translated": true
+	},
+	"Aides vente TTC": {
+		"message": "TTC Sales Helps",
+		"translated": true
+	},
+	"Date envoi contrat": {
+		"message": "Date sending contract",
+		"translated": true
+	},
+	"Date livraison contractuelle": {
+		"message": "Contract delivery date",
+		"translated": true
+	},
+	"Date mise exploitation": {
+		"message": "Date putting exploitation",
+		"translated": true
+	},
+	"Date notification notaire": {
+		"message": "Date notification notary",
+		"translated": true
+	},
+	"Date réception": {
+		"message": "Date receipt",
+		"translated": true
+	},
+	"Date de vente": {
+		"message": "Date of sale",
+		"translated": true
+	},
+	"Loyer HT mensuel / m²": {
+		"message": "Rent HT monthly / m2",
+		"translated": true
+	},
+	"Loyer TTC mensuel / m²": {
+		"message": "Monthly TTC rent / m2",
+		"translated": true
+	},
+	"Loyer HT annuel / m²": {
+		"message": "Rent ht annual / m2",
+		"translated": true
+	},
+	"Loyer TTC annuel / m²": {
+		"message": "Annual TTC rent / m2",
+		"translated": true
+	},
+	"Identification des lots de la tranche commerciale soumis à la TVA sur marge. Modifiable par l’action « cocher / décocher la TVA sur Marge »": {
+		"message": "Identification of lots of the commercial tranche subject to VAT on margin. Modifiable by the action \"check / uncheck VAT on Marge\"",
+		"translated": true
+	},
+	"Montant TVA": {
+		"message": "VAT amount",
+		"translated": true
+	},
+	"Mnt TVA sur Marge": {
+		"message": "Mnt VAT on Margin",
+		"translated": true
+	},
+	"Montant calculé à partir du prix budget saisi dans la tranche commerciale en prenant en compte les postes de dépenses rentrant dans le calcul sur la TVA sur mage. La répartition de la TVA sur les lots s’effectue selon paramétrage sélectionné. Montant modifiable par l’action « Forcer la TVA sur Marge »": {
+		"message": "Amount calculated from the budget price entered in the commercial bracket taking into account the expenditure items included in the calculation on VAT on mage. The distribution of VAT on the lots is done according to selected setting. Amount changeable by the action \"Forcing VAT on Margin\"",
+		"translated": true
+	},
+	"Montant remise HT": {
+		"message": "Amount HT discount",
+		"translated": true
+	},
+	"Montant remise TTC": {
+		"message": "Amount discounted TTC",
+		"translated": true
+	},
+	"Prix commercial HT": {
+		"message": "Commercial price HT",
+		"translated": true
+	},
+	"Prix de vente, donné aux vendeurs pour leur négociation commerciale. Ce prix est saisi dans la grille de prix (ou dans la fiche lot). Ce prix est modifiable uniquement pour les lots en stock, et modifiable pendant la pose d’option": {
+		"message": "Sale price, given to sellers for their commercial negotiation. This price is entered in the price grid (or in the lot card). This price can only be changed for lots in stock, and can be changed during option",
+		"translated": true
+	},
+	"Prix commercial HT lot principal": {
+		"message": "Commercial price HT main lot",
+		"translated": true
+	},
+	"Prix de vente  du lot principal, donné aux vendeurs pour leur négociation commerciale. Ce prix est saisi dans la grille de prix (ou dans la fiche lot). Ce prix est modifiable uniquement pour les lots en stock, et modifiable pendant la pose d’option": {
+		"message": "Sale price of the main lot, given to sellers for their commercial negotiation. This price is entered in the price grid (or in the lot card). This price can only be changed for lots in stock, and can be changed during option",
+		"translated": true
+	},
+	"Prix commercial HT par m²": {
+		"message": "Commercial price HT per m2",
+		"translated": true
+	},
+	"Prix commercial TTC": {
+		"message": "TTC Commercial Price",
+		"translated": true
+	},
+	"Prix commercial TTC lot principal": {
+		"message": "Commercial price TTC main lot",
+		"translated": true
+	},
+	"Prix commercial TTC par m²": {
+		"message": "Commercial price TTC per sq m",
+		"translated": true
+	},
+	"Prix budget HT": {
+		"message": "Budget price HT",
+		"translated": true
+	},
+	"Chiffre d’affaire budgété qui se mettra à jour automatiquement dans le suivi budgétaire au fur et à mesure de l’avancement de l’opération.": {
+		"message": "Budgeted revenue that will automatically update in budget tracking as the operation progresses.",
+		"translated": true
+	},
+	"Prix budget HT lot principal": {
+		"message": "Price budget HT main lot",
+		"translated": true
+	},
+	"Montant du chiffre d’affaire prévu à la vente du lot principal. Ce prix provient de la typologie. Le prix est calculé en fonction de l’hypothèse saisie dans la typologie (prix x surface). Il alimente la grille de prix et également le prix budget du bilan": {
+		"message": "Amount of revenue expected on sale of the main lot. This award comes from typology. The price is calculated according to the assumption entered in the typology (price x surface). It feeds the price grid and also the budget price of the balance sheet",
+		"translated": true
+	},
+	"Prix budget HT par m²": {
+		"message": "Budget price HT per m2",
+		"translated": true
+	},
+	"Prix budget TTC": {
+		"message": "TTC Budget Price",
+		"translated": true
+	},
+	"Prix budget TTC lot principal": {
+		"message": "Price budget TTC main lot",
+		"translated": true
+	},
+	"Prix budget TTC par m²": {
+		"message": "Budget price TTC per sq m",
+		"translated": true
+	},
+	"Prix lancement HT": {
+		"message": "HT Launch Price",
+		"translated": true
+	},
+	"Prix HT de référence lors du lancement commercial, avant cela ce prix est vide. Le prix de lancement de la grille des prix est alimenté par le montant indiqué dans la colonne « prix budget » au moment du lancement commercial.": {
+		"message": "Benchmark HT price at the commercial launch, before that price is empty. The launch price of the price grid is driven by the amount shown in the \"budget price\" column at the time of the commercial launch.",
+		"translated": true
+	},
+	"Prix lancement HT par m²": {
+		"message": "Price launch HT per m2",
+		"translated": true
+	},
+	"Prix lancement TTC": {
+		"message": "TTC Launch Price",
+		"translated": true
+	},
+	"Prix TTC de référence lors du lancement commercial, avant cela ce prix est vide. Le prix de lancement de la grille des prix est alimenté par le montant indiqué dans la colonne « prix budget » au moment du lancement commercial.": {
+		"message": "Benchmark TTC price at the commercial launch, before that price is empty. The launch price of the price grid is driven by the amount shown in the \"budget price\" column at the time of the commercial launch.",
+		"translated": true
+	},
+	"Prix lancement TTC par m²": {
+		"message": "TTC launch price per sq m",
+		"translated": true
+	},
+	"Prix total HT": {
+		"message": "Total price HT",
+		"translated": true
+	},
+	"Prix de vente HT du lot + prix des TMA HT du lot. Montant calculé et non modifiable quelque soit le statut du lot.": {
+		"message": "The price of the lot is HT selling price and the price of the TMA HT of the lot. Amount calculated and not changeable regardless of the status of the lot.",
+		"translated": true
+	},
+	"Prix total TTC": {
+		"message": "Total Price TTC",
+		"translated": true
+	},
+	"Prix de vente TTC du lot + prix des TMA TTC du lot. Montant calculé et non modifiable quelque soit le statut du lot.": {
+		"message": "TTC sale price of the lot - tMA TTC price of the lot. Amount calculated and not changeable regardless of the status of the lot.",
+		"translated": true
+	},
+	"Prix vente HT": {
+		"message": "Price sale HT",
+		"translated": true
+	},
+	"Prix de vente HT du lot. Cette zone est calculée et non modifiable, elle provient de la saisie de la vente. Elle n’est alimentée que lorsque le lot est en statut réservé au minimum": {
+		"message": "The sale price of the lot is HT. This area is calculated and not changeable, it comes from the seizure of the sale. It is only fed when the lot is in reserved status at least",
+		"translated": true
+	},
+	"Prix vente TTC": {
+		"message": "TTC sale price",
+		"translated": true
+	},
+	"Prix de vente TTC du lot. Cette zone est calculée et non modifiable, elle provient de la saisie de la vente. Elle n’est alimentée que lorsque le lot est en statut réservé au minimum": {
+		"message": "TTC selling price of the lot. This area is calculated and not changeable, it comes from the seizure of the sale. It is only fed when the lot is in reserved status at least",
+		"translated": true
+	},
+	"Prix budget HT lot secondaire": {
+		"message": "Price budget HT secondary lot",
+		"translated": true
+	},
+	"Montant du chiffre d’affaire prévu à la vente du lot secondaire. Ce prix provient de la typologie. Le prix est calculé en fonction de l’hypothèse saisie dans la typologie (prix x surface). Il alimente la grille de prix et également le prix budget du bilan": {
+		"message": "Amount of expected turnover on the sale of the secondary lot. This award comes from typology. The price is calculated according to the assumption entered in the typology (price x surface). It feeds the price grid and also the budget price of the balance sheet",
+		"translated": true
+	},
+	"Prix budget TTC lot secondaire": {
+		"message": "Price budget TTC secondary lot",
+		"translated": true
+	},
+	"Prix commercial HT lot secondaire": {
+		"message": "Commercial price HT secondary lot",
+		"translated": true
+	},
+	"Prix de vente du lot secondaire, donné aux vendeurs pour leur négociation commerciale. Ce prix est saisi dans la grille de prix (ou dans la fiche lot). Ce prix est modifiable uniquement pour les lots en stock, et modifiable pendant la pose d’option": {
+		"message": "Sale price of the secondary lot, given to sellers for their commercial negotiation. This price is entered in the price grid (or in the lot card). This price can only be changed for lots in stock, and can be changed during option",
+		"translated": true
+	},
+	"Prix commercial TTC lot secondaire": {
+		"message": "Commercial price TTC secondary lot",
+		"translated": true
+	},
+	"Rentabilité locative annuelle": {
+		"message": "Annual rental profitability",
+		"translated": true
+	},
+	"% remise": {
+		"message": "% discount",
+		"translated": true
+	},
+	"Lots secondaires": {
+		"message": "Secondary lots",
+		"translated": true
+	},
+	"Date du statut": {
+		"message": "Status date",
+		"translated": true
+	},
+	"Prix TMA HT": {
+		"message": "TMA HT Award",
+		"translated": true
+	},
+	"Montant total HT des TMA du lot. Ce prix n’est pas modifiable dans la grille de prix": {
+		"message": "Total HT amount of the Lot's TMA. This price is not changeable in the price grid",
+		"translated": true
+	},
+	"Prix TMA TTC": {
+		"message": "TMA TTC Award",
+		"translated": true
+	},
+	"Montant total TTC des TMA du lot. Ce prix n’est pas modifiable dans la grille de prix": {
+		"message": "Total TTC amount of TMA lot. This price is not changeable in the price grid",
+		"translated": true
+	},
+	"Effacer la recherche": {
+		"message": "Clear the search",
+		"translated": true
+	},
+	"Favorite": {
+		"message": "Favorite",
+		"translated": true
+	},
+	"Toutes": {
+		"message": "All",
+		"translated": true
+	},
+	"Display Mode": {
+		"message": "Display Mode",
+		"translated": true
+	},
+	"Position GPS": {
+		"message": "Position GPS",
+		"translated": true
+	},
+	"Voir sur la carte": {
+		"message": "See on the map",
+		"translated": true
+	},
+	"Détails de l'opération": {
+		"message": "Details of the operation",
+		"translated": true
+	},
+	"Ajouter cette opération aux favorits": {
+		"message": "Add this to favorits",
+		"translated": true
+	},
+	"Accéder à l'opération": {
+		"message": "Access the operation",
+		"translated": true
+	},
+	"Référence": {
+		"message": "Reference",
+		"translated": true
+	},
+	"Code de l'opération": {
+		"message": "Operation code",
+		"translated": true
+	},
+	"Nom de l'opération": {
+		"message": "Operation name",
+		"translated": true
+	},
+	"N° et voie": {
+		"message": "No. and lane",
+		"translated": true
+	},
+	"Code postal / Ville": {
+		"message": "Postcode / City",
+		"translated": true
+	},
+	"Nom commercial": {
+		"message": "Trade name",
+		"translated": true
+	},
+	"Statut d'opération": {
+		"message": "Operation status",
+		"translated": true
+	},
+	"F": {
+		"message": "F",
+		"translated": true
+	},
+	"V": {
+		"message": "V",
+		"translated": true
+	},
+	"Image": {
+		"message": "Image",
+		"translated": true
+	},
+	"dataSet": {
+		"message": "Dataset",
+		"translated": true
+	},
+	"Retour à la page d'accueil": {
+		"message": "Back to home page",
+		"translated": true
+	},
+	"Accéder à la tranche": {
+		"message": "Access the slice",
+		"translated": true
+	},
+	"Code ": {
+		"message": "Code ",
+		"translated": true
+	},
+	"Type d'ouvrage": {
+		"message": "Type of work",
+		"translated": true
+	},
+	"Modèle": {
+		"message": "Model",
+		"translated": true
+	},
+	"Créer un nouveau modèle": {
+		"message": "Create a new model",
+		"translated": true
+	},
+	"Visibilité": {
+		"message": "Visibility",
+		"translated": true
+	},
+	"Pour moi": {
+		"message": "For me",
+		"translated": true
+	},
+	"Pour tous les utilisateurs": {
+		"message": "For all users",
+		"translated": true
+	},
+	"Total Instances": {
+		"message": "Total Instances",
+		"translated": true
+	},
+	"Instances": {
+		"message": "Instances",
+		"translated": true
+	},
+	"Unknown": {
+		"message": "Unknown",
+		"translated": true
+	},
+	"Unmodified": {
+		"message": "Unmodified",
+		"translated": true
+	},
+	"New": {
+		"message": "New",
+		"translated": true
+	},
+	"Modified": {
+		"message": "Modified",
+		"translated": true
+	},
+	"Deleted": {
+		"message": "Deleted",
+		"translated": true
+	},
+	"Canceled": {
+		"message": "Canceled",
+		"translated": true
+	},
+	"Pour tous": {
+		"message": "For all",
+		"translated": true
+	},
+	"First Name": {
+		"message": "First Name",
+		"translated": true
+	},
+	"Trace": {
+		"message": "Trace",
+		"translated": true
+	},
+	"Total": {
+		"message": "Total",
+		"translated": true
+	},
+	"Data Time": {
+		"message": "Data Time",
+		"translated": true
+	},
+	"Alloc Id Time": {
+		"message": "Alloc Id Time",
+		"translated": true
+	},
+	"Rules Time": {
+		"message": "Rules Time",
+		"translated": true
+	},
+	"Traces": {
+		"message": "Traces",
+		"translated": true
+	},
+	"Clear": {
+		"message": "Clear",
+		"translated": true
+	},
+	"Start Trace": {
+		"message": "Start Trace",
+		"translated": true
+	},
+	"Stop Trace": {
+		"message": "Stop Trace",
+		"translated": true
+	},
+	"Title": {
+		"message": "Title",
+		"translated": true
+	},
+	"Time (ms)": {
+		"message": "Time (ms)",
+		"translated": true
+	},
+	"Id règle": {
+		"message": "Id rule",
+		"translated": true
+	},
+	"Types de lot": {
+		"message": "Lot types",
+		"translated": true
+	},
+	"Critères": {
+		"message": "Criteria",
+		"translated": true
+	},
+	"Ponderation": {
+		"message": "Ponderation",
+		"translated": true
+	},
+	"Valeur": {
+		"message": "Value",
+		"translated": true
+	},
+	"Unité": {
+		"message": "Unit",
+		"translated": true
+	},
+	"Valeur de référence": {
+		"message": "Reference value",
+		"translated": true
+	},
+	"Valeur à pondérer": {
+		"message": "Weight",
+		"translated": true
+	},
+	"Arrondi": {
+		"message": "Rounded",
+		"translated": true
+	},
+	"Lot GP Filter": {
+		"message": "Lot GP Filter",
+		"translated": true
+	},
+	"Nord": {
+		"message": "North",
+		"translated": true
+	},
+	"Nord Ouest": {
+		"message": "North West",
+		"translated": true
+	},
+	"Nord Est": {
+		"message": "North East",
+		"translated": true
+	},
+	"Ouest": {
+		"message": "West",
+		"translated": true
+	},
+	"Est": {
+		"message": "Is",
+		"translated": true
+	},
+	"Sud": {
+		"message": "South",
+		"translated": true
+	},
+	"Sud Ouest": {
+		"message": "South West",
+		"translated": true
+	},
+	"Sud Est": {
+		"message": "South East",
+		"translated": true
+	},
+	"Id Tranche Commerciale": {
+		"message": "Id Commercial Slice",
+		"translated": true
+	},
+	"Numéro groupement": {
+		"message": "Grouping number",
+		"translated": true
+	},
+	"Placement": {
+		"message": "Investment",
+		"translated": true
+	},
+	"Surface Habitable (m²)": {
+		"message": "Livable area (m2)",
+		"translated": true
+	},
+	"Surface HOB (m²)": {
+		"message": "Surface HOB (m2)",
+		"translated": true
+	},
+	"Surface HON (m²)": {
+		"message": "Surface HON (m2)",
+		"translated": true
+	},
+	"Surface SP (m²)": {
+		"message": "Surface SP (m2)",
+		"translated": true
+	},
+	"Surface Parcelle (m²)": {
+		"message": "Plot surface (m2)",
+		"translated": true
+	},
+	"Surface Unitaire (m²) par lot": {
+		"message": "Unit area (m2) per lot",
+		"translated": true
+	},
+	"Surfaces annexes": {
+		"message": "Ancillary surfaces",
+		"translated": true
+	},
+	"Date prise possession": {
+		"message": "Date taken possession",
+		"translated": true
+	},
+	"Date signature acte": {
+		"message": "Date signing act",
+		"translated": true
+	},
+	"Loyer mensuel HT": {
+		"message": "Monthly rent HT",
+		"translated": true
+	},
+	"Loyer mensuel TTC": {
+		"message": "Monthly rent TTC",
+		"translated": true
+	},
+	"Prix commercial HT par m2": {
+		"message": "Commercial price HT per sq m",
+		"translated": true
+	},
+	"Prix commercial TTC par m2": {
+		"message": "Commercial price TTC per sq m",
+		"translated": true
+	},
+	"Prix budget base HT": {
+		"message": "Base budget price HT",
+		"translated": true
+	},
+	"Prix budget HT par m2": {
+		"message": "Budget price HT per sq m",
+		"translated": true
+	},
+	"Prix budget TTC par m2": {
+		"message": "TTC budget price per sq m",
+		"translated": true
+	},
+	"Prix lancement HT par m2": {
+		"message": "Ht launch price per sq m2",
+		"translated": true
+	},
+	"Prix lancement TTC par m2": {
+		"message": "TTC launch price per sq m",
+		"translated": true
+	},
+	"Commercialisation": {
+		"message": "Marketing",
+		"translated": true
+	},
+	"Appliquer les règles": {
+		"message": "Apply the rules",
+		"translated": true
+	},
+	"Règles": {
+		"message": "Rules",
+		"translated": true
+	},
+	"Types": {
+		"message": "Types",
+		"translated": true
+	},
+	"Critère": {
+		"message": "Criterion",
+		"translated": true
+	},
+	"Pondération": {
+		"message": "Weighting",
+		"translated": true
+	},
+	"Impact règle": {
+		"message": "Impact rule",
+		"translated": true
+	},
+	"Montant TVA declaree": {
+		"message": "Amount VAT declared",
+		"translated": true
+	},
+	"Prix stock HT": {
+		"message": "Stock price HT",
+		"translated": true
+	},
+	"Prix stock TTC": {
+		"message": "TTC stock price",
+		"translated": true
+	},
+	"Date d'annulation": {
+		"message": "Cancellation date",
+		"translated": true
+	},
+	"Motif d'annulation": {
+		"message": "Reason for cancellation",
+		"translated": true
+	},
+	"Pose option rapide": {
+		"message": "Quick option pose",
+		"translated": true
+	},
+	"Pas de tiers": {
+		"message": "No third parties",
+		"translated": true
+	},
+	"Montant Total Prix d'option HT": {
+		"message": "Total Option Price HT",
+		"translated": true
+	},
+	"Montant Total Prix d'option TTC": {
+		"message": "Total TTC Option Price",
+		"translated": true
+	},
+	"Remise totale HT": {
+		"message": "Total HT discount",
+		"translated": true
+	},
+	"Remise totale TTC": {
+		"message": "Total TTC discount",
+		"translated": true
+	},
+	"Remise totale pourcentage": {
+		"message": "Total percentage discount",
+		"translated": true
+	},
+	"Reference Tiers": {
+		"message": "Third Reference",
+		"translated": true
+	},
+	"Date d'option": {
+		"message": "Option date",
+		"translated": true
+	},
+	"Date de Fin d'option": {
+		"message": "Option End Date",
+		"translated": true
+	},
+	"Lot immo pose option rapide": {
+		"message": "Lot immo poses quick option",
+		"translated": true
+	},
+	"N° de lot": {
+		"message": "Lot number",
+		"translated": true
+	},
+	"Remise pourcentage": {
+		"message": "Percentage discount",
+		"translated": true
+	},
+	"Prix d'option HT": {
+		"message": "Option price HT",
+		"translated": true
+	},
+	"Prix d'option TTC": {
+		"message": "Option price TTC",
+		"translated": true
+	},
+	"Remise HT": {
+		"message": "HT discount",
+		"translated": true
+	},
+	"Remise TTC": {
+		"message": "TTC discount",
+		"translated": true
+	},
+	"Model du paramétrage de publipostage": {
+		"message": "Model of the direct mail setting",
+		"translated": true
+	},
+	"Télécharger le document du publipostage": {
+		"message": "Download the direct mail document",
+		"translated": true
+	},
+	"Document produit, cliquer pour retourner": {
+		"message": "Product document, click to return",
+		"translated": true
+	},
+	"Télécharger": {
+		"message": "Download",
+		"translated": true
+	},
+	"Type d'impression": {
+		"message": "Printing type",
+		"translated": true
+	},
+	"Propriétaire": {
+		"message": "Owner",
+		"translated": true
+	},
+	"Réf fichier": {
+		"message": "Ref file",
+		"translated": true
+	},
+	"Lien": {
+		"message": "Link",
+		"translated": true
+	},
+	"Pièces-jointes": {
+		"message": "Attachments",
+		"translated": true
+	},
+	"Pièce": {
+		"message": "Room",
+		"translated": true
+	},
+	"Thème": {
+		"message": "Theme",
+		"translated": true
+	},
+	"Tuiles Resa": {
+		"message": "Resa tiles",
+		"translated": true
+	},
+	"Used for lookup": {
+		"message": "Used for lookup",
+		"translated": true
+	},
+	"Sans liaison au planning": {
+		"message": "No planning link",
+		"translated": true
+	},
+	"Liée à un évènement du planning": {
+		"message": "Linked to a planning event",
+		"translated": true
+	},
+	"Evènement du planning": {
+		"message": "Planning event",
+		"translated": true
+	},
+	"Délais": {
+		"message": "Time",
+		"translated": true
+	},
+	"% facturation": {
+		"message": "% billing",
+		"translated": true
+	},
+	"Prévu le": {
+		"message": "Expected on",
+		"translated": true
+	},
+	"Date prévu d'appel": {
+		"message": "Expected call date",
+		"translated": true
+	},
+	"Offre": {
+		"message": "Offers",
+		"translated": true
+	},
+	"Lots Concernés": {
+		"message": "Lots Concerned",
+		"translated": true
+	},
+	"Liste aides à la vente disponibles": {
+		"message": "List sales aids available",
+		"translated": true
+	},
+	"Taux Tva": {
+		"message": "Vat rate",
+		"translated": true
+	},
+	"Montant offert TTC": {
+		"message": "Amount offered TTC",
+		"translated": true
+	},
+	"Reste à payer TTC": {
+		"message": "Remains to pay TTC",
+		"translated": true
+	},
+	"Montant offert HT": {
+		"message": "Amount offered HT",
+		"translated": true
+	},
+	"% Offert": {
+		"message": "% Offered",
+		"translated": true
+	},
+	"TTC Figé": {
+		"message": "TTC Figé",
+		"translated": true
+	},
+	"HT Figé": {
+		"message": "HT Figé",
+		"translated": true
+	},
+	"TVA sur marge": {
+		"message": "VAT on margin",
+		"translated": true
+	},
+	"Condition": {
+		"message": "Condition",
+		"translated": true
+	},
+	"Date Limite": {
+		"message": "Deadline",
+		"translated": true
+	},
+	"Levée": {
+		"message": "Lifting",
+		"translated": true
+	},
+	"Date Levée": {
+		"message": "Date Raised",
+		"translated": true
+	},
+	"Date de résolution": {
+		"message": "Resolution date",
+		"translated": true
+	},
+	"Motif de résolution": {
+		"message": "Reason for resolution",
+		"translated": true
+	},
+	"Date de désistement": {
+		"message": "Date of withdrawal",
+		"translated": true
+	},
+	"Motif de désistement": {
+		"message": "Reason for withdrawal",
+		"translated": true
+	},
+	"Montant TTC du dépôt de garantie": {
+		"message": "TTC amount of security deposit",
+		"translated": true
+	},
+	"Restituer la totalité du montant du dépôt de garantie": {
+		"message": "Return the full amount of the security deposit",
+		"translated": true
+	},
+	"Montant TTC du dépôt de garantie restitué": {
+		"message": "TTC amount of security deposit returned",
+		"translated": true
+	},
+	"Montant du DG": {
+		"message": "Amount of DG",
+		"translated": true
+	},
+	"Compte séquestre": {
+		"message": "Receiver account",
+		"translated": true
+	},
+	"Encaissement": {
+		"message": "Cashing",
+		"translated": true
+	},
+	"Non encaissé": {
+		"message": "Not cashed in",
+		"translated": true
+	},
+	"Compte Séquestre": {
+		"message": "Receiver Account",
+		"translated": true
+	},
+	"Compte Courant": {
+		"message": "Current Account",
+		"translated": true
+	},
+	"Dépôt de garantie": {
+		"message": "Guarantee deposit",
+		"translated": true
+	},
+	"Code Tiers": {
+		"message": "Third Code",
+		"translated": true
+	},
+	"Date de remise": {
+		"message": "Discount date",
+		"translated": true
+	},
+	"Mode de Paiement": {
+		"message": "Payment mode",
+		"translated": true
+	},
+	"Votre choix": {
+		"message": "Your choice",
+		"translated": true
+	},
+	"Virement ": {
+		"message": "Transfer ",
+		"translated": true
+	},
+	"Cartes de paiement ": {
+		"message": "Payment cards ",
+		"translated": true
+	},
+	"Chèques": {
+		"message": "Cheques",
+		"translated": true
+	},
+	"Banque émettrice": {
+		"message": "Issuing bank",
+		"translated": true
+	},
+	"Tiers émetteur": {
+		"message": "Third issuer",
+		"translated": true
+	},
+	"Afficher": {
+		"message": "Display",
+		"translated": true
+	},
+	"Echéancier du lot selectionné": {
+		"message": "Selected lot",
+		"translated": true
+	},
+	"Echéancier global": {
+		"message": "Global time-bounds",
+		"translated": true
+	},
+	"Un seul échéancier par dossier": {
+		"message": "Only one timetable per file",
+		"translated": true
+	},
+	"Echéancier par lot": {
+		"message": "Echeanciater per batch",
+		"translated": true
+	},
+	"Evenement": {
+		"message": "Event",
+		"translated": true
+	},
+	"Libellé de l’échéance": {
+		"message": "Labeled the deadline",
+		"translated": true
+	},
+	"% Facturation": {
+		"message": "% Billing",
+		"translated": true
+	},
+	"% Cumulé": {
+		"message": "% Cumulative",
+		"translated": true
+	},
+	"Montant cumulé TTC": {
+		"message": "Cumulative TTC amount",
+		"translated": true
+	},
+	"Montant cumulé HT": {
+		"message": "Cumulative amount HT",
+		"translated": true
+	},
+	"Date prévue": {
+		"message": "Expected date",
+		"translated": true
+	},
+	"Date réelle": {
+		"message": "Actual date",
+		"translated": true
+	},
+	"Délai règlement (jours)": {
+		"message": "Settlement time (days)",
+		"translated": true
+	},
+	"Type de tiers": {
+		"message": "Third-party type",
+		"translated": true
+	},
+	"Personne Physique": {
+		"message": "Physical person",
+		"translated": true
+	},
+	"Personne Morale": {
+		"message": "Corporation",
+		"translated": true
+	},
+	"Portable": {
+		"message": "Portable",
+		"translated": true
+	},
+	"Adresse électronique": {
+		"message": "Email address",
+		"translated": true
+	},
+	"Complément d'Adresse": {
+		"message": "Address supplement",
+		"translated": true
+	},
+	"Adresse de distribution": {
+		"message": "Distribution address",
+		"translated": true
+	},
+	"Quotité": {
+		"message": "Proportion",
+		"translated": true
+	},
+	"Id View": {
+		"message": "Id View",
+		"translated": true
+	},
+	"Id financement": {
+		"message": "Id financing",
+		"translated": true
+	},
+	"Commentaires": {
+		"message": "Comments",
+		"translated": true
+	},
+	"Nature du financement": {
+		"message": "The nature of funding",
+		"translated": true
+	},
+	"Prêt": {
+		"message": "Ready",
+		"translated": true
+	},
+	"Apport personnel": {
+		"message": "Personal contribution",
+		"translated": true
+	},
+	"Revente": {
+		"message": "Resale",
+		"translated": true
+	},
+	"Type de prêt": {
+		"message": "Loan type",
+		"translated": true
+	},
+	"Avancement dossier": {
+		"message": "Progress file",
+		"translated": true
+	},
+	"Accord de principe": {
+		"message": "Agreement in principle",
+		"translated": true
+	},
+	"Demande de prêt": {
+		"message": "Loan application",
+		"translated": true
+	},
+	"Accord du prêt": {
+		"message": "Loan agreement",
+		"translated": true
+	},
+	"Emission offre": {
+		"message": "Issue offer",
+		"translated": true
+	},
+	"Obtention du prêt": {
+		"message": "Getting the loan",
+		"translated": true
+	},
+	"Fin de validité": {
+		"message": "End of validity",
+		"translated": true
+	},
+	"Demande du prêt": {
+		"message": "Loan application",
+		"translated": true
+	},
+	"Emission de l'offre": {
+		"message": "Issue of the offer",
+		"translated": true
+	},
+	"Fixe": {
+		"message": "Fixed",
+		"translated": true
+	},
+	"Variable": {
+		"message": "Variable",
+		"translated": true
+	},
+	"Etablissement prêteur": {
+		"message": "Lender establishment",
+		"translated": true
+	},
+	"Réf. du prêt": {
+		"message": "Ref. of the loan",
+		"translated": true
+	},
+	"Taux du prêt": {
+		"message": "Loan rate",
+		"translated": true
+	},
+	"Durée en mois": {
+		"message": "Month-to-month duration",
+		"translated": true
+	},
+	"Montant des mensualités": {
+		"message": "Amount of monthly payments",
+		"translated": true
+	},
+	"Montant des frais de dossier": {
+		"message": "Amount of application fee",
+		"translated": true
+	},
+	"Montant de la garantie": {
+		"message": "Amount of guarantee",
+		"translated": true
+	},
+	"Incluse dans le prêt": {
+		"message": "Included in the loan",
+		"translated": true
+	},
+	"Taux d'assurance": {
+		"message": "Insurance rate",
+		"translated": true
+	},
+	"Coût mensuel": {
+		"message": "Monthly cost",
+		"translated": true
+	},
+	"Année des revenus": {
+		"message": "Year of income",
+		"translated": true
+	},
+	"Total revenus client (Annuel net)": {
+		"message": "Total customer revenue (Net Annual)",
+		"translated": true
+	},
+	"Endettement mensuel avant achat": {
+		"message": "Monthly debt before purchase",
+		"translated": true
+	},
+	"Taux d'endettement avant achat": {
+		"message": "Debt rate before purchase",
+		"translated": true
+	},
+	"Taux d'endettement après achat": {
+		"message": "Debt rate after purchase",
+		"translated": true
+	},
+	"Financement": {
+		"message": "Funding",
+		"translated": true
+	},
+	"Identité": {
+		"message": "Identity",
+		"translated": true
+	},
+	"Prix net HT": {
+		"message": "Net price HT",
+		"translated": true
+	},
+	"Prix net TTC": {
+		"message": "Net price TTC",
+		"translated": true
+	},
+	"Prix de vente HT": {
+		"message": "Selling price HT",
+		"translated": true
+	},
+	"Prix de vente TTC": {
+		"message": "TTC sale price",
+		"translated": true
+	},
+	"Remise %": {
+		"message": "Discount %",
+		"translated": true
+	},
+	"Valider": {
+		"message": "Validate",
+		"translated": true
+	},
+	"Accès au TMA": {
+		"message": "Access to TMA",
+		"translated": true
+	},
+	"Total aides à la vente": {
+		"message": "Total sales aids",
+		"translated": true
+	},
+	"Prix de reservation TTC": {
+		"message": "TTC reservation price",
+		"translated": true
+	},
+	"Prix de reservation HT": {
+		"message": "Reservation price HT",
+		"translated": true
+	},
+	"Remise sur prix commercial TTC": {
+		"message": "TTC commercial price discount",
+		"translated": true
+	},
+	"Remise sur prix commercial HT": {
+		"message": "HT commercial price discount",
+		"translated": true
+	},
+	"% remise sur prix commercial HT": {
+		"message": "% discount edit on commercial price HT",
+		"translated": true
+	},
+	"% remise sur prix commercial TTC": {
+		"message": "% discount edit at commercial price TTC",
+		"translated": true
+	},
+	"Coût total acquéreur du lot TTC": {
+		"message": "Total cost purchaser of TTC lot",
+		"translated": true
+	},
+	"Total prix de réservation du lot": {
+		"message": "Total lot booking price",
+		"translated": true
+	},
+	"Tiers facturé": {
+		"message": "Third billed",
+		"translated": true
+	},
+	"codeStatut": {
+		"message": "status",
+		"translated": true
+	},
+	"Fin de validité du devis": {
+		"message": "End of the quote",
+		"translated": true
+	},
+	"Caractéristique": {
+		"message": "Characteristic",
+		"translated": true
+	},
+	"Technique": {
+		"message": "Technical",
+		"translated": true
+	},
+	"Esthétique": {
+		"message": "Aesthetic",
+		"translated": true
+	},
+	"Référence TMA": {
+		"message": "TMA reference",
+		"translated": true
+	},
+	"Référence devis": {
+		"message": "Quote reference",
+		"translated": true
+	},
+	"Référence facture": {
+		"message": "Invoice reference",
+		"translated": true
+	},
+	"Numéros des lots": {
+		"message": "Lot numbers",
+		"translated": true
+	},
+	"Pièces": {
+		"message": "Parts",
+		"translated": true
+	},
+	"Inclus dans l'acte": {
+		"message": "Included in the deed",
+		"translated": true
+	},
+	"Description": {
+		"message": "Description",
+		"translated": true
+	},
+	"Mode de réglement": {
+		"message": "Settlement mode",
+		"translated": true
+	},
+	"Virement": {
+		"message": "Transfer",
+		"translated": true
+	},
+	"Chèque": {
+		"message": "Check",
+		"translated": true
+	},
+	"Cpt": {
+		"message": "Cpt",
+		"translated": true
+	},
+	"Pièce(s)": {
+		"message": "Rooms",
+		"translated": true
+	},
+	"Quantité": {
+		"message": "Amount",
+		"translated": true
+	},
+	"Prix de revient unitaire HT": {
+		"message": "Unit cost price HT",
+		"translated": true
+	},
+	"Prix de revient unitaire TTC": {
+		"message": "TTC unit cost price",
+		"translated": true
+	},
+	"Prix de revient HT": {
+		"message": "Cost price HT",
+		"translated": true
+	},
+	"Prix de revient TTC": {
+		"message": "TTC cost price",
+		"translated": true
+	},
+	"Prix de vente unitaire HT": {
+		"message": "Unit selling price HT",
+		"translated": true
+	},
+	"Prix de vente unitaire TTC": {
+		"message": "TTC unit selling price",
+		"translated": true
+	},
+	"Prix de vente remisé HT": {
+		"message": "Sale price discounted HT",
+		"translated": true
+	},
+	"Prix de vente remisé TTC": {
+		"message": "Sale price discounted TTC",
+		"translated": true
+	},
+	"Impact travaux": {
+		"message": "Impact works",
+		"translated": true
+	},
+	"Coef": {
+		"message": "Coef",
+		"translated": true
+	},
+	"Offert": {
+		"message": "Offered",
+		"translated": true
+	},
+	"Descriptif détaillé": {
+		"message": "Detailed description",
+		"translated": true
+	},
+	"Signature": {
+		"message": "Signature",
+		"translated": true
+	},
+	"Date échéance": {
+		"message": "Deadline",
+		"translated": true
+	},
+	"Prévu": {
+		"message": "Planned",
+		"translated": true
+	},
+	"Réalisé": {
+		"message": "Done",
+		"translated": true
+	},
+	"Appelé": {
+		"message": "Called",
+		"translated": true
+	},
+	"Encaissé": {
+		"message": "Cashed",
+		"translated": true
+	},
+	"Date validation": {
+		"message": "Date validation",
+		"translated": true
+	},
+	"Annuler le TMA": {
+		"message": "Cancel the TMA",
+		"translated": true
+	},
+	"Refuser le TMA": {
+		"message": "Refuse the TMA",
+		"translated": true
+	},
+	"Afficher échéancier du TMA": {
+		"message": "View TMA timeline",
+		"translated": true
+	},
+	"Afficher historique des statuts": {
+		"message": "View status history",
+		"translated": true
+	},
+	"Sauvegarder le dossier": {
+		"message": "Save the folder",
+		"translated": true
+	},
+	"Annuler la saisie": {
+		"message": "Cancel the entry",
+		"translated": true
+	},
+	"Stopper le processus de saisie": {
+		"message": "Stop the seizure process",
+		"translated": true
+	},
+	"Dossier Client": {
+		"message": "Customer file",
+		"translated": true
+	},
+	"Imprimer": {
+		"message": "Print",
+		"translated": true
+	},
+	"Echéancier lot": {
+		"message": "Echeancier lot",
+		"translated": true
+	},
+	"Dates du dossier": {
+		"message": "Dates of the file",
+		"translated": true
+	},
+	"Dates des lots": {
+		"message": "Lot dates",
+		"translated": true
+	},
+	"Dates": {
+		"message": "Dates",
+		"translated": true
+	},
+	"Prix": {
+		"message": "Price",
+		"translated": true
+	},
+	"Echéancier": {
+		"message": "Echeancier",
+		"translated": true
+	},
+	"Dépôt de Garantie": {
+		"message": "Guarantee deposit",
+		"translated": true
+	},
+	"Financements": {
+		"message": "Financing",
+		"translated": true
+	},
+	"Vendeurs": {
+		"message": "Sellers",
+		"translated": true
+	},
+	"Récapitulatif": {
+		"message": "Summary",
+		"translated": true
+	},
+	"Id Réservation": {
+		"message": "Id Booking",
+		"translated": true
+	},
+	"Total du prix Commercial TTC": {
+		"message": "Total Commercial Price TTC",
+		"translated": true
+	},
+	"Total du prix Commercial HT": {
+		"message": "Total Commercial Price HT",
+		"translated": true
+	},
+	"Total acte de vente TTC": {
+		"message": "Total deed of sale TTC",
+		"translated": true
+	},
+	"Total acte de vente HT": {
+		"message": "Total DEed of sale HT",
+		"translated": true
+	},
+	"Création du dossier": {
+		"message": "Creating the folder",
+		"translated": true
+	},
+	"Pose d'option": {
+		"message": "Optional pose",
+		"translated": true
+	},
+	"Fin d'option": {
+		"message": "End of option",
+		"translated": true
+	},
+	"Réservation": {
+		"message": "Reservation",
+		"translated": true
+	},
+	"Date vente contractuelle": {
+		"message": "Date contract sale",
+		"translated": true
+	},
+	"Par lot": {
+		"message": "Per batch",
+		"translated": true
+	},
+	"Envoi du contrat de réservation": {
+		"message": "Sending the booking contract",
+		"translated": true
+	},
+	"Date de 1ère présentation recommandé": {
+		"message": "Date of 1st recommended presentation",
+		"translated": true
+	},
+	"Date limite de rétractation": {
+		"message": "Retraction deadline",
+		"translated": true
+	},
+	"Date de vente contractuelle": {
+		"message": "Contractual sale date",
+		"translated": true
+	},
+	"Date de livraison contractuelle": {
+		"message": "Contract delivery date",
+		"translated": true
+	},
+	"Date report livraison (client)": {
+		"message": "Date carry delivery (customer)",
+		"translated": true
+	},
+	"Montant indémnités": {
+		"message": "Amount indemnities",
+		"translated": true
+	},
+	"Date de notification notaire": {
+		"message": "Notary notification date",
+		"translated": true
+	},
+	"Date de convocation notaire": {
+		"message": "Date of summons notary",
+		"translated": true
+	},
+	"N° Recommandé": {
+		"message": "Recommended No.",
+		"translated": true
+	},
+	"Forcer la TVA": {
+		"message": "Forcing VAT",
+		"translated": true
+	},
+	"Courrier de convocation client": {
+		"message": "Customer summons mail",
+		"translated": true
+	},
+	"Date de livraison / réalisée": {
+		"message": "Delivery date / completed",
+		"translated": true
+	},
+	"Réception par le Maître d'ouvrage": {
+		"message": "Reception by the Owner",
+		"translated": true
+	},
+	"TMA inclus TTC": {
+		"message": "TMA included TTC",
+		"translated": true
+	},
+	"TMA inclus HT": {
+		"message": "TMA included HT",
+		"translated": true
+	},
+	"Dation HT": {
+		"message": "Dation HT",
+		"translated": true
+	},
+	"Dation TTC": {
+		"message": "Dation TTC",
+		"translated": true
+	},
+	"Lot(s)": {
+		"message": "Lots",
+		"translated": true
+	},
+	"Montants du dossier": {
+		"message": "Amounts of the file",
+		"translated": true
+	},
+	"Appels de fonds": {
+		"message": "Fundraising",
+		"translated": true
+	},
+	"N° de dossier:": {
+		"message": "File number:",
+		"translated": true
+	},
+	"Création dossier": {
+		"message": "Creating folder",
+		"translated": true
+	},
+	"Total prix réservation TTC ": {
+		"message": "Total TTC booking price ",
+		"translated": true
+	},
+	"Total prix réservation HT ": {
+		"message": "Total price booking HT ",
+		"translated": true
+	},
+	"Total dation TTC ": {
+		"message": "Total dation TTC ",
+		"translated": true
+	},
+	"Total dation HT ": {
+		"message": "Total dation HT ",
+		"translated": true
+	},
+	"Vendeur": {
+		"message": "Seller",
+		"translated": true
+	},
+	"Id vendeur": {
+		"message": "Seller Id",
+		"translated": true
+	},
+	"Représentant": {
+		"message": "Representative",
+		"translated": true
+	},
+	"Type de vendeur": {
+		"message": "Seller type",
+		"translated": true
+	},
+	"HT/TTC": {
+		"message": "HT/TTC",
+		"translated": true
+	},
+	"Base": {
+		"message": "Base",
+		"translated": true
+	},
+	"Commission HT": {
+		"message": "Commission HT",
+		"translated": true
+	},
+	"Commission TTC": {
+		"message": "Commission TTC",
+		"translated": true
+	},
+	"Indivision": {
+		"message": "Indivision",
+		"translated": true
+	},
+	"Couple": {
+		"message": "Couple",
+		"translated": true
+	},
+	"Origine du contact": {
+		"message": "Origin of contact",
+		"translated": true
+	},
+	"Qualité du client": {
+		"message": "Customer quality",
+		"translated": true
+	},
+	"texte1": {
+		"message": "text1",
+		"translated": true
+	},
+	"texte2": {
+		"message": "text2",
+		"translated": true
+	},
+	"texte3": {
+		"message": "text3",
+		"translated": true
+	},
+	"texte4": {
+		"message": "text4",
+		"translated": true
+	},
+	"texte5": {
+		"message": "text5",
+		"translated": true
+	},
+	"codif1": {
+		"message": "codif1",
+		"translated": true
+	},
+	"codif2": {
+		"message": "codif2",
+		"translated": true
+	},
+	"codif3": {
+		"message": "codif3",
+		"translated": true
+	},
+	"codif4": {
+		"message": "codif4",
+		"translated": true
+	},
+	"codif5": {
+		"message": "codif5",
+		"translated": true
+	},
+	"Clôture": {
+		"message": "Closing",
+		"translated": true
+	},
+	"Intermédiaire": {
+		"message": "Intermediate",
+		"translated": true
+	},
+	"Exercice": {
+		"message": "Exercise",
+		"translated": true
+	},
+	"Liste des opérations": {
+		"message": "List of operations",
+		"translated": true
+	},
+	"Comptes bancaires": {
+		"message": "Bank accounts",
+		"translated": true
+	},
+	"A partir d'une opération": {
+		"message": "From an operation",
+		"translated": true
+	},
+	"Récuperer comptes d\\'une operation": {
+		"message": "Recover accounts from an operation",
+		"translated": true
+	},
+	"Intitulé du compte": {
+		"message": "Account entitled",
+		"translated": true
+	},
+	"Type de compte": {
+		"message": "Account type",
+		"translated": true
+	},
+	"Compte par défaut": {
+		"message": "Default account",
+		"translated": true
+	},
+	"Compte comptable": {
+		"message": "Accounting account",
+		"translated": true
+	},
+	"Code journal": {
+		"message": "Newspaper code",
+		"translated": true
+	},
+	"Code journal de réaffectation": {
+		"message": "Reassignment log code",
+		"translated": true
+	},
+	"Liste des exercices d'une société": {
+		"message": "List of a company's exercises",
+		"translated": true
+	},
+	"Ouverture nouvel exercice": {
+		"message": "Opening new fiscal year",
+		"translated": true
+	},
+	"Suppression dernier exercice": {
+		"message": "Last year's deletion",
+		"translated": true
+	},
+	"Périodes de comptabilisation": {
+		"message": "Accounting periods",
+		"translated": true
+	},
+	"Mensuelles": {
+		"message": "Monthly",
+		"translated": true
+	},
+	"Trimestrielles": {
+		"message": "Quarterly",
+		"translated": true
+	},
+	"Semestrielles": {
+		"message": "Semestrial",
+		"translated": true
+	},
+	"Annuelles": {
+		"message": "Annual",
+		"translated": true
+	},
+	"Clôture Exercice": {
+		"message": "Closing Exercise",
+		"translated": true
+	},
+	"En cours": {
+		"message": "In progress",
+		"translated": true
+	},
+	"Ouvert": {
+		"message": "Open",
+		"translated": true
+	},
+	"Clos": {
+		"message": "Closed",
+		"translated": true
+	},
+	"Type d'opération": {
+		"message": "Type of operation",
+		"translated": true
+	},
+	"Référence comptable": {
+		"message": "Accounting reference",
+		"translated": true
+	},
+	"Paramétrage type": {
+		"message": "Typical setting",
+		"translated": true
+	},
+	"Statut Juridique": {
+		"message": "Legal status",
+		"translated": true
+	},
+	"Forme juridique": {
+		"message": "Legal form",
+		"translated": true
+	},
+	"Capital": {
+		"message": "Capital",
+		"translated": true
+	},
+	"Nombre de parts": {
+		"message": "Number of shares",
+		"translated": true
+	},
+	"Liquidateur": {
+		"message": "Liquidator",
+		"translated": true
+	},
+	"Société Mère": {
+		"message": "Mother Society",
+		"translated": true
+	},
+	"Enregistrement de la société": {
+		"message": "Company registration",
+		"translated": true
+	},
+	"Pas de liquidateur": {
+		"message": "No liquidator",
+		"translated": true
+	},
+	"Opérations rattachées": {
+		"message": "Related operations",
+		"translated": true
+	},
+	"Liste des sociétés": {
+		"message": "List of companies",
+		"translated": true
+	},
+	"Nom de la société": {
+		"message": "Company name",
+		"translated": true
+	},
+	"Nom du tiers": {
+		"message": "Name of third party",
+		"translated": true
+	},
+	"Nom du liquidateur": {
+		"message": "Liquidator's name",
+		"translated": true
+	},
+	"Forme Juridique": {
+		"message": "Legal form",
+		"translated": true
+	},
+	"Périmètre société": {
+		"message": "Company perimeter",
+		"translated": true
+	},
+	"Référence Comptable": {
+		"message": "Accounting reference",
+		"translated": true
+	},
+	"Société mère": {
+		"message": "Parent company",
+		"translated": true
+	},
+	"Date prévisionnelle signature des statuts": {
+		"message": "Forecast date, signing of statutes",
+		"translated": true
+	},
+	"Montant du capital": {
+		"message": "Amount of capital",
+		"translated": true
+	},
+	"Valeur nominale": {
+		"message": "Nominal value",
+		"translated": true
+	},
+	"Date création de la société": {
+		"message": "Company's creation date",
+		"translated": true
+	},
+	"Date d'Assemblée Générale": {
+		"message": "General Assembly Date",
+		"translated": true
+	},
+	"Extrait Kbis de radiation": {
+		"message": "Extract Kbis radiation",
+		"translated": true
+	},
+	"Date de liquidation": {
+		"message": "Liquidation date",
+		"translated": true
+	},
+	"Ecritures d'engagement prix de revient": {
+		"message": "Cost price commitment writings",
+		"translated": true
+	},
+	"Ecritures d'accession": {
+		"message": "Scriptures of accession",
+		"translated": true
+	},
+	"Ecritures de variation de stock": {
+		"message": "Stock Variation Writings",
+		"translated": true
+	},
+	"Ecritures d'inventaires (FNP)": {
+		"message": "Inventory writings (NPF)",
+		"translated": true
+	},
+	"Reprendre le paramétrage type": {
+		"message": "Take back the standard setting",
+		"translated": true
+	},
+	"Chemin de l'export": {
+		"message": "Export path",
+		"translated": true
+	},
+	"\\": {
+		"message": "\\",
+		"translated": true
+	},
+	"Add": {
+		"message": "Add",
+		"translated": true
+	},
+	"Associés": {
+		"message": "Related",
+		"translated": true
+	},
+	"Gérant": {
+		"message": "Manager",
+		"translated": true
+	},
+	"Pourcentage": {
+		"message": "Percentage",
+		"translated": true
+	},
+	"Mandataire": {
+		"message": "Agent",
+		"translated": true
+	},
+	"Totaux": {
+		"message": "Total",
+		"translated": true
+	},
+	"TOTAL": {
+		"message": "Total",
+		"translated": true
+	},
+	"Montants": {
+		"message": "Amounts",
+		"translated": true
+	},
+	"Mode de commercialisation": {
+		"message": "How to market",
+		"translated": true
+	},
+	"Méthode comptable": {
+		"message": "Accounting method",
+		"translated": true
+	},
+	"Société modèle": {
+		"message": "Model company",
+		"translated": true
+	},
+	"Date de début du 1er exercice": {
+		"message": "Start date for 1st fiscal year",
+		"translated": true
+	},
+	"Date de clôture exercice": {
+		"message": "Year-end closing date",
+		"translated": true
+	},
+	"Périodes de clôtures intermédiaires": {
+		"message": "Intermediate closing periods",
+		"translated": true
+	},
+	"Date de clôture dépenses": {
+		"message": "Closing date expenses",
+		"translated": true
+	},
+	"Date de clôture recettes": {
+		"message": "Closing Date Recipes",
+		"translated": true
+	},
+	"Clôturer": {
+		"message": "Close",
+		"translated": true
+	},
+	"Déclôturer": {
+		"message": "Unclosing",
+		"translated": true
+	},
+	"Dernière clôture": {
+		"message": "Last fence",
+		"translated": true
+	},
+	"Dernier exercice": {
+		"message": "Last fiscal year",
+		"translated": true
+	},
+	"Date de création": {
+		"message": "Date of creation",
+		"translated": true
+	},
+	"Stades Travaux": {
+		"message": "Stadiums Works",
+		"translated": true
+	},
+	"Enregistrer": {
+		"message": "Save",
+		"translated": true
+	},
+	"Ajout d'une attestation MOE": {
+		"message": "Added an MOE certificate",
+		"translated": true
+	},
+	"Valider le stade travaux": {
+		"message": "Validate the work stage",
+		"translated": true
+	},
+	"Annuler le dernier stade": {
+		"message": "Cancel the last stage",
+		"translated": true
+	},
+	"Stade à valider": {
+		"message": "Stadium to be validated",
+		"translated": true
+	},
+	"Code Stade à valider": {
+		"message": "Stadium code to be validated",
+		"translated": true
+	},
+	"Date de validation": {
+		"message": "Validation date",
+		"translated": true
+	},
+	"Tranche Commerciale": {
+		"message": "Commercial slice",
+		"translated": true
+	},
+	"Id. Lot Immo": {
+		"message": "Id. Lot Immo",
+		"translated": true
+	},
+	"Batiment": {
+		"message": "Building",
+		"translated": true
+	},
+	"Nom du client": {
+		"message": "Customer's name",
+		"translated": true
+	},
+	"Dernier stade validé tranche": {
+		"message": "Last stage validated slice",
+		"translated": true
+	},
+	"Date dernier stade tranche": {
+		"message": "Last stage date slice",
+		"translated": true
+	},
+	"Dernier stade validé lot": {
+		"message": "Last stage validated lot",
+		"translated": true
+	},
+	"Date dernier stade lot": {
+		"message": "Last stage lot date",
+		"translated": true
+	},
+	"Code stade à valider": {
+		"message": "Stadium code to be validated",
+		"translated": true
+	},
+	"Date stade à valider": {
+		"message": "Stage date to be validated",
+		"translated": true
+	},
+	"Attestation MOE": {
+		"message": "MOE certificate",
+		"translated": true
+	},
+	"Users": {
+		"message": "Users",
+		"translated": true
+	},
+	"Groups": {
+		"message": "Groups",
+		"translated": true
+	},
+	"Domicilié(e)": {
+		"message": "Home",
+		"translated": true
+	},
+	"En France": {
+		"message": "In France",
+		"translated": true
+	},
+	"A l'étranger": {
+		"message": "Abroad",
+		"translated": true
+	},
+	"Adresse *": {
+		"message": "Address",
+		"translated": true
+	},
+	"Bâtiment, résidence, entrée...": {
+		"message": "Building, residence, entrance...",
+		"translated": true
+	},
+	"N° et voie (rue, allée, avenue, boulevard...)": {
+		"message": "No and lane (street, driveway, avenue, boulevard...)",
+		"translated": true
+	},
+	"Lieu-dit, boite postale...": {
+		"message": "Place said, post office box...",
+		"translated": true
+	},
+	"Complément": {
+		"message": "Complement",
+		"translated": true
+	},
+	"Créer un nouveau tiers": {
+		"message": "Create a new third party",
+		"translated": true
+	},
+	"Type du tiers": {
+		"message": "Third-party type",
+		"translated": true
+	},
+	"Reference": {
+		"message": "Reference",
+		"translated": true
+	},
+	"Siret": {
+		"message": "Siret",
+		"translated": true
+	},
+	"Raison Sociale": {
+		"message": "Social Reason",
+		"translated": true
+	},
+	"NAF": {
+		"message": "Naf",
+		"translated": true
+	},
+	"SIRET": {
+		"message": "Siret",
+		"translated": true
+	},
+	"NIC": {
+		"message": "Nic",
+		"translated": true
+	},
+	"Raison sociale": {
+		"message": "Social reason",
+		"translated": true
+	},
+	"Fax": {
+		"message": "Fax",
+		"translated": true
+	},
+	"Site internet": {
+		"message": "Website",
+		"translated": true
+	},
+	"Réference comptable": {
+		"message": "Accounting referencing",
+		"translated": true
+	},
+	"Titre": {
+		"message": "Title",
+		"translated": true
+	},
+	"Localité": {
+		"message": "Locality",
+		"translated": true
+	},
+	"Date appel": {
+		"message": "Call date",
+		"translated": true
+	},
+	"Facturer": {
+		"message": "Charge",
+		"translated": true
+	},
+	"Taux appel": {
+		"message": "Call rate",
+		"translated": true
+	},
+	"Coefficient des TMA": {
+		"message": "Coefficient des TMA",
+		"translated": true
+	},
+	"Validité du devis (en jours)": {
+		"message": "Validity of the quote (in days)",
+		"translated": true
+	},
+	"Moins-value interdite sur un dossier de vente": {
+		"message": "Prohibited loss of value on a sales file",
+		"translated": true
+	},
+	"Échéancier": {
+		"message": "Schedule",
+		"translated": true
+	},
+	"Échéancier modèle des TMA": {
+		"message": "Model timeline for MATs",
+		"translated": true
+	},
+	"Échéance": {
+		"message": "Maturity",
+		"translated": true
+	},
+	"Événement": {
+		"message": "Event",
+		"translated": true
+	},
+	"fixe": {
+		"message": "Fixed",
+		"translated": true
+	},
+	"signature": {
+		"message": "Signature",
+		"translated": true
+	},
+	"livraison": {
+		"message": "Delivery",
+		"translated": true
+	},
+	"% appel": {
+		"message": "% call",
+		"translated": true
+	},
+	"Annuler la saisie du désistement": {
+		"message": "Cancel the withdrawal",
+		"translated": true
+	},
+	"Annuler la saisie de la résolution": {
+		"message": "Cancel the entry of the resolution",
+		"translated": true
+	},
+	"Outils Techniques": {
+		"message": "Technical Tools",
+		"translated": true
+	},
+	"Détail": {
+		"message": "Detail",
+		"translated": true
+	},
+	"Critères de sélection": {
+		"message": "Selection criteria",
+		"translated": true
+	},
+	"Liste des appels de fonds correspondants": {
+		"message": "List of corresponding fundraisers",
+		"translated": true
+	},
+	"Liste des appels de fonds": {
+		"message": "List of fundraisers",
+		"translated": true
+	},
+	"Liste des opérations et tranches travaux": {
+		"message": "List of operations and work slices",
+		"translated": true
+	},
+	"Detail de calcul": {
+		"message": "Calculation detail",
+		"translated": true
+	},
+	"Classeurs": {
+		"message": "Workbooks",
+		"translated": true
+	},
+	"Paramétrage des codifications {{titleCategorie}}": {
+		"message": "Setting the codings 'titleCategorie'",
+		"translated": true
+	},
+	"Sélection": {
+		"message": "Selection",
+		"translated": true
+	},
+	"Compte client": {
+		"message": "Customer account",
+		"translated": true
+	},
+	"Acquisitions": {
+		"message": "Acquisitions",
+		"translated": true
+	},
+	"Pas de titre": {
+		"message": "No title",
+		"translated": true
+	},
+	"Rôles fonctionnels": {
+		"message": "Functional roles",
+		"translated": true
+	},
+	"Rôle fonctionnel": {
+		"message": "Functional role",
+		"translated": true
+	},
+	"Echéanciers Type": {
+		"message": "Type Echelolds",
+		"translated": true
+	},
+	"Echéances": {
+		"message": "Time",
+		"translated": true
+	},
+	"Liste des factures à encaisser": {
+		"message": "List of bills to collect",
+		"translated": true
+	},
+	"Liste des encaissements correspondants": {
+		"message": "List of corresponding cash receipts",
+		"translated": true
+	},
+	" {{libelleTitle}}": {
+		"message": " 'LibelleTitle'",
+		"translated": true
+	},
+	"Emplacement": {
+		"message": "Location",
+		"translated": true
+	},
+	"Surfaces": {
+		"message": "Surfaces",
+		"translated": true
+	},
+	"Exposition": {
+		"message": "Exhibition",
+		"translated": true
+	},
+	"Champs paramétrables": {
+		"message": "Set-up fields",
+		"translated": true
+	},
+	"Liste des encaissements correspondant": {
+		"message": "List of corresponding cash receipts",
+		"translated": true
+	},
+	"Liste des tranches commerciales": {
+		"message": "List of commercial tranches",
+		"translated": true
+	},
+	"Liste des tranches travaux": {
+		"message": "List of work slices",
+		"translated": true
+	},
+	"Vignette": {
+		"message": "Sticker",
+		"translated": true
+	},
+	"Grid": {
+		"message": "Grid",
+		"translated": true
+	},
+	"Liste des lots disponibles": {
+		"message": "List of available lots",
+		"translated": true
+	},
+	"Modèle à créer": {
+		"message": "Model to create",
+		"translated": true
+	},
+	"Modèle à modifier": {
+		"message": "Model to be modified",
+		"translated": true
+	},
+	"Détail de la règle": {
+		"message": "Detail of the rule",
+		"translated": true
+	},
+	"Liste des règles": {
+		"message": "List of rules",
+		"translated": true
+	},
+	"Totaux grille de prix": {
+		"message": "Total price grid",
+		"translated": true
+	},
+	" {{titleLots}}": {
+		"message": " 'titleLots'",
+		"translated": true
+	},
+	"Choix de modèle": {
+		"message": "Model choice",
+		"translated": true
+	},
+	"Edition": {
+		"message": "Edition",
+		"translated": true
+	},
+	"Modification du taux de TVA du lot": {
+		"message": "Change in the VAT rate of the lot",
+		"translated": true
+	},
+	"Informations bancaires du compte séquestre": {
+		"message": "Bank information of the receiver account",
+		"translated": true
+	},
+	" {{libelle}}": {
+		"message": " 'Libelle'",
+		"translated": true
+	},
+	"Informations générales": {
+		"message": "General information",
+		"translated": true
+	},
+	"Détail du prêt": {
+		"message": "Loan details",
+		"translated": true
+	},
+	"Assurance du prêt": {
+		"message": "Loan insurance",
+		"translated": true
+	},
+	"Aide à la vente TTC": {
+		"message": "TTC Sales Assistance",
+		"translated": true
+	},
+	"Totaux par acquéreur": {
+		"message": "Totals per purchaser",
+		"translated": true
+	},
+	"Echéancier du TMA": {
+		"message": "TMA Echelon",
+		"translated": true
+	},
+	"Historique des statuts": {
+		"message": "Status history",
+		"translated": true
+	},
+	" {{titleResa}}": {
+		"message": " TitleResa",
+		"translated": true
+	},
+	"Récapitulatif du dossier {{code}} - {{libelle}}": {
+		"message": "Recap of the folder 'code' - 'delibel'",
+		"translated": true
+	},
+	"Acquéreur": {
+		"message": "Purchaser",
+		"translated": true
+	},
+	"Détail du tiers": {
+		"message": "Detail of the third",
+		"translated": true
+	},
+	"Coordonnées": {
+		"message": "Coordinates",
+		"translated": true
+	},
+	"Adresses": {
+		"message": "Addresses",
+		"translated": true
+	},
+	"Statistiques": {
+		"message": "Statistics",
+		"translated": true
+	},
+	"Liste des comptes bancaires": {
+		"message": "List of bank accounts",
+		"translated": true
+	},
+	"Société {{libelleSociete}}": {
+		"message": "Societe 'LiberalSociete'",
+		"translated": true
+	},
+	" {{title}}": {
+		"message": " 'title'",
+		"translated": true
+	},
+	"Juridique": {
+		"message": "Legal",
+		"translated": true
+	},
+	"Tour de table": {
+		"message": "Round the table",
+		"translated": true
+	},
+	"Liquidation": {
+		"message": "Liquidation",
+		"translated": true
+	},
+	"Paramétrage comptable et fiscal": {
+		"message": "Accounting and tax settings",
+		"translated": true
+	},
+	"Codes journaux": {
+		"message": "Newspaper codes",
+		"translated": true
+	},
+	"Paramétrage des exercices et clôtures comptables : modèle {{libelle}}": {
+		"message": "Setting up for fiscal years and accounting fences: 'libelle' model",
+		"translated": true
+	},
+	"Création exercice": {
+		"message": "Creation exercise",
+		"translated": true
+	},
+	"Gestion des périodes de clôtures": {
+		"message": "Managing closing periods",
+		"translated": true
+	},
+	"Liste des lots correspondants": {
+		"message": "List of corresponding lots",
+		"translated": true
+	},
+	"Ajout d’un tiers": {
+		"message": "Adding a third",
+		"translated": true
+	},
+	"Informations complémentaires": {
+		"message": "More information",
+		"translated": true
+	},
+	" {{title}} ": {
+		"message": " 'title' ",
+		"translated": true
+	},
+	"Facturation des TMA en masse": {
+		"message": "Mass invoicing of AMA",
+		"translated": true
+	},
+	"Paramétrage générique": {
+		"message": "Generic setting",
+		"translated": true
+	},
+	"Création des Échéanciers TMA": {
+		"message": "Creating TMA Timelines",
+		"translated": true
+	},
+	"Resolution": {
+		"message": "Resolution",
+		"translated": true
+	},
+	"Administration": {
+		"message": "Administration",
+		"translated": true
+	},
+	"Lancement des appels de fonds": {
+		"message": "Launching appeals for funds",
+		"translated": true
+	},
+	"Visualisation des appels de fonds": {
+		"message": "Viewing fundraising appeals",
+		"translated": true
+	},
+	"Les champs personnalisables": {
+		"message": "Customizable fields",
+		"translated": true
+	},
+	"Paramétrage des codifications": {
+		"message": "Setting the codifications",
+		"translated": true
+	},
+	"Ajout d'une condition suspensive": {
+		"message": "Adding a suspensive condition",
+		"translated": true
+	},
+	"Habilitations et contrôle des accès": {
+		"message": "Empowerment and access control",
+		"translated": true
+	},
+	"Création d'un groupe": {
+		"message": "Creating a group",
+		"translated": true
+	},
+	"Groupes fonctionnels et organisationnels": {
+		"message": "Functional and organisational groups",
+		"translated": true
+	},
+	"Niveau organisationnel description": {
+		"message": "Organizational level description",
+		"translated": true
+	},
+	"Attribution des droits": {
+		"message": "Rights allocation",
+		"translated": true
+	},
+	"Encaissements": {
+		"message": "Receipts",
+		"translated": true
+	},
+	"Détail fiche lot - Description": {
+		"message": "Detail lot sheet - Description",
+		"translated": true
+	},
+	"Flux financement": {
+		"message": "Funding flows",
+		"translated": true
+	},
+	"Calcul des frais financiers": {
+		"message": "Calculating financial expenses",
+		"translated": true
+	},
+	"Périmètre sociétés": {
+		"message": "Corporate perimeter",
+		"translated": true
+	},
+	"Session expirée": {
+		"message": "Expired session",
+		"translated": true
+	},
+	"Paramétrage": {
+		"message": "Setting",
+		"translated": true
+	},
+	"Saisie d'une réservation": {
+		"message": "Entering a reservation",
+		"translated": true
+	},
+	"Exercices comptables": {
+		"message": "Accounting exercises",
+		"translated": true
+	},
+	"Ouverture et clôture d'exercice": {
+		"message": "Opening and closing of the year",
+		"translated": true
+	},
+	"Société : informations administratives et juridiques": {
+		"message": "Company: administrative and legal information",
+		"translated": true
+	},
+	"Paramétrage des exercices et clôtures comptables": {
+		"message": "Setting up the financial years and accounting closings",
+		"translated": true
+	},
+	"Acte de vente": {
+		"message": "Deed of sale",
+		"translated": true
+	},
+	"Block": {
+		"message": "Block",
+		"translated": true
+	},
+	"Row": {
+		"message": "Row",
+		"translated": true
+	},
+	"Accordion": {
+		"message": "Accordion",
+		"translated": true
+	},
+	"Form": {
+		"message": "Form",
+		"translated": true
+	},
+	"Tabs": {
+		"message": "Tabs",
+		"translated": true
+	},
+	"IFrame": {
+		"message": "Iframe",
+		"translated": true
+	},
+	"Menu as Image": {
+		"message": "Menu as Image",
+		"translated": true
+	},
+	"Home Page": {
+		"message": "Home Page",
+		"translated": true
+	},
+	"Langue": {
+		"message": "Language",
+		"translated": true
+	},
+	"Choisir la langue": {
+		"message": "Choosing the language",
+		"translated": true
+	},
+	"Dont Dation TTC": {
+		"message": "Of which Dation TTC",
+		"translated": true
+	},
+	"Types de pages": {
+		"message": "Types of pages",
+		"translated": true
+	},
+	"Outils": {
+		"message": "Tools",
+		"translated": true
+	},
+	"Api Swagger": {
+		"message": "Api Swagger",
+		"translated": true
+	},
+	"Boîte à outils techniques": {
+		"message": "Technical toolbox",
+		"translated": true
+	},
+	"Utilisateurs et habilitations": {
+		"message": "Users and empowerments",
+		"translated": true
+	},
+	"Accueil": {
+		"message": "Home",
+		"translated": true
+	},
+	"Unité d'organisation Modal": {
+		"message": "Modal Organizational Unit",
+		"translated": true
+	},
+	"Liste des FNP": {
+		"message": "List of NPFs",
+		"translated": true
+	},
+	"Dossier de l'opération": {
+		"message": "Transaction file",
+		"translated": true
+	},
+	"Recettes": {
+		"message": "Recipes",
+		"translated": true
+	},
+	"Appels Fonds": {
+		"message": "Fund Calls",
+		"translated": true
+	},
+	"Visualiser": {
+		"message": "View",
+		"translated": true
+	},
+	"Visualiser Encaissements": {
+		"message": "View Cashing",
+		"translated": true
+	},
+	"Factures Recettes": {
+		"message": "Recipe Bills",
+		"translated": true
+	},
+	"Liste": {
+		"message": "List",
+		"translated": true
+	},
+	"Ouverture / Clôture d'exercice ": {
+		"message": "Opening / Closing of exercise ",
+		"translated": true
+	},
+	"Customisation": {
+		"message": "Customization",
+		"translated": true
+	},
+	"Champs personnalisables": {
+		"message": "Customizable fields",
+		"translated": true
+	},
+	"Codifications": {
+		"message": "Codifications",
+		"translated": true
+	},
+	"Paramétrage TMA": {
+		"message": "TMA settings",
+		"translated": true
+	},
+	"Echéanciers TMA": {
+		"message": "TMA Echelons",
+		"translated": true
+	},
+	"Aides à la vente par Tranche Commerciale": {
+		"message": "Sales aids by Commercial Slice",
+		"translated": true
+	},
+	"Echéanciers": {
+		"message": "Echeanciers",
+		"translated": true
+	},
+	"Echéanciers par Tranche Commerciale": {
+		"message": "Echeanciers by Commercial Slice",
+		"translated": true
+	},
+	"Liste de frais financiers internes": {
+		"message": "List of internal financial expenses",
+		"translated": true
+	},
+	"Frais financiers internes": {
+		"message": "Internal financial expenses",
+		"translated": true
+	},
+	"Home": {
+		"message": "Home",
+		"translated": true
+	},
+	"Ecran pièce comptable": {
+		"message": "Accounting coin screen",
+		"translated": true
+	},
+	"Ecran detail calcul FNP stockable": {
+		"message": "Detail screen calculation FNP stockable",
+		"translated": true
+	},
+	"Ecran detail calcul FNP non stockable": {
+		"message": "Non-stockable FNP calculation detail screen",
+		"translated": true
+	},
+	"Ecran de frais financier": {
+		"message": "Financial expense screen",
+		"translated": true
+	},
+	"Ecran pièces comptables": {
+		"message": "Screen accounting documents",
+		"translated": true
+	},
+	"Ecran detail frais financiers": {
+		"message": "Details screen financial expenses",
+		"translated": true
+	},
+	"Choix Echéanciers": {
+		"message": "Choice Of Timers",
+		"translated": true
+	},
+	"Détail libre": {
+		"message": "Free detail",
+		"translated": true
+	},
+	"Catalogue": {
+		"message": "Catalog",
+		"translated": true
+	},
+	"Lancer la facturation": {
+		"message": "Start billing",
+		"translated": true
+	},
+	"Détail de calcul": {
+		"message": "Computational detail",
+		"translated": true
+	},
+	"Reprise de Référentiel Planning": {
+		"message": "Resuming Planning Repository",
+		"translated": true
+	},
+	"Passage des opérations du statut « lancé » à « achevé»": {
+		"message": "Switching operations from \"launched\" to \"completed\"",
+		"translated": true
+	},
+	"Saisie de la date d'achèvement comptable": {
+		"message": "Entering the accounting completion date",
+		"translated": true
+	},
+	"Date achèvement comptable": {
+		"message": "Accounting completion date",
+		"translated": true
+	},
+	"Délai entre réservation et vente (mois)": {
+		"message": "Time between booking and sale (month)",
+		"translated": true
+	},
+	"Délai encaissement appel de fonds (jours)": {
+		"message": "Cashing out money (days)",
+		"translated": true
+	},
+	"Code société": {
+		"message": "Company code",
+		"translated": true
+	},
+	"Classeur sociétés": {
+		"message": "Corporate classer",
+		"translated": true
+	},
+	"filtre de l'objet": {
+		"message": "object filter",
+		"translated": true
+	},
+	"filtre du thème de l'objet": {
+		"message": "filter the theme of the object",
+		"translated": true
+	},
+	"filtre du type de document de l'objet": {
+		"message": "filters the object's document type",
+		"translated": true
+	},
+	"Document": {
+		"message": "Document",
+		"translated": true
+	},
+	"Lien d'upload d'un fichier": {
+		"message": "Upload link of a file",
+		"translated": true
+	},
+	"Nouveau": {
+		"message": "New",
+		"translated": true
+	},
+	"enumListDef": {
+		"message": "enumListDef",
+		"translated": true
+	},
+	"Objet": {
+		"message": "Object",
+		"translated": true
+	},
+	"Libellé de l'objet": {
+		"message": "Labeled the object",
+		"translated": true
+	},
+	"Thème de l'objet": {
+		"message": "Object theme",
+		"translated": true
+	},
+	"Code du document": {
+		"message": "Document code",
+		"translated": true
+	},
+	"Nom du document": {
+		"message": "Document name",
+		"translated": true
+	},
+	"Date de modification": {
+		"message": "Change date",
+		"translated": true
+	},
+	"Type de document": {
+		"message": "Type of document",
+		"translated": true
+	},
+	"Reférence de fichier": {
+		"message": "File reference",
+		"translated": true
+	},
+	"Extension de fichier": {
+		"message": "File extension",
+		"translated": true
+	},
+	"Lien du fichier": {
+		"message": "File link",
+		"translated": true
+	},
+	"Gantt Data": {
+		"message": "Gantt Data",
+		"translated": true
+	},
+	"Utiliser modèle par défaut": {
+		"message": "Use default model",
+		"translated": true
+	},
+	"Libellé de l'adresse": {
+		"message": "Labeled address",
+		"translated": true
+	},
+	"Adresse principale": {
+		"message": "Main address",
+		"translated": true
+	},
+	"Modifier la domiciliation bancaire": {
+		"message": "Changing bank domicile",
+		"translated": true
+	},
+	"Supprimer la domiciliation bancaire": {
+		"message": "Delete bank domicile",
+		"translated": true
+	},
+	"Passer en domiciliation principale": {
+		"message": "Go into main residence",
+		"translated": true
+	},
+	"Domiciliation hors de la zone SEPA": {
+		"message": "Domicile outside the SEPA zone",
+		"translated": true
+	},
+	"BIC": {
+		"message": "Bic",
+		"translated": true
+	},
+	"Titulaire du compte": {
+		"message": "Account holder",
+		"translated": true
+	},
+	"Créer": {
+		"message": "Create",
+		"translated": true
+	},
+	"Modifier le représentant": {
+		"message": "Change the representative",
+		"translated": true
+	},
+	"Supprimer le représentant": {
+		"message": "Delete the representative",
+		"translated": true
+	},
+	"Passer en représentant principal": {
+		"message": "Go into senior representative",
+		"translated": true
+	},
+	"répresentant principal": {
+		"message": "Mainly representing",
+		"translated": true
+	},
+	"Profession": {
+		"message": "Profession",
+		"translated": true
+	},
+	"Date de naissance": {
+		"message": "Date of birth",
+		"translated": true
+	},
+	"Liste des tiers": {
+		"message": "List of third parties",
+		"translated": true
+	},
+	"Tiers Actif": {
+		"message": "Third Asset",
+		"translated": true
+	},
+	"Appartient au groupe": {
+		"message": "Belongs to the group",
+		"translated": true
+	},
+	"Référence externe": {
+		"message": "External reference",
+		"translated": true
+	},
+	"Observations": {
+		"message": "Comments",
+		"translated": true
+	},
+	"Numéro RCS": {
+		"message": "RCS number",
+		"translated": true
+	},
+	"Tribunal de commerce": {
+		"message": "Commercial Court",
+		"translated": true
+	},
+	"N° TVA Intracommunautaire": {
+		"message": "Intra-Community VAT",
+		"translated": true
+	},
+	"Objet de l'entreprise": {
+		"message": "The company's purpose",
+		"translated": true
+	},
+	"Début d'activité": {
+		"message": "Start of activity",
+		"translated": true
+	},
+	"Date de fermeture": {
+		"message": "Closing date",
+		"translated": true
+	},
+	"Representant": {
+		"message": "Representative",
+		"translated": true
+	},
+	"Domiciliation": {
+		"message": "Direct debit",
+		"translated": true
+	},
+	"Lieu de naissance": {
+		"message": "Place of birth",
+		"translated": true
+	},
+	"Création d'un tiers": {
+		"message": "Creating a third party",
+		"translated": true
+	},
+	"Identification": {
+		"message": "Identification",
+		"translated": true
+	},
+	"Suivi": {
+		"message": "Followed",
+		"translated": true
+	},
+	"Représentants": {
+		"message": "Representatives",
+		"translated": true
+	},
+	"Informations juridiques": {
+		"message": "Legal information",
+		"translated": true
+	},
+	"Inline Liste Tiers": {
+		"message": "Inline Third List",
+		"translated": true
+	},
+	"Portail Tiers": {
+		"message": "Third Portal",
+		"translated": true
+	},
+	"Liste de documents": {
+		"message": "List of documents",
+		"translated": true
+	},
+	"Reporter la valeur sur les X prochains mois": {
+		"message": "Postponing the value over the next X months",
+		"translated": true
+	},
+	"Date de livraison TC": {
+		"message": "TC delivery date",
+		"translated": true
+	},
+	"N° de dossier": {
+		"message": "File Number",
+		"translated": true
+	},
+	"N° du lot": {
+		"message": "Lot No.",
+		"translated": true
+	},
+	"Date de réservation": {
+		"message": "Booking date",
+		"translated": true
+	},
+	"Date d'envoi du contrat": {
+		"message": "Contract date",
+		"translated": true
+	},
+	"Date de report livraison (client)": {
+		"message": "Delivery postponement date (customer)",
+		"translated": true
+	},
+	"Retard (en jours)": {
+		"message": "Delay (in days)",
+		"translated": true
+	},
+	"Montant des indemnités": {
+		"message": "Amount of allowances",
+		"translated": true
+	},
+	"Montant dû des appels de fond": {
+		"message": "Amount due to ground calls",
+		"translated": true
+	},
+	"TT/TC": {
+		"message": "TT/TC",
+		"translated": true
+	},
+	"Planning": {
+		"message": "Planning",
+		"translated": true
+	},
+	"Date d'échéance": {
+		"message": "Due date",
+		"translated": true
+	},
+	"pour ajouter un document, selectionner le théme et l'objet": {
+		"message": "to add a document, select the theme and the object",
+		"translated": true
+	},
+	"Délai de réalisation": {
+		"message": "Time to complete",
+		"translated": true
+	},
+	"Dans le suivi de dossier à la création du dossier": {
+		"message": "In the follow-up of the file at the creation of the file",
+		"translated": true
+	},
+	"Administrative": {
+		"message": "Administrative",
+		"translated": true
+	},
+	"Actions conditionnées": {
+		"message": "Packaged shares",
+		"translated": true
+	},
+	"Enums": {
+		"message": "Enums",
+		"translated": true
+	},
+	"Ouvrir procédure": {
+		"message": "Open procedure",
+		"translated": true
+	},
+	"Code de la procédure": {
+		"message": "Procedure Code",
+		"translated": true
+	},
+	"Libellé de la procédure": {
+		"message": "Procedure labeled",
+		"translated": true
+	},
+	"Utiliser un acteur existant": {
+		"message": "Using an existing actor",
+		"translated": true
+	},
+	"Statut de l'acteur": {
+		"message": "Actor status",
+		"translated": true
+	},
+	"Intervenant unique": {
+		"message": "Single speaker",
+		"translated": true
+	},
+	"Acteur localisable": {
+		"message": "Localisable actor",
+		"translated": true
+	},
+	"Acteur": {
+		"message": "Actor",
+		"translated": true
+	},
+	"Utiliser une action existante": {
+		"message": "Use an existing action",
+		"translated": true
+	},
+	"Placer l'action après la ligne séléctionné": {
+		"message": "Place the action after the selected line",
+		"translated": true
+	},
+	"Utiliser une étape existante": {
+		"message": "Use an existing step",
+		"translated": true
+	},
+	"Placer l'étape après la ligne séléctionné": {
+		"message": "Place the step after the selected line",
+		"translated": true
+	},
+	"Domaine": {
+		"message": "Field",
+		"translated": true
+	},
+	"Visibilité externe": {
+		"message": "External visibility",
+		"translated": true
+	},
+	"Date début de validité": {
+		"message": "Date beginning of validity",
+		"translated": true
+	},
+	"Date fin de validité": {
+		"message": "End of validity date",
+		"translated": true
+	},
+	"Etape": {
+		"message": "Step",
+		"translated": true
+	},
+	"Dissocier Acteur": {
+		"message": "Dissociate Actor",
+		"translated": true
+	},
+	"Monter": {
+		"message": "Mount",
+		"translated": true
+	},
+	"Descendre": {
+		"message": "Down",
+		"translated": true
+	},
+	"Suivi Dossier à sa création": {
+		"message": "Tracking File at its creation",
+		"translated": true
+	},
+	"Tranches commerciales": {
+		"message": "Commercial slices",
+		"translated": true
+	},
+	"Code analytique du programme": {
+		"message": "Program analytical code",
+		"translated": true
+	},
+	"Code SMO": {
+		"message": "Code SMO",
+		"translated": true
+	},
+	"Activite": {
+		"message": "Activity",
+		"translated": true
+	},
+	"Nature des travaux": {
+		"message": "The nature of the work",
+		"translated": true
+	},
+	"Type programme": {
+		"message": "Program type",
+		"translated": true
+	},
+	"Type financement": {
+		"message": "Type financing",
+		"translated": true
+	},
+	"Régime fiscal": {
+		"message": "Tax",
+		"translated": true
+	},
+	"Niveau de livraison": {
+		"message": "Delivery level",
+		"translated": true
+	},
+	"Mode intervention": {
+		"message": "Intervention mode",
+		"translated": true
+	},
+	"Financement origine": {
+		"message": "Origin funding",
+		"translated": true
+	},
+	"Construction sur sol autrui (O/N)": {
+		"message": "Construction on other ground (O/N)",
+		"translated": true
+	},
+	"Annee": {
+		"message": "Year",
+		"translated": true
+	},
+	"Création secteur distinct": {
+		"message": "Separate sector creation",
+		"translated": true
+	},
+	"Structure": {
+		"message": "Structure",
+		"translated": true
+	},
+	"Identifiant Nature - type ouvrage": {
+		"message": "Nature ID - book type",
+		"translated": true
+	},
+	"Poste budgétaire de vente": {
+		"message": "Sales budget position",
+		"translated": true
+	},
+	"EstTranche": {
+		"message": "IsTranche",
+		"translated": true
+	},
+	"ExisteGP": {
+		"message": "ExistGP",
+		"translated": true
+	},
+	"Surface de base": {
+		"message": "Base surface",
+		"translated": true
+	},
+	"SurfVendu": {
+		"message": "SurfVendu",
+		"translated": true
+	},
+	"RatioSurfVB": {
+		"message": "RatioSurfVB",
+		"translated": true
+	},
+	"optionTva": {
+		"message": "optionTva",
+		"translated": true
+	},
+	"reparTvaMarge": {
+		"message": "reparTvaMarge",
+		"translated": true
+	},
+	"posteTvaMarge": {
+		"message": "postTvaMarge",
+		"translated": true
+	},
+	"idProced": {
+		"message": "idProced",
+		"translated": true
+	},
+	"PosteDation": {
+		"message": "PostDation",
+		"translated": true
+	},
+	"Adresse 1": {
+		"message": "Address 1",
+		"translated": true
+	},
+	"Adresse 2": {
+		"message": "Address 2",
+		"translated": true
+	},
+	"Adresse 3": {
+		"message": "Address 3",
+		"translated": true
+	},
+	"Rendement": {
+		"message": "Performance",
+		"translated": true
+	},
+	"Surface à vendre": {
+		"message": "Surface for sale",
+		"translated": true
+	},
+	"Lot principal": {
+		"message": "Main lot",
+		"translated": true
+	},
+	"Lot secondaire": {
+		"message": "Secondary lot",
+		"translated": true
+	},
+	"Id type lot": {
+		"message": "Id type lot",
+		"translated": true
+	},
+	"Code programme": {
+		"message": "Program code",
+		"translated": true
+	},
+	"Type de lot": {
+		"message": "Lot type",
+		"translated": true
+	},
+	"IdTypologie": {
+		"message": "IdTypology",
+		"translated": true
+	},
+	"Nature du lot": {
+		"message": "Nature of the lot",
+		"translated": true
+	},
+	"Nombre": {
+		"message": "Number",
+		"translated": true
+	},
+	"SHAB(m²) par lot": {
+		"message": "SHAB (m2) per lot",
+		"translated": true
+	},
+	"SHAB(m²) totale": {
+		"message": "Total SHAB (m2)",
+		"translated": true
+	},
+	"Surface utile": {
+		"message": "Useful surface",
+		"translated": true
+	},
+	"Surface terrain": {
+		"message": "Field surface",
+		"translated": true
+	},
+	"Rentabilité": {
+		"message": "Profitability",
+		"translated": true
+	},
+	"Prix unitaire HT / lot": {
+		"message": "HT unit price/lot",
+		"translated": true
+	},
+	"Prix unitaire TTC / lot": {
+		"message": "TTC unit price/lot",
+		"translated": true
+	},
+	"Prix unitaire HT SHAB(m²)": {
+		"message": "HT SHAB unit price (m2)",
+		"translated": true
+	},
+	"Prix unitaire TTC SHAB(m²)": {
+		"message": "TTC SHAB unit price (m2)",
+		"translated": true
+	},
+	"Loyer HT Annuel / m²": {
+		"message": "Annual HT Rent/m2",
+		"translated": true
+	},
+	"Loyer TTC Annuel / m²": {
+		"message": "Annual TTC Rent/m2",
+		"translated": true
+	},
+	"Surface utile par lot": {
+		"message": "Useful surface per batch",
+		"translated": true
+	},
+	"Surface utile totale": {
+		"message": "Total useful area",
+		"translated": true
+	},
+	"Prix unitaire HT": {
+		"message": "HT unit price",
+		"translated": true
+	},
+	"Prix unitaire TTC": {
+		"message": "TTC unit price",
+		"translated": true
+	},
+	"Prix HT / m²": {
+		"message": "Price HT/ m2",
+		"translated": true
+	},
+	"Prix TTC / m²": {
+		"message": "Price TTC/m2",
+		"translated": true
+	},
+	"Typologie": {
+		"message": "Type",
+		"translated": true
+	},
+	"Code programme GF": {
+		"message": "GF Program Code",
+		"translated": true
+	},
+	"Type ouvrage": {
+		"message": "Book type",
+		"translated": true
+	},
+	"Etape Budgétaire": {
+		"message": "Budget stage",
+		"translated": true
+	},
+	"TypeComm": {
+		"message": "TypeComm",
+		"translated": true
+	},
+	"IdOp": {
+		"message": "IdOp",
+		"translated": true
+	},
+	"Code analytique": {
+		"message": "Analytical code",
+		"translated": true
+	},
+	"Surface terrain en m²": {
+		"message": "Surface land in m2",
+		"translated": true
+	},
+	"Par Défaut": {
+		"message": "Default",
+		"translated": true
+	},
+	"Type Tva": {
+		"message": "Type Tva",
+		"translated": true
+	},
+	"TN": {
+		"message": "Tn",
+		"translated": true
+	},
+	"TR": {
+		"message": "Tr",
+		"translated": true
+	},
+	"TI": {
+		"message": "It",
+		"translated": true
+	},
+	"Procédure": {
+		"message": "Procedure",
+		"translated": true
+	},
+	" {{tiersTitle}} ": {
+		"message": " 'thirdTitle' ",
+		"translated": true
+	},
+	"Caractéristiques": {
+		"message": "Characteristics",
+		"translated": true
+	},
+	"Calcul surface à vendre": {
+		"message": "Surface calculation for sale",
+		"translated": true
+	},
+	"Lots principaux": {
+		"message": "Main lots",
+		"translated": true
+	},
+	"Procédures": {
+		"message": "Procedures",
+		"translated": true
+	},
+	"Saisie en masse dossiers clients": {
+		"message": "Mass seizure of customer files",
+		"translated": true
+	},
+	"Fiche tranche commerciale": {
+		"message": "Trade slice sheet",
+		"translated": true
+	},
+	"Typologie tranche commerciale": {
+		"message": "Typology slice commercial",
+		"translated": true
+	},
+	"Fiche tranche travaux": {
+		"message": "Work slice sheet",
+		"translated": true
+	},
+	"Reprise de Planning Spo": {
+		"message": "Resuming Planning Spo",
+		"translated": true
+	},
+	"Opération accession": {
+		"message": "Operation Accession",
+		"translated": true
+	},
+	"Versions": {
+		"message": "Versions",
+		"translated": true
+	},
+	"Libellé opération": {
+		"message": "Labeled operation",
+		"translated": true
+	},
+	"CodePostal": {
+		"message": "CodePostal",
+		"translated": true
+	},
+	"NomVille": {
+		"message": "NameVille",
+		"translated": true
+	},
+	"Position géographique": {
+		"message": "Location",
+		"translated": true
+	},
+	"Référence interne": {
+		"message": "Internal reference",
+		"translated": true
+	},
+	"Modèle de budget": {
+		"message": "Budget model",
+		"translated": true
+	},
+	"Référence GED": {
+		"message": "GED reference",
+		"translated": true
+	},
+	"Note": {
+		"message": "Note",
+		"translated": true
+	},
+	"Modèles": {
+		"message": "Models",
+		"translated": true
+	},
+	"Liaison": {
+		"message": "Association",
+		"translated": true
+	},
+	"Procédure enfant": {
+		"message": "Child procedure",
+		"translated": true
+	},
+	"Procédure parent": {
+		"message": "Parenting",
+		"translated": true
+	},
+	"Code étape": {
+		"message": "Step code",
+		"translated": true
+	},
+	"Numéro d'ordre": {
+		"message": "Order number",
+		"translated": true
+	},
+	"Date réalisée": {
+		"message": "Date completed",
+		"translated": true
+	},
+	"Option tva": {
+		"message": "Vat option",
+		"translated": true
+	},
+	"TVA classique": {
+		"message": "Classic VAT",
+		"translated": true
+	},
+	"TVA sur marge inclus": {
+		"message": "VAT on margin included",
+		"translated": true
+	},
+	"TVA sur marge non inclus": {
+		"message": "VAT on margin not included",
+		"translated": true
+	},
+	"Type de surface de base": {
+		"message": "Basic surface type",
+		"translated": true
+	},
+	"Surface de plancher de base": {
+		"message": "Basic floor area",
+		"translated": true
+	},
+	"SHAB de base": {
+		"message": "Basic SHAB",
+		"translated": true
+	},
+	"Surface terrain de base": {
+		"message": "Base field area",
+		"translated": true
+	},
+	"Type de surface vendue": {
+		"message": "Type of surface sold",
+		"translated": true
+	},
+	"Modification Typo": {
+		"message": "Modification Typo",
+		"translated": true
+	},
+	"Surface vendue / lot": {
+		"message": "Surface sold / lot",
+		"translated": true
+	},
+	"Surface vendue": {
+		"message": "Surface sold",
+		"translated": true
+	},
+	"Prix unitaire HT (m²)": {
+		"message": "HT unit price (m2)",
+		"translated": true
+	},
+	"Prix unitaire TTC (m²)": {
+		"message": "TTC unit price (m2)",
+		"translated": true
+	},
+	"Surface utile / lot": {
+		"message": "Useful surface / lot",
+		"translated": true
+	},
+	"Randement": {
+		"message": "Randement",
+		"translated": true
+	},
+	"Surface totale vendue": {
+		"message": "Total area sold",
+		"translated": true
+	},
+	"Nombre lots principaux": {
+		"message": "Number of main lots",
+		"translated": true
+	},
+	"Nombre lots secondaires": {
+		"message": "Number of secondary lots",
+		"translated": true
+	},
+	"Marge": {
+		"message": "Margin",
+		"translated": true
+	},
+	"Taux de marge": {
+		"message": "Margin rate",
+		"translated": true
+	},
+	"Date d'arrêté": {
+		"message": "Arrested date",
+		"translated": true
+	},
+	"Statut de version": {
+		"message": "Version status",
+		"translated": true
+	},
+	"Faire une copie": {
+		"message": "Make a copy",
+		"translated": true
+	},
+	"Filtre Statut": {
+		"message": "Status Filter",
+		"translated": true
+	},
+	"Filtre Libellé": {
+		"message": "Labeled filter",
+		"translated": true
+	},
+	"Archiver": {
+		"message": "Archive",
+		"translated": true
+	},
+	"Numéro de version": {
+		"message": "Version number",
+		"translated": true
+	},
+	"Date dernière modification": {
+		"message": "Last change date",
+		"translated": true
+	},
+	"Date archive": {
+		"message": "Archive date",
+		"translated": true
+	},
+	"Version parent": {
+		"message": "Parent version",
+		"translated": true
+	},
+	"Type de version": {
+		"message": "Version type",
+		"translated": true
+	},
+	"Statut de la version": {
+		"message": "Status of the version",
+		"translated": true
+	},
+	"Utilisateur créateur": {
+		"message": "Creative user",
+		"translated": true
+	},
+	"Utilisateur modificateur": {
+		"message": "User modifier",
+		"translated": true
+	},
+	"Commentaire automatique": {
+		"message": "Automatic comment",
+		"translated": true
+	},
+	"Liaison procédures dans le planning": {
+		"message": "Link procedures in planning",
+		"translated": true
+	},
+	"Suivi de dossier": {
+		"message": "File tracking",
+		"translated": true
+	},
+	"Fiche Opération": {
+		"message": "Operation Sheet",
+		"translated": true
+	},
+	"Mot de passe": {
+		"message": "Password",
+		"translated": true
+	},
+	"Le mot de passe est obligatoire": {
+		"message": "The password is obligatory",
+		"translated": true
+	},
+	"Modification du mot de passe à la prochaine ouverture de session": {
+		"message": "Changing the password at the next login",
+		"translated": true
+	},
+	"L'utilisateur ne peut pas changer de mot de passe": {
+		"message": "The user cannot change passwords",
+		"translated": true
+	},
+	"Le mot de passe n'expire jamais": {
+		"message": "The password never expires",
+		"translated": true
+	},
+	"Nombre de caractères obligatoires": {
+		"message": "Number of characters required",
+		"translated": true
+	},
+	"Date du dernier changement de mot de passe": {
+		"message": "Last password change date",
+		"translated": true
+	},
+	"Date du prochain changement de mot de passe": {
+		"message": "Date of next password change",
+		"translated": true
+	},
+	"jour": {
+		"message": "Day",
+		"translated": true
+	},
+	"semaine": {
+		"message": "Week",
+		"translated": true
+	},
+	"mois": {
+		"message": "Month",
+		"translated": true
+	},
+	"annee": {
+		"message": "Year",
+		"translated": true
+	},
+	"Intervalle de changement de mot de passe": {
+		"message": "Password change interval",
+		"translated": true
+	},
+	"Confirmation du mot de passe": {
+		"message": "Password confirmation",
+		"translated": true
+	},
+	"Coût d’acquisition": {
+		"message": "Acquisition cost",
+		"translated": true
+	},
+	"Annuler TVA forcée": {
+		"message": "Cancel VAT forced",
+		"translated": true
+	},
+	"Poste budgétaire vente": {
+		"message": "Budget post sale",
+		"translated": true
+	},
+	"Répartition": {
+		"message": "Distribution",
+		"translated": true
+	},
+	"Tantième": {
+		"message": "Auntultimate",
+		"translated": true
+	},
+	"Poste budgétaire TVA sur marge": {
+		"message": "VAT budget on margin",
+		"translated": true
+	},
+	"Poste budgétaire dation": {
+		"message": "Budget position dation",
+		"translated": true
+	},
+	"Lot(s) concerné(s)": {
+		"message": "Lot (s) concerned",
+		"translated": true
+	},
+	"Poste": {
+		"message": "Post",
+		"translated": true
+	},
+	"Méthode TVA sur Marge": {
+		"message": "VAT method on Margin",
+		"translated": true
+	},
+	"au global": {
+		"message": "globally",
+		"translated": true
+	},
+	"par lot": {
+		"message": "per lot",
+		"translated": true
+	},
+	"Surface / lot": {
+		"message": "Surface /lot",
+		"translated": true
+	},
+	"Loyer HT Mensuel / m²": {
+		"message": "Monthly HT Rent/m2",
+		"translated": true
+	},
+	"Loyer TTC Mensuel / m²": {
+		"message": "Monthly TTC Rent/m2",
+		"translated": true
+	},
+	"Créer la grille de prix": {
+		"message": "Create the price grid",
+		"translated": true
+	},
+	"Supprimer la grille de prix": {
+		"message": "Delete the price grid",
+		"translated": true
+	},
+	"CP": {
+		"message": "Cp",
+		"translated": true
+	},
+	"Commune": {
+		"message": "Common",
+		"translated": true
+	},
+	"Acceder à la grille de prix": {
+		"message": "Acceder to the price grid",
+		"translated": true
+	},
+	"Aides à la vente pour la tranche commerciale {{libelle}}": {
+		"message": "Sales aid for the commercial tranche 'libelle'",
+		"translated": true
+	},
+	"Synthèse": {
+		"message": "Synthesis",
+		"translated": true
+	},
+	"codeGroupe": {
+		"message": "codeGroup",
+		"translated": true
+	},
+	"codeRole": {
+		"message": "codeRole",
+		"translated": true
+	},
+	"codeUnite": {
+		"message": "Uncode",
+		"translated": true
+	},
+	"Nombre minimum de caractères": {
+		"message": "Minimum number of characters",
+		"translated": true
+	},
+	"Montant dation HT": {
+		"message": "Amount dation HT",
+		"translated": true
+	},
+	"Montant dation TTC": {
+		"message": "Amount dation TTC",
+		"translated": true
+	},
+	"Marge taxable": {
+		"message": "Taxable margin",
+		"translated": true
+	},
+	"Image url": {
+		"message": "Image url",
+		"translated": true
+	},
+	"Type de procédure": {
+		"message": "Type of procedure",
+		"translated": true
+	},
+	"Prêteur": {
+		"message": "Lender",
+		"translated": true
+	},
+	"N° de l'acte de vente": {
+		"message": "No. of the deed of sale",
+		"translated": true
+	},
+	"Période comptable": {
+		"message": "Accounting period",
+		"translated": true
+	},
+	"Date de livraison prévisionnelle": {
+		"message": "Forecast delivery date",
+		"translated": true
+	},
+	"report TVA en fin d'Opération": {
+		"message": "VAT deferral at the end of the transaction",
+		"translated": true
+	},
+	"Établissement bancaire": {
+		"message": "Banking institution",
+		"translated": true
+	},
+	"Service": {
+		"message": "Service",
+		"translated": true
+	},
+	"APE": {
+		"message": "Epa",
+		"translated": true
+	},
+	"INSEE": {
+		"message": "Insee",
+		"translated": true
+	},
+	"Role": {
+		"message": "Role",
+		"translated": true
+	},
+	"Compte créditeur": {
+		"message": "Credit account",
+		"translated": true
+	},
+	"Compte débiteur": {
+		"message": "Account receivable",
+		"translated": true
+	},
+	"Nationalité": {
+		"message": "Nationality",
+		"translated": true
+	},
+	"Situation familiale": {
+		"message": "Family situation",
+		"translated": true
+	},
+	"Employeur": {
+		"message": "Employer",
+		"translated": true
+	},
+	"Frais notaire": {
+		"message": "Notary fees",
+		"translated": true
+	},
+	"Méthode de saisie loyer": {
+		"message": "Rent foreclosure method",
+		"translated": true
+	},
+	"Annuel": {
+		"message": "Annual",
+		"translated": true
+	},
+	"Mensuel": {
+		"message": "Monthly",
+		"translated": true
+	},
+	"Ancienne valeur pour retour arrière de avancement travaux": {
+		"message": "Ancient value for backward advancement works",
+		"translated": true
+	},
+	"Message de confirmation pour changement de avancement travaux": {
+		"message": "Confirmation message for progress change work",
+		"translated": true
+	},
+	"Active": {
+		"message": "Active",
+		"translated": true
+	},
+	"Impossible de répartir les budgets et les dépenses": {
+		"message": "Unable to allocate budgets and expenditures",
+		"translated": true
+	},
+	"Suivi budgetaire": {
+		"message": "Budget tracking",
+		"translated": true
+	},
+	"Trésorerie": {
+		"message": "Cash",
+		"translated": true
+	},
+	"Rapport Externe": {
+		"message": "External report",
+		"translated": true
+	},
+	"TC - paramétrage générique": {
+		"message": "TC - generic setting",
+		"translated": true
+	},
+	"TC - paramétrage codifs": {
+		"message": "TC - codif settings",
+		"translated": true
+	},
+	"Synthese": {
+		"message": "Synthesis",
+		"translated": true
+	},
+	"Map": {
+		"message": "Map",
+		"translated": true
+	},
+	"Voir mot de passe": {
+		"message": "See password",
+		"translated": true
+	},
+	"Indicateurs": {
+		"message": "Indicators",
+		"translated": true
+	},
+	"Filtrer les UO actives": {
+		"message": "Filter active UOs",
+		"translated": true
+	},
+	"Saisir un nouveau mot de passe": {
+		"message": "Enter a new password",
+		"translated": true
+	},
+	"Rythme de commercialisation": {
+		"message": "Marketing rhythm",
+		"translated": true
+	},
+	"Saisie rythme modal": {
+		"message": "Modal rhythm capture",
+		"translated": true
+	},
+	"Rythme moyen": {
+		"message": "Average rhythm",
+		"translated": true
+	},
+	"Délai moyen réservation vente (mois)": {
+		"message": "Average booking time sale (months)",
+		"translated": true
+	},
+	"Synchronisation CRM": {
+		"message": "CRM synchronization",
+		"translated": true
+	},
+	"Echéanciers type pour la tranche commerciale {{libelle}}": {
+		"message": "Typical marketers for the commercial slice 'libelle'",
+		"translated": true
+	},
+	"Liste des documents correspondants": {
+		"message": "List of corresponding documents",
+		"translated": true
+	},
+	"Verrous": {
+		"message": "Locks",
+		"translated": true
+	},
+	"Sur fond gris si prévisionnelle (date ramenée du planning ou du dossier client), sur fond vert si réelle (1ère date de réservation d'un dossier client)": {
+		"message": "On a grey background if forecast (date brought back from the schedule or customer file), on a green background so real (1st date of booking a customer file)",
+		"translated": true
+	},
+	"Sur fond gris si prévisionnelle (date ramenée du planning ou du dossier client), sur fond vert si réelle (1ère date de vente d'un dossier client)": {
+		"message": "On a grey background if forecast (date brought back from the schedule or customer file), on a green background so real (1st date of sale of a customer file)",
+		"translated": true
+	},
+	"Date ramenée du planning. Sur fond gris si prévisionnele, sur fond vert si réelle.": {
+		"message": "Date brought back from the schedule. On a grey background so forecast, on a green background so real.",
+		"translated": true
+	},
+	"Sur fond gris si prévisionnelle (date ramenée du planning ou du dossier client), sur fond vert si réelle (1ère date de livraison d'un dossier client)": {
+		"message": "On a grey background if forecast (date brought back from the schedule or customer file), on a green background so real (1st delivery date of a customer file)",
+		"translated": true
+	},
+	"Nombre de mois entre la date d'OS et la date de livraison": {
+		"message": "Number of months between OS date and delivery date",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux de la tranche commerciale, ou nombre ou m² de lots secondaires si la tranche commerciale ne comporte pas des lots principaux": {
+		"message": "Number or square metre of main lots in the commercial tranche, or number or square of secondary lots if the commercial tranche does not include principal lots",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux de la tranche commerciale": {
+		"message": "Number or square metre of main lots in the trade band",
+		"translated": true
+	},
+	"Nombre de mois entre la date de 1ère réservation et le mois courant ": {
+		"message": "Number of months between the date of 1st booking and the current month ",
+		"translated": true
+	},
+	"Nombre de mois entre le mois courant et le dernier mois sur lequel est prévu une réservation ": {
+		"message": "Number of months between the current month and the last month on which a booking is scheduled ",
+		"translated": true
+	},
+	"RVL / nombre de mois depuis la 1ère réservation": {
+		"message": "RVL / number of months since 1st booking",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux planifiés / durée restante de commercialisation": {
+		"message": "Number or square metre of planned main lots/remaining marketing time",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux au statut 'réservé', 'vendu' ou 'livré'": {
+		"message": "Number or square of main lots with 'reserved', 'sold' or 'delivered' status",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux planifiés": {
+		"message": "Number or square metre of planned main lots",
+		"translated": true
+	},
+	"Valorisation des réservations prévues et réelles de la tranche commerciale à la date d'OS / valorisation de la tranche commerciale": {
+		"message": "Valuation of planned and actual bookings of the commercial tranche on the date of OS / valuation of the commercial tranche",
+		"translated": true
+	},
+	"Valorisation des réservations prévues et réelles de la tranche travaux à la date d'OS / valorisation de la tranche travaux": {
+		"message": "Valuation of planned and actual bookings of the work tranche on the date of OS / valuation of the work tranche",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux en stock restant à planifier": {
+		"message": "Number or square metre of main lots in stock remaining to be planned",
+		"translated": true
+	},
+	"Nombre ou m² de lots principaux en stock restant à planifier avant le mois courant": {
+		"message": "Number or square metre of main lots in stock remaining to be planned before the current month",
+		"translated": true
+	},
+	"Tranche Travaux": {
+		"message": "Slice Works",
+		"translated": true
+	},
+	"Code analytique TT": {
+		"message": "TT analytic code",
+		"translated": true
+	},
+	"Avancement Travaux": {
+		"message": "Progress Works",
+		"translated": true
+	},
+	"Code analytique TC": {
+		"message": "TC analytic code",
+		"translated": true
+	},
+	"Synch. CRM": {
+		"message": "Synch. Crm",
+		"translated": true
+	},
+	"Reinitialiser": {
+		"message": "Reset",
+		"translated": true
+	},
+	"Historiser": {
+		"message": "Historiser",
+		"translated": true
+	},
+	"Operand 1": {
+		"message": "Operand 1",
+		"translated": true
+	},
+	"Operand 2": {
+		"message": "Operand 2",
+		"translated": true
+	},
+	"Result": {
+		"message": "Result",
+		"translated": true
+	},
+	"Text": {
+		"message": "Text",
+		"translated": true
+	},
+	"Date pose d'option": {
+		"message": "Option pose date",
+		"translated": true
+	},
+	"Date fin option": {
+		"message": "End option date",
+		"translated": true
+	},
+	"Tout cocher": {
+		"message": "Ticking everything",
+		"translated": true
+	},
+	"entité permettant l'accès aux échéanciers types par tranche commerciale": {
+		"message": "entity allowing access to standard schedules per commercial tranche",
+		"translated": true
+	},
+	"Poste budgétaire": {
+		"message": "Budget position",
+		"translated": true
+	},
+	"Surface GLA": {
+		"message": "Surface GLA",
+		"translated": true
+	},
+	"Date livraison prévisionnelle": {
+		"message": "Forecast delivery date",
+		"translated": true
+	},
+	"Favoris": {
+		"message": "Favorites",
+		"translated": true
+	},
+	"Latitude": {
+		"message": "Latitude",
+		"translated": true
+	},
+	"Longitude": {
+		"message": "Longitude",
+		"translated": true
+	},
+	"Code évènement": {
+		"message": "Event code",
+		"translated": true
+	},
+	"Renommer": {
+		"message": "Rename",
+		"translated": true
+	},
+	"Période d'arrêté": {
+		"message": "Period of arrest",
+		"translated": true
+	},
+	"Banque à partir d'une opération": {
+		"message": "Bank from a transaction",
+		"translated": true
+	},
+	"Afficher seulement le planning": {
+		"message": "Show only schedule",
+		"translated": true
+	},
+	"Ajouter une action après la ligne sélectionnée": {
+		"message": "Add action after selected line",
+		"translated": true
+	},
+	"Etapes facultatives": {
+		"message": "Optional steps",
+		"translated": true
+	},
+	"Ajout / suppression des étapes facultatives": {
+		"message": "Adding/deleting optional steps",
+		"translated": true
+	},
+	"Alerte": {
+		"message": "Alert",
+		"translated": true
+	},
+	"Pas de date prevu": {
+		"message": "No date provided",
+		"translated": true
+	},
+	"Realisé": {
+		"message": "Realized",
+		"translated": true
+	},
+	"En retard": {
+		"message": "Late",
+		"translated": true
+	},
+	"A venir": {
+		"message": "Coming soon",
+		"translated": true
+	},
+	"Code Procédure": {
+		"message": "Procedure Code",
+		"translated": true
+	},
+	"Ouvrage": {
+		"message": "Book",
+		"translated": true
+	},
+	"Principal/Secondaire": {
+		"message": "Principal/Secondary",
+		"translated": true
+	},
+	"Stade": {
+		"message": "Stage",
+		"translated": true
+	},
+	"Stade d'avancement Travaux": {
+		"message": "Progress Stage Works",
+		"translated": true
+	},
+	"Synchronisée CRM": {
+		"message": "Synchronized CRM",
+		"translated": true
+	},
+	"Créer Grille Prix": {
+		"message": "Create Price Grid",
+		"translated": true
+	},
+	"Supprimer Grille prix": {
+		"message": "Delete Price Grid",
+		"translated": true
+	},
+	"Libellé Opération": {
+		"message": "Labeled Operation",
+		"translated": true
+	},
+	"Surface Vendue": {
+		"message": "Surface Sold",
+		"translated": true
+	},
+	"Procédure tranche commerciale": {
+		"message": "Procedure in the commercial slice",
+		"translated": true
+	},
+	"Prix Figé": {
+		"message": "Price Figé",
+		"translated": true
+	},
+	"Unité Commercialisation": {
+		"message": "Marketing Unit",
+		"translated": true
+	},
+	"m2": {
+		"message": "m2",
+		"translated": true
+	},
+	"Type de Lot": {
+		"message": "Type de Lot",
+		"translated": true
+	},
+	"Filtre type version": {
+		"message": "Version type filter",
+		"translated": true
+	},
+	"Type de la version": {
+		"message": "Type of version",
+		"translated": true
+	},
+	"Champs paramétrables de l'opération {{libOperation}}": {
+		"message": "The settings of the operation 'libOperation'",
+		"translated": true
+	},
+	"Action {{libelle}}": {
+		"message": "Action 'libelle'",
+		"translated": true
+	},
+	"Dates libres": {
+		"message": "Free dates",
+		"translated": true
+	},
+	"Informations bancaires du compte": {
+		"message": "Bank account information",
+		"translated": true
+	},
+	"Nature Travaux {{libelle}}": {
+		"message": "Nature Works 'libelle'",
+		"translated": true
+	},
+	"Tranche commerciale {{lib}}": {
+		"message": "Commercial slice ' 'lib'",
+		"translated": true
+	},
+	"Autres informations": {
+		"message": "More information",
+		"translated": true
+	},
+	"Champs paramétrables de la tranche {{libTranche}}": {
+		"message": "Set-up fields of the 'libTranche' slice",
+		"translated": true
+	},
+	"Typologie pour la tranche commerciale {{lib}}": {
+		"message": "Typology for the commercial tranche 'lib'",
+		"translated": true
+	},
+	"Type Ouvrage {{libelle}}": {
+		"message": "Type Work 'libelle'",
+		"translated": true
+	},
+	"Locks": {
+		"message": "Locks",
+		"translated": true
+	},
+	"Actions": {
+		"message": "Actions",
+		"translated": true
+	},
+	"FNP détail": {
+		"message": "FNP detail",
+		"translated": true
+	},
+	"Tuiles ": {
+		"message": "Tiles ",
+		"translated": true
+	},
+	"Versions little-view": {
+		"message": "Little-view versions",
+		"translated": true
+	},
+	"Tuiles réservation": {
+		"message": "Booking tiles",
+		"translated": true
+	},
+	"Reservation TMA": {
+		"message": "Reservation TMA",
+		"translated": true
+	},
+	"Societes": {
+		"message": "Companies",
+		"translated": true
+	},
+	"Exercice Comptable": {
+		"message": "Accounting",
+		"translated": true
+	},
+	"Documents": {
+		"message": "Documents",
+		"translated": true
+	},
+	"Type Ouvrage": {
+		"message": "Type Work",
+		"translated": true
+	},
+	"Nature Travaux": {
+		"message": "Nature Works",
+		"translated": true
+	},
+	"Paramétrage avancement des tranches travaux": {
+		"message": "Setting up work slices advancement",
+		"translated": true
+	},
+	"OP - paramétrage codifs": {
+		"message": "OP - codif settings",
+		"translated": true
+	},
+	" Synchronisation avec CRM": {
+		"message": " Sync with CRM",
+		"translated": true
+	},
+	"Liste de frais financiers par tranche": {
+		"message": "List of financial expenses per instalment",
+		"translated": true
+	},
+	" Passage des opérations du statut «lancé» au staut «achevé»": {
+		"message": " Switching operations from 'launched' to 'completed' staut",
+		"translated": true
+	},
+	"Demo-Test": {
+		"message": "Demo-Test",
+		"translated": true
+	},
+	"Fiche extension opération": {
+		"message": "Operation extension sheet",
+		"translated": true
+	},
+	"Paramétrage de l'avancement des tranches travaux": {
+		"message": "Setting up the progress of the work slices",
+		"translated": true
+	},
+	"Fiche extension tranches": {
+		"message": "Slice extension sheet",
+		"translated": true
+	},
+	"Rythme": {
+		"message": "Rhythm",
+		"translated": true
+	},
+	"Encaissement Facture Recette": {
+		"message": "Cashing In Revenue Bill",
+		"translated": true
+	},
+	"Le tiers \"{0}\" n'existe pas dans le réferentiel tiers.": {
+		"message": "The third \"{0}\" does not exist in the third-party repository.",
+		"translated": true
+	},
+	"Gestion des modèles": {
+		"message": "Model management",
+		"translated": true
+	},
+	"Enregistrer la configuration": {
+		"message": "Save configuration",
+		"translated": true
+	},
+	"Annulation d'option": {
+		"message": "Option cancellation",
+		"translated": true
+	},
+	"Export au format excel": {
+		"message": "Export in excel format",
+		"translated": true
+	},
+	"Choix d'unité d'organisation": {
+		"message": "Choice of organizational unit",
+		"translated": true
+	},
+	"La modification de l'Unité d'Organisation peut impacter les droits d'accès .Êtes-vous sûr(e) de vouloir continuer ?": {
+		"message": "Changing the Organization Unit can affect access rights. Are you sure you want to keep going?",
+		"translated": true
+	},
+	"Aujourd'hui": {
+		"message": "Today",
+		"translated": true
+	},
+	"Un conflit s'est produit ... les modifications récentes ont été annulées.": {
+		"message": "A conflict has occurred ... recent changes have been reversed.",
+		"translated": true
+	},
+	"Période précédente": {
+		"message": "Previous period",
+		"translated": true
+	},
+	"Période suivante": {
+		"message": "Next period",
+		"translated": true
+	},
+	"Tout déplier": {
+		"message": "Unseat everything",
+		"translated": true
+	},
+	"Tout plier": {
+		"message": "Fold everything",
+		"translated": true
+	},
+	"Niveau de Zoom": {
+		"message": "Zoom level",
+		"translated": true
+	},
+	"Etapes et Jalons": {
+		"message": "Steps and Jalons",
+		"translated": true
+	},
+	"Etapes et Tâches": {
+		"message": "Steps and Tasks",
+		"translated": true
+	},
+	"Etapes": {
+		"message": "Steps",
+		"translated": true
+	},
+	"Tous": {
+		"message": "All",
+		"translated": true
+	},
+	"Filtre des symboles": {
+		"message": "Symbol filter",
+		"translated": true
+	},
+	"Ajuster": {
+		"message": "Adjust",
+		"translated": true
+	},
+	"Mettre en évidence le chemin critique": {
+		"message": "Highlighting the critical path",
+		"translated": true
+	},
+	"Rechercher par tâche": {
+		"message": "Search by task",
+		"translated": true
+	},
+	"Convertir en tâche": {
+		"message": "Convert to task",
+		"translated": true
+	},
+	"Convertir en jalon": {
+		"message": "Convert into milestone",
+		"translated": true
+	},
+	"Hauteur de la ligne": {
+		"message": "Height of the line",
+		"translated": true
+	},
+	"Espace tâche": {
+		"message": "Task space",
+		"translated": true
+	},
+	"Export": {
+		"message": "Export",
+		"translated": true
+	},
+	"Informations sur la tâche...": {
+		"message": "Information about the task...",
+		"translated": true
+	},
+	"Début du projet": {
+		"message": "Start of the project",
+		"translated": true
+	},
+	"Nouvelle tâche": {
+		"message": "New task",
+		"translated": true
+	},
+	"Nouveau jalon": {
+		"message": "New milestone",
+		"translated": true
+	},
+	"Semaine": {
+		"message": "Week",
+		"translated": true
+	},
+	"Année - Mois": {
+		"message": "Year - Month",
+		"translated": true
+	},
+	"Année - Trimestre": {
+		"message": "Year - Quarter",
+		"translated": true
+	},
+	"Années": {
+		"message": "Years",
+		"translated": true
+	},
+	"Stockholm": {
+		"message": "Stockholm",
+		"translated": true
+	},
+	"Sombre": {
+		"message": "Dark",
+		"translated": true
+	},
+	"Lumineux": {
+		"message": "Bright",
+		"translated": true
+	},
+	"Material": {
+		"message": "Material",
+		"translated": true
+	},
+	"Défaut": {
+		"message": "Defect",
+		"translated": true
+	},
+	"Attention : réalisation d'une date future.": {
+		"message": "Warning: achieving a future date.",
+		"translated": true
+	},
+	"Ajout nouvelle procédure": {
+		"message": "Adding new procedure",
+		"translated": true
+	},
+	"Duplication de la procédure \"{0}\"": {
+		"message": "Duplication of the \"{0}\" procedure",
+		"translated": true
+	},
+	"Ajout nouvelle étape": {
+		"message": "Adding new step",
+		"translated": true
+	},
+	"Ajout nouvelle action": {
+		"message": "Adding new action",
+		"translated": true
+	},
+	"Ajout nouvel acteur": {
+		"message": "Adding new actor",
+		"translated": true
+	},
+	"Modifier étape": {
+		"message": "Change step",
+		"translated": true
+	},
+	"Modifier action": {
+		"message": "Change action",
+		"translated": true
+	},
+	"Vous ne pouvez pas créer d'action s'il n'y a aucune étape sélectionnée.": {
+		"message": "You can't create action if there are no selected steps.",
+		"translated": true
+	},
+	"Vous pouvez attribuer seulement un acteur à une action.": {
+		"message": "You can assign only one actor to an action.",
+		"translated": true
+	},
+	"Ajout d'une action existante": {
+		"message": "Adding an existing action",
+		"translated": true
+	},
+	"Confirmez-vous la suppression de cette adresse ?": {
+		"message": "Do you confirm the deletion of this address?",
+		"translated": true
+	},
+	"Confirmez-vous la suppression de ce représentant ?": {
+		"message": "Do you confirm the removal of this representative?",
+		"translated": true
+	},
+	"Confirmez-vous la suppression de cette domiciliation ?": {
+		"message": "Do you confirm the removal of this domicile?",
+		"translated": true
+	},
+	"Contrôle d'existence de doublons": {
+		"message": "Double-the-duplicate existence control",
+		"translated": true
+	},
+	"Fermer l'écran des doublons sans enregistrer": {
+		"message": "Close the duplicate screen without recording",
+		"translated": true
+	},
+	"Ignorer les doublons et enregistrer le tiers": {
+		"message": "Ignore duplicates and save a third",
+		"translated": true
+	},
+	"\"Modifier\" stoppe la création/modification et vous redirige vers sa fiche.\nCliquez sur \"Enregistrer\" pour poursuivre votre création/modification.": {
+		"message": "\"Edit\" stops the creation/modification and redirects you to its listing.\nClick \"Save\" to continue your creation/modification.",
+		"translated": true
+	},
+	"Cliquez sur \"Enregistrer\" pour poursuivre votre création/modification.": {
+		"message": "Click \"Save\" to continue your creation/modification.",
+		"translated": true
+	},
+	"Copier la version": {
+		"message": "Copy the version",
+		"translated": true
+	},
+	"Archiver la version": {
+		"message": "Archive the version",
+		"translated": true
+	},
+	"Modifier la version": {
+		"message": "Change the version",
+		"translated": true
+	},
+	"Prevu": {
+		"message": "Planned",
+		"translated": true
+	},
+	"Propogation": {
+		"message": "Propogation",
+		"translated": true
+	},
+	"Propogation d'une action sur les opérations existantes": {
+		"message": "Propogation of an action on existing operations",
+		"translated": true
+	},
+	"Est version": {
+		"message": "Is version",
+		"translated": true
+	},
+	"Tranches locatives": {
+		"message": "Rental slices",
+		"translated": true
+	},
+	"Construction sur sol d'autrui": {
+		"message": "Building on the ground of others",
+		"translated": true
+	},
+	"Année de programmation": {
+		"message": "Year of programming",
+		"translated": true
+	},
+	"Etape budgétaire": {
+		"message": "Budget step",
+		"translated": true
+	},
+	"Type de programme": {
+		"message": "Program type",
+		"translated": true
+	},
+	"Activité": {
+		"message": "Activity",
+		"translated": true
+	},
+	"Financement d'origine": {
+		"message": "Origin funding",
+		"translated": true
+	},
+	"Nombre de logements démolis": {
+		"message": "Number of homes demolished",
+		"translated": true
+	},
+	"Collectif": {
+		"message": "Collective",
+		"translated": true
+	},
+	"Individuel": {
+		"message": "Individual",
+		"translated": true
+	},
+	"Autre": {
+		"message": "Other",
+		"translated": true
+	},
+	"Equiv.": {
+		"message": "Mr. Equiv.",
+		"translated": true
+	},
+	"Tranche locative": {
+		"message": "Rental slice",
+		"translated": true
+	},
+	"Surface corigée": {
+		"message": "Co-built surface",
+		"translated": true
+	},
+	"Nombre de logements avants": {
+		"message": "Number of front-units",
+		"translated": true
+	},
+	"Nombre de logements après": {
+		"message": "Number of dwellings after",
+		"translated": true
+	},
+	"Variation nombre de logements": {
+		"message": "Change in the number of dwellings",
+		"translated": true
+	},
+	"Après": {
+		"message": "After",
+		"translated": true
+	},
+	"Variation": {
+		"message": "Variation",
+		"translated": true
+	},
+	"Avant": {
+		"message": "Before",
+		"translated": true
+	},
+	"Surface dans oeuvre": {
+		"message": "Surface in work",
+		"translated": true
+	},
+	"Loyer mensuel pratiqué": {
+		"message": "Monthly rent charged",
+		"translated": true
+	},
+	"Clé de répartition par programme": {
+		"message": "Program allocation key",
+		"translated": true
+	},
+	"Nombre de lots commercialisés": {
+		"message": "Number of lots on the market",
+		"translated": true
+	},
+	"Niveau de Livraison": {
+		"message": "Delivery level",
+		"translated": true
+	},
+	"Mode d'intervention": {
+		"message": "How to intervene",
+		"translated": true
+	},
+	"Surface Utile": {
+		"message": "Useful surface",
+		"translated": true
+	},
+	"Surface Annexe": {
+		"message": "Surface Appendix",
+		"translated": true
+	},
+	"SHON": {
+		"message": "Shon",
+		"translated": true
+	},
+	"SHOB": {
+		"message": "SHOB",
+		"translated": true
+	},
+	"SDO": {
+		"message": "Sdo",
+		"translated": true
+	},
+	"Ecart": {
+		"message": "Gap",
+		"translated": true
+	},
+	"Propagation de \"{{titleAction}}\"": {
+		"message": "Propagation of 'titleAction'",
+		"translated": true
+	},
+	"Démolition": {
+		"message": "Demolition",
+		"translated": true
+	},
+	"Tranches Locatives": {
+		"message": "Rental slices",
+		"translated": true
+	},
+	"Logements": {
+		"message": "Housing",
+		"translated": true
+	},
+	"Réservataires": {
+		"message": "Reservists",
+		"translated": true
+	},
+	"Lots Principaux": {
+		"message": "Main Lots",
+		"translated": true
+	},
+	"Lots Secondaires": {
+		"message": "Secondary lots",
+		"translated": true
+	},
+	"Tranche Locative Caractéristiques": {
+		"message": "Rental Slice Features",
+		"translated": true
+	},
+	"Tranche Locative Typologie": {
+		"message": "Typology Rental Slice",
+		"translated": true
+	},
+	"Tranche Locative": {
+		"message": "Rental slice",
+		"translated": true
+	},
+	"Pièces comptables": {
+		"message": "Pièces comptables"
+	},
+	"Ecritures comptables": {
+		"message": "Ecritures comptables"
+	},
+	"Journal": {
+		"message": "Journal"
+	},
+	"Journaux": {
+		"message": "Journaux"
+	},
+	"Action et acteurs associés": {
+		"message": "Action et acteurs associés"
+	},
+	"Association": {
+		"message": "Association"
+	},
+	"Code procédure": {
+		"message": "Code procédure"
+	},
+	"Poste de recette CA": {
+		"message": "Poste de recette CA"
+	},
+	"Poste de recette TMA": {
+		"message": "Poste de recette TMA"
+	},
+	"Poste de recette désistement": {
+		"message": "Poste de recette désistement"
+	},
+	"Poste de recette résolution": {
+		"message": "Poste de recette résolution"
+	},
+	"Poste dation": {
+		"message": "Poste dation"
+	},
+	"Poste remise Psla": {
+		"message": "Poste remise Psla"
+	},
+	"Retour à la liste des pièces": {
+		"message": "Retour à la liste des pièces"
+	},
+	"id": {
+		"message": "id"
+	},
+	"Date transfert": {
+		"message": "Date transfert"
+	},
+	"N° pièce": {
+		"message": "N° pièce"
+	},
+	"Montant Crédit": {
+		"message": "Montant Crédit"
+	},
+	"Montant Débit": {
+		"message": "Montant Débit"
+	},
+	"N° ligne": {
+		"message": "N° ligne"
+	},
+	"Sens": {
+		"message": "Sens"
+	},
+	"Compte analytique": {
+		"message": "Compte analytique"
+	},
+	"Compte auxiliaire": {
+		"message": "Compte auxiliaire"
+	},
+	"Code schéma": {
+		"message": "Code schéma"
+	},
+	"N° ligne schéma": {
+		"message": "N° ligne schéma"
+	},
+	"Témoin sous-pièce": {
+		"message": "Témoin sous-pièce"
+	},
+	"N° sous-pièce": {
+		"message": "N° sous-pièce"
+	},
+	"Type journal": {
+		"message": "Type journal"
+	},
+	"Loué": {
+		"message": "Loué"
+	},
+	"Résolu / Résilié": {
+		"message": "Résolu / Résilié"
+	},
+	"Revenir à l'état de vente": {
+		"message": "Revenir à l'état de vente"
+	},
+	"Revenir à l'état de réservation / loué": {
+		"message": "Revenir à l'état de réservation / loué"
+	},
+	"Annuler la Location": {
+		"message": "Annuler la Location"
+	},
+	"Revenir à l'état de réservation": {
+		"message": "Revenir à l'état de réservation"
+	},
+	"Code sStatut": {
+		"message": "Code sStatut"
+	},
+	"Date de signature du contrat préliminaire": {
+		"message": "Date de signature du contrat préliminaire"
+	},
+	"Date de signature du contrat de location": {
+		"message": "Date de signature du contrat de location"
+	},
+	"Levée d’option": {
+		"message": "Levée d’option"
+	},
+	"Courrier": {
+		"message": "Courrier"
+	},
+	"Code action": {
+		"message": "Code action"
+	},
+	"Code expéditeur": {
+		"message": "Code expéditeur"
+	},
+	"Expéditeur": {
+		"message": "Expéditeur"
+	},
+	"Destinataire": {
+		"message": "Destinataire"
+	},
+	"Signataire 1": {
+		"message": "Signataire 1"
+	},
+	"Signataire 2": {
+		"message": "Signataire 2"
+	},
+	"Poste budgétaire produit financier": {
+		"message": "Poste budgétaire produit financier"
+	},
+	"Filtrer les documents": {
+		"message": "Filtrer les documents"
+	},
+	"Afficher tous": {
+		"message": "Afficher tous"
+	},
+	"Afficher uniquement les documents joints": {
+		"message": "Afficher uniquement les documents joints"
+	},
+	"Afficher uniquement les éditions": {
+		"message": "Afficher uniquement les éditions"
+	},
+	"Date d'envoi": {
+		"message": "Date d'envoi"
+	},
+	"Signataires": {
+		"message": "Signataires"
+	},
+	"Modèle utilisé": {
+		"message": "Modèle utilisé"
+	},
+	"Résiliation": {
+		"message": "Résiliation"
+	},
+	"Lever l'option": {
+		"message": "Lever l'option"
+	},
+	"Louer": {
+		"message": "Louer"
+	},
+	"Date de simulation": {
+		"message": "Date de simulation"
+	},
+	"Date d’entrée dans les lieux": {
+		"message": "Date d’entrée dans les lieux"
+	},
+	"Date minimum de levée d’option": {
+		"message": "Date minimum de levée d’option"
+	},
+	"Date limite de levée d’option": {
+		"message": "Date limite de levée d’option"
+	},
+	"Date de levée d’option": {
+		"message": "Date de levée d’option"
+	},
+	"Date de demande de levée d’option": {
+		"message": "Date de demande de levée d’option"
+	},
+	"Date d’attestation d’assurance": {
+		"message": "Date d’attestation d’assurance"
+	},
+	"Date d’agrément définitive": {
+		"message": "Date d’agrément définitive"
+	},
+	"Date d’agrément provisoire": {
+		"message": "Date d’agrément provisoire"
+	},
+	"Part locative": {
+		"message": "Part locative"
+	},
+	"Part acquisitive": {
+		"message": "Part acquisitive"
+	},
+	"Autres charges": {
+		"message": "Autres charges"
+	},
+	"Aides": {
+		"message": "Aides"
+	},
+	"Révisions de loyers": {
+		"message": "Révisions de loyers"
+	},
+	"Remise annuelle (%)": {
+		"message": "Remise annuelle (%)"
+	},
+	"Remise en €": {
+		"message": "Remise en €"
+	},
+	"Total part acquisitive": {
+		"message": "Total part acquisitive"
+	},
+	"Régularisation loyer en €": {
+		"message": "Régularisation loyer en €"
+	},
+	"Régularisation charges en €": {
+		"message": "Régularisation charges en €"
+	},
+	"Externe": {
+		"message": "Externe"
+	},
+	"Interne": {
+		"message": "Interne"
+	},
+	"Acteurs": {
+		"message": "Acteurs"
+	},
+	"Ajouter des acteurs à la procédure": {
+		"message": "Ajouter des acteurs à la procédure"
+	},
+	"Dissocier les acteurs sélectionnés de la procédure": {
+		"message": "Dissocier les acteurs sélectionnés de la procédure"
+	},
+	"Retour à la procédure": {
+		"message": "Retour à la procédure"
+	},
+	"Propagation": {
+		"message": "Propagation"
+	},
+	"Propagation d'une action sur les opérations existantes": {
+		"message": "Propagation d'une action sur les opérations existantes"
+	},
+	"Acteurs de la procédure": {
+		"message": "Acteurs de la procédure"
+	},
+	"Editions": {
+		"message": "Editions"
+	},
+	"Paramétrage des Editions": {
+		"message": "Paramétrage des Editions"
+	},
+	"Acteur (qui fait ?)": {
+		"message": "Acteur (qui fait ?)"
+	},
+	"Redevance": {
+		"message": "Redevance"
+	},
+	"Mode de réglement de la redevance": {
+		"message": "Mode de réglement de la redevance"
+	},
+	"Autre remise en €": {
+		"message": "Autre remise en €"
+	},
+	"A encaisser en €": {
+		"message": "A encaisser en €"
+	},
+	"Durée entre l'entrée dans les lieux et la levée d'option": {
+		"message": "Durée entre l'entrée dans les lieux et la levée d'option"
+	},
+	"Date d’obtention de l’agrément provisoire": {
+		"message": "Date d’obtention de l’agrément provisoire"
+	},
+	"Date d’obtention de l’agrément définitif": {
+		"message": "Date d’obtention de l’agrément définitif"
+	},
+	"Date de dernière remise": {
+		"message": "Date de dernière remise"
+	},
+	"date1": {
+		"message": "date1"
+	},
+	"date2": {
+		"message": "date2"
+	},
+	"date3": {
+		"message": "date3"
+	},
+	"date4": {
+		"message": "date4"
+	},
+	"date5": {
+		"message": "date5"
+	},
+	"datePSLA1": {
+		"message": "datePSLA1"
+	},
+	"datePSLA2": {
+		"message": "datePSLA2"
+	},
+	"datePSLA3": {
+		"message": "datePSLA3"
+	},
+	"datePSLA4": {
+		"message": "datePSLA4"
+	},
+	"datePSLA5": {
+		"message": "datePSLA5"
+	},
+	"datePSLA6": {
+		"message": "datePSLA6"
+	},
+	"Décompte": {
+		"message": "Décompte"
+	},
+	"Ajouter -->": {
+		"message": "Ajouter -->"
+	},
+	"<-- Enlever": {
+		"message": "<-- Enlever"
+	},
+	"Champs": {
+		"message": "Champs"
+	},
+	"Champs selectionnés": {
+		"message": "Champs selectionnés"
+	},
+	"Choix du paramétrage société type": {
+		"message": "Choix du paramétrage société type"
+	},
+	"Promoteur": {
+		"message": "Promoteur"
+	},
+	"Ecritures d'engagement Prix de revient": {
+		"message": "Ecritures d'engagement Prix de revient"
+	},
+	"Ecritures d'engagement Financement": {
+		"message": "Ecritures d'engagement Financement"
+	},
+	"Ecritures de financement": {
+		"message": "Ecritures de financement"
+	},
+	"Ecritures avec LASM provisionnée": {
+		"message": "Ecritures avec LASM provisionnée"
+	},
+	"Ecritures LASM avant création secteur": {
+		"message": "Ecritures LASM avant création secteur"
+	},
+	"Schéma": {
+		"message": "Schéma"
+	},
+	"Type de régime": {
+		"message": "Type de régime"
+	},
+	"Libellé type": {
+		"message": "Libellé type"
+	},
+	"Code acteur": {
+		"message": "Code acteur"
+	},
+	"Id utilisateur": {
+		"message": "Id utilisateur"
+	},
+	"Code Répresentant": {
+		"message": "Code Répresentant"
+	},
+	"Périmètre d'intervention": {
+		"message": "Périmètre d'intervention"
+	},
+	"Répresentant": {
+		"message": "Répresentant"
+	},
+	"Collaborateur": {
+		"message": "Collaborateur"
+	},
+	"Ajouter un Tiers": {
+		"message": "Ajouter un Tiers"
+	},
+	"Modification du Tiers": {
+		"message": "Modification du Tiers"
+	},
+	"Suivi Dossier": {
+		"message": "Suivi Dossier"
+	},
+	"Mail": {
+		"message": "Mail"
+	},
+	"Intervenants": {
+		"message": "Intervenants"
+	},
+	"Editer": {
+		"message": "Editer"
+	},
+	"Date d'agrément provisoire": {
+		"message": "Date d'agrément provisoire"
+	},
+	"Date d'agrément définitive": {
+		"message": "Date d'agrément définitive"
+	},
+	"Gestion du PSLA": {
+		"message": "Gestion du PSLA"
+	},
+	"Délai minimum de levée d’option (en mois)": {
+		"message": "Délai minimum de levée d’option (en mois)"
+	},
+	"Délai maximum de levée d’option (en années)": {
+		"message": "Délai maximum de levée d’option (en années)"
+	},
+	"Pourcentage de remise annuelle": {
+		"message": "Pourcentage de remise annuelle"
+	},
+	"Préfixe numérotation des lots": {
+		"message": "Préfixe numérotation des lots"
+	},
+	"Cumul": {
+		"message": "Cumul"
+	},
+	"Gauche": {
+		"message": "Gauche"
+	},
+	"Droite": {
+		"message": "Droite"
+	},
+	"Consolidation": {
+		"message": "Consolidation"
+	},
+	"Signe": {
+		"message": "Signe"
+	},
+	"Type montant": {
+		"message": "Type montant"
+	},
+	"Modéle": {
+		"message": "Modéle"
+	},
+	"Ouvrir modéle": {
+		"message": "Ouvrir modéle"
+	},
+	"Acteurs associés à la procédure \"{{titleProcedure}}\"": {
+		"message": "Acteurs associés à la procédure \"{{titleProcedure}}\""
+	},
+	"Les lots": {
+		"message": "Les lots"
+	},
+	"Les dates": {
+		"message": "Les dates"
+	},
+	"La redevance": {
+		"message": "La redevance"
+	},
+	"Schéma comptable {{societeTitle}} - {{libEvt}}": {
+		"message": "Schéma comptable {{societeTitle}} - {{libEvt}}"
+	},
+	"Schéma comptable {{lib}}": {
+		"message": "Schéma comptable {{lib}}"
+	},
+	"Code analytique de l'opération": {
+		"message": "Code analytique de l'opération"
+	},
+	"Intervenants pour \"{{libOperation}}\"": {
+		"message": "Intervenants pour \"{{libOperation}}\""
+	},
+	"Portail tiers - {{libelle}}": {
+		"message": "Portail tiers - {{libelle}}"
+	},
+	"Paramétrage PSLA": {
+		"message": "Paramétrage PSLA"
+	},
+	"Ajout nouveau détail poste": {
+		"message": "Ajout nouveau détail poste"
+	},
+	"Ajout nouveau détail cumul": {
+		"message": "Ajout nouveau détail cumul"
+	},
+	"Modéle de consolidation": {
+		"message": "Modéle de consolidation"
+	},
+	"Ajout nouveau modèle": {
+		"message": "Ajout nouveau modèle"
+	},
+	"Duplication du modèle \"{0}\"": {
+		"message": "Duplication du modèle \"{0}\""
+	},
+	"Modèles de consolidation": {
+		"message": "Modèles de consolidation"
+	},
+	"Paramétrage SPO": {
+		"message": "Paramétrage SPO"
+	},
+	"ADMINISTRATION ET CONTRÔLE DES ACCÈS": {
+		"message": "ADMINISTRATION ET CONTRÔLE DES ACCÈS"
+	},
+	"Verrous ADV": {
+		"message": "Verrous ADV"
+	},
+	"Langue (DEMO)": {
+		"message": "Langue (DEMO)"
+	},
+	"PROCÉDURE ET PLANNING": {
+		"message": "PROCÉDURE ET PLANNING"
+	},
+	"Liaison procédures dans le Planning": {
+		"message": "Liaison procédures dans le Planning"
+	},
+	"OPÉRATIONS": {
+		"message": "OPÉRATIONS"
+	},
+	"BUDGET": {
+		"message": "BUDGET"
+	},
+	"Associer un modèle de budget à une procédure": {
+		"message": "Associer un modèle de budget à une procédure"
+	},
+	"Associer un poste budgétaire de recette à un type d’ouvrage": {
+		"message": "Associer un poste budgétaire de recette à un type d’ouvrage"
+	},
+	"TRÉSORERIE": {
+		"message": "TRÉSORERIE"
+	},
+	"Modèle de consolidation": {
+		"message": "Modèle de consolidation"
+	},
+	"COMPTABILITÉ": {
+		"message": "COMPTABILITÉ"
+	},
+	"Schéma comptable": {
+		"message": "Schéma comptable"
+	},
+	"Exercice comptable": {
+		"message": "Exercice comptable"
+	},
+	"TRANCHES COMMERCIALES": {
+		"message": "TRANCHES COMMERCIALES"
+	},
+	"Codifications Tranche": {
+		"message": "Codifications Tranche"
+	},
+	"Codifications Dossier Client": {
+		"message": "Codifications Dossier Client"
+	},
+	"Natures de travaux": {
+		"message": "Natures de travaux"
+	},
+	"Paramétrage de l’avancement des tranches travaux": {
+		"message": "Paramétrage de l’avancement des tranches travaux"
+	},
+	"EDITIONS": {
+		"message": "EDITIONS"
+	},
+	"Paramétrage des éditions": {
+		"message": "Paramétrage des éditions"
+	},
+	"INTERFACE CRM": {
+		"message": "INTERFACE CRM"
+	},
+	" Passage des opérations du statut «lancé» au statut «achevé»": {
+		"message": " Passage des opérations du statut «lancé» au statut «achevé»"
+	},
+	"Associer un poste budgétaire de recette à un type d'ouvrage": {
+		"message": "Associer un poste budgétaire de recette à un type d'ouvrage"
+	}
+}

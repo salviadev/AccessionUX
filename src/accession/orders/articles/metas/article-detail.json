@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "name": "ArticleDetailView",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "code": {
+      "title": "Code",
+      "type": "string"
+    },
+    "libelle": {
+      "title": "Libelle",
+      "type": "string"
+    },
+    "tabs": {
+      "type": "string",
+      "enum": [],
+      "enumNames": []
+    },
+    "prix": {
+      "title": "Prix",
+      "type": "number",
+      "format": "money"
+    }
+  },
+  "states": {
+    "libelle": {
+      "isMandatory": true
+    },
+    "code": {
+      "isMandatory": true
+    }
+  },
+  "links": {
+    "save": {
+      "isSave": true
+    }
+  }
+}

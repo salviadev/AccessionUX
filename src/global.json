@@ -1,0 +1,30 @@
+{
+	"header": {
+		"alwaysShow": false,
+		"authLeftMenu": false,
+		"uppercase": true,
+		"align": "center"
+	},
+	"preferences": {
+		"excludedForms": [
+			"accession_form_grillePrix/forms/grille-prixX",
+			"accession_form_reservation/forms/reservation",
+			"accession_form_tiers-select-form",
+			"accession_form_tiers-select-form",
+			"accession_form_tiers-select-form",
+			"accession_form_option-pose-form",
+			"accession_form_option/forms/pose-option"
+		]
+	},
+	"homes": {
+		"accession": "home-page"
+	},
+	"portailName": "accession",
+	"authentication": {
+		"autoLogon": {
+			"force": "true",
+			"login": "Spo internal access",
+			"password": "Spo internal access"
+		}
+	}
+}
