@@ -1,0 +1,72 @@
+{
+  "type": "object",
+  "name": "ArticleDetailView",
+  "allOf": [
+    {
+      "$ref": "#/definitions/paginated-list"
+    }
+  ],
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "total": {
+      "type": "object",
+      "$ref": "#/definitions/articleDef"
+    },
+    "articles": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/articleDef"
+      },
+      "links": {
+        "add": {
+          "title": "Article",
+          "isNew": true,
+          "description": "Créer un article",
+          "ux": true
+        },
+        "refresh": {},
+        "$columns": {},
+        "remove": {
+          "isRemove": true,
+          "confirm": true,
+          "select": {
+            "multiselect": false
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "paginated-list": "tools/metas/paginated-list",
+    "articleDef": {
+      "type": "object",
+      "primaryKey": "id",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "code": {
+          "title": "Code",
+          "type": "string"
+        },
+        "libelle": {
+          "title": "Libelle",
+          "type": "string"
+        },
+        "prix": {
+          "title": "Prix",
+          "type": "number",
+          "format": "money"
+        }
+      },
+      "links": {
+        "modify": {
+          "ux": true,
+          "noRights": true
+        }
+      }
+    }
+  }
+}

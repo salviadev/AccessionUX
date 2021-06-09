@@ -42,6 +42,12 @@
                             }
                         },
                         {
+                            "$title": "Articles + Model",
+                            "$link": {
+                                "$page": "orders/articles/article-list-model"
+                            }
+                        },
+                        {
                             "$title": "Création d'un article",
                             "$link": {
                                 "$page": "orders/articles/article-detail"

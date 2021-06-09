@@ -1,12 +1,7 @@
 /// <reference types="@phoenix/phoenix-cli" />
 namespace Accession {
     let _p = Phoenix,
-        _ui = _p.ui,
-        _dom = _p.dom,
-        _utils = _p.utils,
-        _link = _p.link,
-        _customData = _p.customData,
-        _data = _p.data;
+        _customData = _p.customData;
     export class ArticleController extends Phoenix.ui.FormController {
         public onModelChanged(action, model, form) {
             const that = this;

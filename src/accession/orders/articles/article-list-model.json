@@ -1,0 +1,20 @@
+{
+	"name": "article-list-model",
+	"$menus": {
+		"left": "detail"
+	},
+	"$items": [
+		{
+			"$config": {
+				"$titleIsHidden": true,
+				"form": {
+					"name": "orders/articles/forms/article-list-model",
+					"meta": "orders/articles/metas/article-list-model",
+					"controller": "accession.sync.articles-model.controller"
+				},
+				"$type": "form"
+			}
+		}
+	],
+	"$type": "block"
+}

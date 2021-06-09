@@ -1,0 +1,150 @@
+{
+  "name": "article-list-model",
+  "$type": "block",
+  "datasets": {
+    "main": {
+      "name": "main",
+      "$type": "sync",
+      "$params": {
+        "$persistent": true,
+        "$entity": "ArticlesModel"
+      }
+    }
+  },
+  "$items": [
+    {
+      "$title": {
+        "value": "Articles",
+        "$style": "$spo-h2",
+        "size": 4
+      },
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "search",
+          "$widget": "search",
+          "options": {
+            "after": {
+              "$bind": "$links.search"
+            }
+          }
+        },
+        {
+          "$bind": "modelCode",
+          "$lookup": "model",
+          "$widget": "select-relation",
+          "options": {
+            "titleIsHidden": true,
+            "code": "code",
+            "title": "libelle"
+          }
+        },
+        {
+          "$bind": "articles",
+          "$widget": "array-actions",
+          "options": {
+            "gridName": "articles-grid",
+            "options": {
+              "icon": "bars",
+              "titleIsHidden": false
+            },
+            "right": false,
+            "links": [
+              {
+                "name": "$filter",
+                "important": true
+              },
+              {
+                "name": "add",
+                "important": true
+              },
+              {
+                "name": "remove",
+                "important": true
+              },
+              {
+                "name": "$columns",
+                "important": true
+              }
+            ]
+          }
+        },
+        {
+          "$bind": "models",
+          "$widget": "array-actions",
+          "options": {
+            "gridName": "articles-grid",
+            "options": {
+              "icon": "bars",
+              "titleIsHidden": false
+            },
+            "links": [
+              {
+                "name": "saveModel"
+              },
+              {
+                "name": "manageModels"
+              }
+            ]
+          }
+        }
+      ],
+      "$inline": true
+    },
+    {
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "articles",
+          "$widget": "filter-summary"
+        }
+      ]
+    },
+    {
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "articles",
+          "$widget": "basicgrid",
+          "$name": "articles-grid",
+          "options": {
+            "autofocus": true,
+            "allowColumnMove": true,
+            "allowColumnResize": true,
+            "align": "middle",
+            "border": true,
+            "striped": true,
+            "selecting": {
+              "row": true,
+              "cell": false
+            },
+            "total": {
+              "property": "total"
+            },
+            "headerIsHidden": false,
+            "editing": false,
+            "columns": [
+              {
+                "$bind": "code"
+              },
+              {
+                "$bind": "libelle",
+                "options": {
+                  "actionName": "modify"
+                }
+              },
+              {
+                "$bind": "prix"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "$type": "block",
+      "$items": []
+    }
+  ],
+  "form": true
+}
