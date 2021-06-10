@@ -58,6 +58,12 @@
                             "$link": {
                                 "$page": "orders/tiers/tiers-list"
                             }
+                        },
+                        {
+                            "$title": "Factures",
+                            "$link": {
+                                "$page": "orders/factures/factures"
+                            }
                         }
                     ]
                 },

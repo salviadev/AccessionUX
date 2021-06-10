@@ -1,0 +1,111 @@
+{
+	"name": "facture-detail",
+	"$type": "block",
+	"datasets": {
+		"main": {
+			"name": "main",
+			"$type": "sync",
+			"$params": {
+				"$entity": "FactureDetail",
+				"$data": {
+					"code": "$url.code"
+				}
+			}
+		}
+	},
+	"$items": [
+		{
+			"$type": "block",
+			"$items": [
+				{
+					"$bind": "libelle"
+				},
+				{
+					"$bind": "libTiers",
+          "$lookup": "tiers"
+				}
+			]
+		},
+    {
+      "$title": {
+        "value": "Lignes",
+        "$style": "$spo-h2",
+        "size": 4
+      },
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "lignes",
+          "$widget": "array-actions",
+          "options": {
+            "options": {
+              "icon": "bars",
+              "titleIsHidden": false
+            },
+            "right": false,
+            "links": [
+              {
+                "name": "add",
+                "important": true
+              },
+              {
+                "name": "remove",
+                "important": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+		{
+			"$type": "block",
+			"$items": [
+				{
+          "$bind": "lignes",
+          "$widget": "basicgrid",
+          "options": {
+            "autofocus": true,
+            "allowColumnMove": true,
+            "allowColumnResize": true,
+            "align": "middle",
+            "border": true,
+            "striped": true,
+            "selecting": {
+              "row": true,
+              "cell": true
+            },
+            "headerIsHidden": false,
+            "editing": true,
+            "columns": [
+              {
+                "$bind": "libArticle",
+                "options": {
+                  "$lookup": "articles"
+
+                }
+              },
+              {
+                "$bind": "libelle"
+              },
+              {
+                "$bind": "montant"
+              }
+            ]
+          }
+        }
+        
+			]
+		},
+		{
+			"$type": "block",
+			"$items": [
+				{
+					"$bind": "$links.save"
+				}
+			],
+			"$inline": true,
+			"$sticky": "bottom"
+		}
+	],
+	"form": true
+}

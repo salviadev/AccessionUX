@@ -1,0 +1,88 @@
+{
+  "name": "factures",
+  "$type": "block",
+  "datasets": {
+    "main": {
+      "name": "main",
+      "$type": "sync",
+      "$params": {
+        "$entity": "Factures"
+      }
+    }
+  },
+  "$items": [
+    {
+      "$title": {
+        "value": "Factures",
+        "$style": "$spo-h2",
+        "size": 4
+      },
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "factures",
+          "$widget": "array-actions",
+          "options": {
+            "options": {
+              "icon": "bars",
+              "titleIsHidden": false
+            },
+            "right": false,
+            "links": [
+              {
+                "name": "add",
+                "important": true
+              },
+              {
+                "name": "remove",
+                "important": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "factures",
+          "$widget": "basicgrid",
+          "options": {
+            "autofocus": true,
+            "allowColumnMove": true,
+            "allowColumnResize": true,
+            "align": "middle",
+            "border": true,
+            "striped": true,
+            "selecting": {
+              "row": true,
+              "cell": false
+            },
+            "headerIsHidden": false,
+            "editing": false,
+            "columns": [
+              {
+                "$bind": "code"
+              },
+              {
+                "$bind": "libelle",
+                "options": {
+                  "actionName": "modify"
+                }
+              },
+              {
+                "$bind": "montant"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "$type": "block",
+      "$items": []
+    }
+  ],
+  "form": true
+}

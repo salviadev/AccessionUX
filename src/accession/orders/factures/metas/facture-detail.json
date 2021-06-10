@@ -1,0 +1,161 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "code": {
+      "title": "Code",
+      "type": "string"
+    },
+    "libelle": {
+      "title": "Libelle",
+      "type": "string"
+    },
+    "codeTiers": {
+      "title": "Code Tiers",
+      "type": "string"
+    },
+    "libTiers": {
+      "title": "Tiers",
+      "type": "string"
+    },
+    "lignes": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/lineDef"
+      },
+      "links": {
+        "add": {
+          "title": "Montant",
+          "isNew": true
+        },
+        "remove": {
+          "isRemove": true,
+          "confirm": true,
+          "select": {
+            "multiselect": false
+          }
+        }
+      }
+    }
+  },
+  "states": {
+    "libelle": {
+      "isMandatory": true
+    }
+  },
+  "links": {
+    "save": {
+      "isSave": true
+    }
+  },
+  "lookups": {
+    "tiers": {
+      "data": {
+        "$type": "find",
+        "$params": {
+          "$entity": "Tiers",
+          "$orderby": "code"
+        }
+      },
+      "schema": {
+        "type": "object",
+        "properties": {
+          "documents": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "name": "Tiers",
+              "primaryKey": "code",
+              "properties": {
+                "code": {
+                  "type": "string",
+                  "title": "Code",
+                  "capabilities": "searchable,sortable,filtrable"
+                },
+                "libelle": {
+                  "title": "Libellé",
+                  "type": "string",
+                  "capabilities": "searchable,sortable,filtrable"
+                }
+              }
+            }
+          }
+        }
+      },
+      "mapping": {
+        "codeTiers": "code",
+        "libTiers": "libelle"
+      }
+    }
+  },
+  "definitions": {
+    "lineDef": {
+      "type": "object",
+      "primaryKey": "id",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "codeArticle": {
+          "title": "Code Article",
+          "type": "string"
+        },
+        "libArticle": {
+          "title": "Article",
+          "type": "string"
+        },
+        "montant": {
+          "title": "Montant",
+          "type": "number",
+          "format": "money"
+        },
+        "libelle": {
+          "title": "Libelle",
+          "type": "string"
+        }
+      },
+      "lookups": {
+        "articles": {
+          "data": {
+            "$type": "find",
+            "$params": {
+              "$entity": "Article",
+              "$orderby": "code"
+            }
+          },
+          "schema": {
+            "type": "object",
+            "properties": {
+              "documents": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "name": "Tiers",
+                  "primaryKey": "code",
+                  "properties": {
+                    "code": {
+                      "type": "string",
+                      "title": "Code",
+                      "capabilities": "searchable,sortable,filtrable"
+                    },
+                    "libelle": {
+                      "title": "Libellé",
+                      "type": "string",
+                      "capabilities": "searchable,sortable,filtrable"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "mapping": {
+            "codeArticle": "code",
+            "libArticle": "libelle"
+          }
+        }
+      }
+    }
+  }
+}
