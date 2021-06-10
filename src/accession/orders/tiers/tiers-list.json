@@ -1,0 +1,20 @@
+{
+  "name": "tiers-list",
+  "$menus": {
+    "left": "detail"
+  },
+  "$items": [
+    {
+      "$config": {
+        "$titleIsHidden": true,
+        "form": {
+          "name": "orders/tiers/forms/tiers-list",
+          "meta": "orders/tiers/metas/tiers-list",
+          "controller": "accession.sync.tiers.controller"
+        },
+        "$type": "form"
+      }
+    }
+  ],
+  "$type": "block"
+}

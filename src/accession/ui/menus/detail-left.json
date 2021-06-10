@@ -52,6 +52,12 @@
                             "$link": {
                                 "$page": "orders/articles/article-detail"
                             }
+                        },
+                        {
+                            "$title": "Tiers",
+                            "$link": {
+                                "$page": "orders/tiers/tiers-list"
+                            }
                         }
                     ]
                 },

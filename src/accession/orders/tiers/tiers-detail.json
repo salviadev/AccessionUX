@@ -1,0 +1,20 @@
+{
+  "name": "tiers-detail",
+  "$menus": {
+    "left": "detail"
+  },
+  "$items": [
+    {
+      "$config": {
+        "$titleIsHidden": true,
+        "form": {
+          "name": "orders/tiers/forms/tiers-detail",
+          "meta": "orders/tiers/metas/tiers-detail",
+          "controller": "phoenix.empty.controller"
+        },
+        "$type": "form"
+      }
+    }
+  ],
+  "$type": "block"
+}

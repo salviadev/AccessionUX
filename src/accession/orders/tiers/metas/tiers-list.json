@@ -1,0 +1,54 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "tiers": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/tiersDef"
+      },
+      "links": {
+        "add": {
+          "title": "Tiers",
+          "isNew": true,
+          "description": "Créer un tiers",
+          "ux": true
+        },
+        "remove": {
+          "isRemove": true,
+          "confirm": true,
+          "select": {
+            "multiselect": false
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "tiersDef": {
+      "type": "object",
+      "primaryKey": "id",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "code": {
+          "title": "Code",
+          "type": "string"
+        },
+        "libelle": {
+          "title": "Libelle",
+          "type": "string"
+        }
+      },
+      "links": {
+        "modify": {
+          "ux": true,
+          "noRights": true
+        }
+      }
+    }
+  }
+}

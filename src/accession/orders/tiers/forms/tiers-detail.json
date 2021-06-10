@@ -1,0 +1,40 @@
+{
+  "name": "tiers-detail",
+  "$type": "block",
+  "datasets": {
+    "main": {
+      "name": "main",
+      "$type": "sync",
+      "$params": {
+        "$entity": "TiersDetail",
+        "$data": {
+          "code": "$url.code"
+        }
+      }
+    }
+  },
+  "$items": [
+    {
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "code"
+        },
+        {
+          "$bind": "libelle"
+        }
+      ]
+    },
+    {
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "$links.save"
+        }
+      ],
+      "$inline": true,
+      "$sticky": "bottom"
+    }
+  ],
+  "form": true
+}
