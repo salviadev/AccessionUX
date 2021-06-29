@@ -1,6 +1,7 @@
 /// <reference types="@phoenix/phoenix-cli" />
 namespace Accession {
     let _p = Phoenix,
+        _ui = Phoenix.ui,
         _customData = _p.customData;
     export class TiersController extends Phoenix.ui.FormController {
         public onModelChanged(action, model, form) {
@@ -15,11 +16,12 @@ namespace Accession {
                     });
                     break;
                 case 'tiers.$item.$links.modify':
-                    form.navigate('orders/tiers/tiers-detail', {
-                        canGoBack: true,
-                        checkForChanges: true,
-                        urlSearch: { code: action.actionParams.code }
-                    });
+                    _ui.showModalForm({
+                        name: 'orders/tiers/forms/tiers-detail-modal', // form name 
+                        meta: 'orders/tiers/metas/tiers-detail', // meta name
+                        controller: 'phoenix.empty.controller', // controller
+                        options: { noClose: true, title: form.t.tiers, buttons: [{ pattern: 'abandon', close: true }, { pattern: 'validate' }] } // modal title && buttons
+                    }, { code: action.actionParams.code })
                     break;
 
             }

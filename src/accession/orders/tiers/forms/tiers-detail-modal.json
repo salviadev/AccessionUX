@@ -1,0 +1,30 @@
+{
+  "name": "tiers-detail-modal",
+  "$type": "block",
+  "datasets": {
+    "main": {
+      "name": "main",
+      "$type": "sync",
+      "$params": {
+        "$entity": "TiersDetail",
+        "$data": {
+          "code": "$url.code"
+        }
+      }
+    }
+  },
+  "$items": [
+    {
+      "$type": "block",
+      "$items": [
+        {
+          "$bind": "code"
+        },
+        {
+          "$bind": "libelle"
+        }
+      ]
+    }
+  ],
+  "form": true
+}
