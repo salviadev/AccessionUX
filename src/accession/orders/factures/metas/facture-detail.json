@@ -20,6 +20,19 @@
       "title": "Tiers",
       "type": "string"
     },
+    "total": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "montant": {
+          "type": "number",
+          "format": "money"
+        }
+
+      }
+    },
     "lignes": {
       "type": "array",
       "items": {
@@ -33,9 +46,7 @@
         "remove": {
           "isRemove": true,
           "confirm": true,
-          "select": {
-            "multiselect": false
-          }
+          "select": {}
         }
       }
     }

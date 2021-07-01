@@ -74,6 +74,9 @@
               "row": true,
               "cell": true
             },
+            "total": {
+              "property": "total"
+            },
             "headerIsHidden": false,
             "editing": true,
             "columns": [
