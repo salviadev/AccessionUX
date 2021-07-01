@@ -1,0 +1,50 @@
+{
+    "type": "object",
+    "primaryKey": [
+        "id"
+    ],
+    "properties": {
+        "id": {
+            "title": "Id",
+            "type": "integer"
+        },
+        "postes": {
+            "expanded": true,
+            "children": "postes",
+            "type": "array",
+            "items": {
+                "$ref": "#/definitions/PosteDef"
+            }
+        }
+    },
+    "definitions": {
+        "PosteDef": {
+            "type": "object",
+            "primaryKey": [
+                "id"
+            ],
+            "properties": {
+                "id": {
+                    "title": "Id",
+                    "type": "integer"
+                },
+                "code": {
+                    "title": "Code Poste",
+                    "type": "string"
+                },
+                "title": {
+                    "title": "Poste",
+                    "type": "string"
+                },
+                "postes": {
+                    "autoSelect": false,
+                    "expanded": true,
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/PosteDef"
+                    }
+                }
+            }
+        }
+    }
+}

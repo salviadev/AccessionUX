@@ -1,0 +1,59 @@
+{
+	"name": "postes",
+	"$type": "block",
+	"datasets": {
+		"main": {
+			"name": "main",
+			"$type": "sync",
+			"$params": {
+				"$entity": "Postes",
+				"$data": {}
+			}
+		}
+	},
+	"$items": [
+		{
+			"$type": "block",
+			"$items": [
+				{
+					"$bind": "postes",
+					"$widget": "basicgrid",
+					"options": {
+						"expandingProperty": "postes",
+						"selecting": {
+							"row": true,
+							"multiselect": true
+						},
+						"height": 500,
+						"bottom": 50,
+						"scrolling": {
+							"horizontal": true,
+							"vertical": true
+						},
+						"expanding": {
+							"plus": "plus-squared",
+							"minus": "minus-squared",
+							"iconClass": "accession",
+							"style": "accession-expand-color"
+						},
+						"columns": [
+							{
+								"$bind": "$expand",
+								"options": {
+									"display": "title"
+								}
+							},
+							{
+								"$bind": "code"
+							},
+							{
+								"$bind": "title"
+							}
+						]
+					}
+				}
+			]
+		}
+	],
+	"form": true
+}

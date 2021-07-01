@@ -64,6 +64,12 @@
                             "$link": {
                                 "$page": "orders/factures/factures"
                             }
+                        },
+                        {
+                            "$title": "Postes",
+                            "$link": {
+                                "$page": "budget/postes"
+                            }
                         }
                     ]
                 },
